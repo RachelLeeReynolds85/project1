@@ -8,3 +8,18 @@
 * Would make for fun visualizations fo number of bird sightings and different bird species
 
 
+----------------------
+### Issues:
+1. Notable birds in region - try Texas or Austin (Houston!!) -- pick a few wildlife refuges / on the coast / national seashore / etc
+
+2. State by state total number of observations during two or more different time periods -- maybe bar chart by season? or plotly map of states in US with total # observations?
+
+3. Historical weather -- free from NOAA API (requires GIT header) or OpenWeatherMap 
+
+4. Endangered species historical search -- "data deficiency as a proxy for endangered bird species"
+
+5. Just for fun: bird sightings on historic days
+
+6. Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
+
+7. Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?)
