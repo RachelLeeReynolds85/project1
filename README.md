@@ -10,21 +10,21 @@
 
 ----------------------
 ### Issues:
-1. DAVID - Notable birds in region - try Texas or Austin (Houston!!) -- pick a few wildlife refuges / on the coast / national seashore / etc
+**1. DAVID** - Notable birds in region - try Texas or Austin (Houston!!) -- pick a few wildlife refuges / on the coast / national seashore / etc
 
-2. BRAD - State by state total number of observations during two or more different time periods -- maybe bar chart by season? or plotly map of states in US with total # observations?
+**2. BRAD** - State by state total number of observations during two or more different time periods -- maybe bar chart by season? or plotly map of states in US with total # observations?
 
-3. JUGAL - Historical weather -- free from NOAA API (requires GIT header) or OpenWeatherMap 
+**3. JUGAL** - Historical weather -- free from NOAA API (requires GIT header) or OpenWeatherMap 
 
-4. STEPHEN - Endangered species historical search -- "data deficiency as a proxy for endangered bird species"
+**4. STEPHEN** - Endangered species historical search -- "data deficiency as a proxy for endangered bird species"
 
-5. RACHEL - Just for fun: bird sightings on historic days
+**5. RACHEL** - Just for fun: bird sightings on historic days
 
-6. STEPHEN - Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
+**6. STEPHEN** - Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
 
-7. MARIA - Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?) -- maybe pick a specific region and determine the earliest/latest date that a particular migratory species arrives/departs the area?
+**7. MARIA** - Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?) -- maybe pick a specific region and determine the earliest/latest date that a particular migratory species arrives/departs the area?
 
----Ed's Crazy Ideas---
+*-------Ed's Crazy Ideas-------*
 
 8. RACHEL(?) - monk parakeet now vs then
 
@@ -33,12 +33,22 @@
 
 ----------------------
 ### Timeline:
-* Tue 22nd - Plan & assign "issues" (topics/questions)
-* Thurs 24th - Check in on initial issue attempts / problem solving -- **first attempt at merging!** (we record)
-* Sat 26th - Cross-talk -- some issues --> putting individual pieces into defined functions (keeps them separate in the master code?)
-* Tue 29th - Come with a draft of plots -- Double check all project requirements met -- readdress/fix as needed
-* Thur 1st - Making into a story / polishing / ready for presentation / practice
-* Sat 3rd - PROJECT DUE! PRESENTATION
+* Tue 22nd
+    * Plan & assign "issues" (topics/questions)
+* Thurs 24th 
+    * Check in on initial issue attempts 
+    * problem solving 
+    * **first attempt at merging!** 
+    * *we should record this for reference*
+* Sat 26th 
+    * Cross-talk any issues that overlap
+    * putting individual pieces into defined functions (keeps them separate in the master code?)
+* Tue 29th 
+    * Come with a draft of plots 
+    * Double check all project requirements met -- readdress/fix as needed
+* Thur 1st 
+    * Making into a story / polishing / ready for presentation / practice
+* Sat 3rd - **PROJECT DUE! PRESENTATION**
 
 
 ----------------------
