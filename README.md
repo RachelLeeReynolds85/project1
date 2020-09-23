@@ -22,7 +22,13 @@
 
 6. STEPHEN - Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
 
-7. MARIA - Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?)
+7. MARIA - Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?) -- maybe pick a specific region and determine the earliest/latest date that a particular migratory species arrives/departs the area?
+
+---Ed's Crazy Ideas---
+
+8. RACHEL(?) - monk parakeet now vs then
+
+9. Migration vs light pollution dataset? (darksky/darkskies)
 
 
 ----------------------
@@ -30,7 +36,23 @@
 * Tue 22nd - Plan & assign "issues" (topics/questions)
 * Thurs 24th - Check in on initial issue attempts / problem solving -- **first attempt at merging!** (we record)
 * Sat 26th - Cross-talk -- some issues --> putting individual pieces into defined functions (keeps them separate in the master code?)
-* Tue 29th - Double check all project requirements met -- readdress/fix as needed
+* Tue 29th - Come with a draft of plots -- Double check all project requirements met -- readdress/fix as needed
 * Thur 1st - Making into a story / polishing / ready for presentation / practice
 * Sat 3rd - PROJECT DUE! PRESENTATION
 
+
+----------------------
+### Notes:
+#### Data Cleaning
+* Location names not necessarily informative (e.g. "My House") -- instead rely on location id, region code, lat/lon, etc
+* Bird species -- terms like "sp." "spp." and "species" indicate the observation is generic (particular species unknown / not identified) -- should probably pull out any instances of the above when counting "unique species"
+
+
+----------------------
+### Ed Recommendations:
+* Problems merging Jupyter Notebook: when ready to commit, **convert notebook to python script and push** 
+
+from terminal: jupyter nbconvert --to python notebook.ipynb
+
+* can set on github only one person push to master (make master a protected branch)
+* plotly recommended
