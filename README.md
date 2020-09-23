@@ -10,16 +10,27 @@
 
 ----------------------
 ### Issues:
-1. Notable birds in region - try Texas or Austin (Houston!!) -- pick a few wildlife refuges / on the coast / national seashore / etc
+1. DAVID - Notable birds in region - try Texas or Austin (Houston!!) -- pick a few wildlife refuges / on the coast / national seashore / etc
 
-2. State by state total number of observations during two or more different time periods -- maybe bar chart by season? or plotly map of states in US with total # observations?
+2. BRAD - State by state total number of observations during two or more different time periods -- maybe bar chart by season? or plotly map of states in US with total # observations?
 
-3. Historical weather -- free from NOAA API (requires GIT header) or OpenWeatherMap 
+3. JUGAL - Historical weather -- free from NOAA API (requires GIT header) or OpenWeatherMap 
 
-4. Endangered species historical search -- "data deficiency as a proxy for endangered bird species"
+4. STEPHEN - Endangered species historical search -- "data deficiency as a proxy for endangered bird species"
 
-5. Just for fun: bird sightings on historic days
+5. RACHEL - Just for fun: bird sightings on historic days
 
-6. Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
+6. STEPHEN - Find a list of endagered / threatened / least concern birds & try to merge with a group of sightings
 
-7. Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?)
+7. MARIA - Migratory patterns -- pick one species, find sightings throughout the year -- plot counts in different regions (seasonally?)
+
+
+----------------------
+### Timeline:
+* Tue 22nd - Plan & assign "issues" (topics/questions)
+* Thurs 24th - Check in on initial issue attempts / problem solving -- **first attempt at merging!** (we record)
+* Sat 26th - Cross-talk -- some issues --> putting individual pieces into defined functions (keeps them separate in the master code?)
+* Tue 29th - Double check all project requirements met -- readdress/fix as needed
+* Thur 1st - Making into a story / polishing / ready for presentation / practice
+* Sat 3rd - PROJECT DUE! PRESENTATION
+
