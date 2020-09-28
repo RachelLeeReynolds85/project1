@@ -1,4 +1,4 @@
-,Common Name,Scientific Name,Date Sited,Location Name,Num Sighted,Latitude,Longitude,year
+,Common Name,Scientific Name,Date Sighted,Location Name,Num Sighted,Latitude,Longitude,year
 0,Barred Owl,Strix varia,2020-09-26 23:10,5619 Dogwood Forest Drive,1,37.3659108,-76.5505511,2020
 1,Great Horned Owl,Bubo virginianus,2020-09-26 22:55,22491 Forest Manor Drive (Yard),2,38.9947298,-77.520268,2020
 2,Eastern Screech-Owl,Megascops asio,2020-09-26 22:52,"1413 Hillcrest Dr, Blacksburg US-VA 37.21839, -80.39294",1,37.218386,-80.392936,2020
@@ -21,140 +21,140 @@
 19,Merlin,Falco columbarius,2020-09-26 18:48,"2061–2193 Harper's Rd, Virginia Beach US-VA 36.78942, -76.03670",1,36.78942,-76.036701,2020
 20,Red-tailed Hawk,Buteo jamaicensis,2020-09-26 18:47,"40151 U.S. 50, Aldie, Virginia, US (38.966, -77.614)",1,38.9657624,-77.6137802,2020
 21,Pileated Woodpecker,Dryocopus pileatus,2020-09-26 18:45,Mossy Creek Rd- Yard,1,38.3809431,-79.0111184,2020
-22,Belted Kingfisher,Megaceryle alcyon,2020-09-26 18:43,"4625 Williamsburg Road, Linville, Virginia, US (38.55, -78.841)",2,38.5497267,-78.8412434,2020
-23,Red-bellied Woodpecker,Melanerpes carolinus,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
-24,Northern Flicker,Colaptes auratus,2020-09-26 18:30,Waldron Place,2,37.828389,-79.309267,2020
-25,Eastern Wood-Pewee,Contopus virens,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
-26,Red-breasted Nuthatch,Sitta canadensis,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
-27,Northern Mockingbird,Mimus polyglottos,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),2,37.3967258,-78.641988,2020
-28,Eastern Bluebird,Sialia sialis,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
-29,American Goldfinch,Spinus tristis,2020-09-26 18:30,Waldron Place,20,37.828389,-79.309267,2020
-30,Chipping Sparrow,Spizella passerina,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),5,37.3967258,-78.641988,2020
-31,Cape May Warbler,Setophaga tigrina,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
-32,Yellow-rumped Warbler,Setophaga coronata,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
-33,Rock Pigeon,Columba livia,2020-09-26 18:28,Tabor Place,30,37.2517941,-79.8936926,2020
-34,Chimney Swift,Chaetura pelagica,2020-09-26 18:28,Tabor Place,7,37.2517941,-79.8936926,2020
-35,Blue-headed Vireo,Vireo solitarius,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
-36,Red-eyed Vireo,Vireo olivaceus,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
-37,American Crow,Corvus brachyrhynchos,2020-09-26 18:28,Home: 1731 Killarney Ct Vienna VA,1,38.9233635,-77.2604714,2020
-38,Brown-headed Nuthatch,Sitta pusilla,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
-39,Swainson's Thrush,Catharus ustulatus,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
-40,House Finch,Haemorhous mexicanus,2020-09-26 18:28,Home: 1731 Killarney Ct Vienna VA,1,38.9233635,-77.2604714,2020
-41,Mourning Dove,Zenaida macroura,2020-09-26 18:27,Plantation road,1,37.217655,-80.440056,2020
-42,European Starling,Sturnus vulgaris,2020-09-26 18:27,Plantation road,500,37.217655,-80.440056,2020
-43,Brown-headed Cowbird,Molothrus ater,2020-09-26 18:27,Plantation road,30,37.217655,-80.440056,2020
-44,Great Blue Heron,Ardea herodias,2020-09-26 18:25,Red Wing Lake Golf Course,1,36.8025343,-75.9846779,2020
-45,Common Raven,Corvus corax,2020-09-26 18:20,District Vue,1,37.2937021,-79.9057916,2020
-46,Carolina Chickadee,Poecile carolinensis,2020-09-26 18:20,District Vue,1,37.2937021,-79.9057916,2020
-47,Song Sparrow,Melospiza melodia,2020-09-26 18:20,District Vue,1,37.2937021,-79.9057916,2020
-48,Clapper Rail,Rallus crepitans,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,14,37.1283813,-75.9525368,2020
-49,Least Sandpiper,Calidris minutilla,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,2,37.1283813,-75.9525368,2020
-50,Laughing Gull,Leucophaeus atricilla,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,700,37.1283813,-75.9525368,2020
-51,Herring Gull,Larus argentatus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
-52,Caspian Tern,Hydroprogne caspia,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,2,37.1283813,-75.9525368,2020
-53,Royal Tern,Thalasseus maximus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,9,37.1283813,-75.9525368,2020
-54,Double-crested Cormorant,Phalacrocorax auritus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
-55,Brown Pelican,Pelecanus occidentalis,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,85,37.1283813,-75.9525368,2020
-56,Great Egret,Ardea alba,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,12,37.1283813,-75.9525368,2020
-57,Snowy Egret,Egretta thula,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,16,37.1283813,-75.9525368,2020
-58,Tricolored Heron,Egretta tricolor,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,6,37.1283813,-75.9525368,2020
-59,white egret sp.,Ardea/Egretta/Bubulcus sp.,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,20,37.1283813,-75.9525368,2020
-60,Black-crowned Night-Heron,Nycticorax nycticorax,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
-61,Yellow-crowned Night-Heron,Nyctanassa violacea,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
-62,White Ibis,Eudocimus albus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,128,37.1283813,-75.9525368,2020
-63,Black Vulture,Coragyps atratus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,14,37.1283813,-75.9525368,2020
-64,Sharp-shinned Hawk,Accipiter striatus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
-65,American Kestrel,Falco sparverius,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
-66,Seaside Sparrow,Ammospiza maritima,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
-67,Common Yellowthroat,Geothlypis trichas,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,1,37.1283813,-75.9525368,2020
-68,Palm Warbler,Setophaga palmarum,2020-09-26 18:17,VT student remote lot,2,37.210087,-80.416981,2020
-69,Prairie Warbler,Setophaga discolor,2020-09-26 18:17,VT student remote lot,1,37.210087,-80.416981,2020
-70,Hairy Woodpecker,Dryobates villosus,2020-09-26 18:15,White's Mill Trail,1,38.726817,-77.775705,2020
-71,Magnolia Warbler,Setophaga magnolia,2020-09-26 18:15,White's Mill Trail,4,38.726817,-77.775705,2020
-72,Solitary Sandpiper,Tringa solitaria,2020-09-26 18:11,Haverford Square Fields,1,38.9619807,-77.5167787,2020
-73,Horned Lark,Eremophila alpestris,2020-09-26 18:11,Haverford Square Fields,25,38.9619807,-77.5167787,2020
-74,Red-headed Woodpecker,Melanerpes erythrocephalus,2020-09-26 18:08,"Starry Meadows Rockingham Co, Virginia United States",2,38.599693,-78.89277,2020
-75,Cedar Waxwing,Bombycilla cedrorum,2020-09-26 18:08,"Starry Meadows Rockingham Co, Virginia United States",12,38.599693,-78.89277,2020
-76,Ruby-throated Hummingbird,Archilochus colubris,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
-77,Downy Woodpecker,Dryobates pubescens,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
-78,Tufted Titmouse,Baeolophus bicolor,2020-09-26 18:05,Green Home,3,38.450739,-77.36976,2020
-79,White-breasted Nuthatch,Sitta carolinensis,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
-80,Black-and-white Warbler,Mniotilta varia,2020-09-26 18:05,Green Home,1,38.450739,-77.36976,2020
-81,American Redstart,Setophaga ruticilla,2020-09-26 18:05,Green Home,1,38.450739,-77.36976,2020
-82,Northern Parula,Setophaga americana,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
-83,Chestnut-sided Warbler,Setophaga pensylvanica,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
-84,Scarlet Tanager,Piranga olivacea,2020-09-26 18:05,Green Home,1,38.450739,-77.36976,2020
-85,vireo sp.,Vireo sp.,2020-09-26 18:02,"400 Comstock Dr, North Chesterfield US-VA 37.49673, -77.59484",1,37.496728,-77.594837,2020
-86,Wood Duck,Aix sponsa,2020-09-26 18:00,Ashby Pond Conservancy Site,4,38.8481892,-77.2860584,2020
-87,Green Heron,Butorides virescens,2020-09-26 18:00,Ashby Pond Conservancy Site,1,38.8481892,-77.2860584,2020
-88,Red-shouldered Hawk,Buteo lineatus,2020-09-26 18:00,Business park across from USGS,1,38.9475438,-77.3613404,2020
-89,Black-throated Green Warbler,Setophaga virens,2020-09-26 18:00,Pedlar River campsite,1,37.6929885,-79.2784497,2020
-90,Broad-winged Hawk,Buteo platypterus,2020-09-26 17:56,"4409 Eastwinds, Chincoteague US-VA 37.92672, -75.36541",1,37.926721,-75.365407,2020
-91,Common Grackle,Quiscalus quiscula,2020-09-26 17:56,"4409 Eastwinds, Chincoteague US-VA 37.92672, -75.36541",100,37.926721,-75.365407,2020
-92,Empidonax sp.,Empidonax sp.,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
-93,Tennessee Warbler,Leiothlypis peregrina,2020-09-26 17:55,Private Land,3,36.871059,-81.5057697,2020
-94,Bay-breasted Warbler,Setophaga castanea,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
-95,Blackburnian Warbler,Setophaga fusca,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
-96,Sanderling,Calidris alba,2020-09-26 17:53,Chincoteague NWR--Beach,15,37.8800638,-75.3495458,2020
-97,Ring-billed Gull,Larus delawarensis,2020-09-26 17:53,Chincoteague NWR--Beach,1,37.8800638,-75.3495458,2020
-98,Eurasian Collared-Dove,Streptopelia decaocto,2020-09-26 17:50,"3200–3220 Doggett Ln, Cape Charles US-VA (37.2049,-75.9857)",2,37.20488,-75.985691,2020
-99,Black-capped Chickadee,Poecile atricapillus,2020-09-26 17:48,Park Woods,2,38.473342,-78.874444,2020
-100,Pine Warbler,Setophaga pinus,2020-09-26 17:43,"Auto selected 37.90936, -75.35064",20,37.909356,-75.350636,2020
-101,House Sparrow,Passer domesticus,2020-09-26 17:42,"13520 Gray Bill Court, Clifton, Virginia, US (38.839, -77.414)",7,38.8386133,-77.4140985,2020
-102,Yellow-bellied Sapsucker,Sphyrapicus varius,2020-09-26 17:41,"Lovettsville, off Stevens Road",1,39.30901,-77.68354,2020
-103,Wood Thrush,Hylocichla mustelina,2020-09-26 17:41,"Lovettsville, off Stevens Road",1,39.30901,-77.68354,2020
-104,hawk sp.,Accipitridae sp. (hawk sp.),2020-09-26 17:38,Pathway,1,38.856806,-77.2165738,2020
-105,Red-winged Blackbird,Agelaius phoeniceus,2020-09-26 17:34,Frying Pan Farm Park,6,38.9358202,-77.4025762,2020
-106,Greater Yellowlegs,Tringa melanoleuca,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
-107,Willet,Tringa semipalmata,2020-09-26 17:33,Chincoteague NWR-Swan Cove,2,37.892639,-75.35023,2020
-108,Lesser Yellowlegs,Tringa flavipes,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
-109,Forster's Tern,Sterna forsteri,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
-110,crow sp.,Corvus sp. (crow sp.),2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
-111,Turkey Vulture,Cathartes aura,2020-09-26 17:32,Liberty Hill Wildlife Management Area,5,36.5914804,-78.2841325,2020
-112,Peregrine Falcon,Falco peregrinus,2020-09-26 17:32,Liberty Hill Wildlife Management Area,1,36.5914804,-78.2841325,2020
-113,Summer Tanager,Piranga rubra,2020-09-26 17:32,Liberty Hill Wildlife Management Area,1,36.5914804,-78.2841325,2020
-114,Yellow-billed Cuckoo,Coccyzus americanus,2020-09-26 17:30,"Laurel Cove Drive, Virginia Beach, VA",1,36.8733727,-76.0499597,2020
-115,gull sp.,Larinae sp.,2020-09-26 17:30,"Laurel Cove Drive, Virginia Beach, VA",200,36.8733727,-76.0499597,2020
-116,Tree Swallow,Tachycineta bicolor,2020-09-26 17:30,Bells Lane,3,38.1676296,-79.036417,2020
-117,Blue-winged Teal,Spatula discors,2020-09-26 17:25,**BACK BAY NWR,15,36.672127,-75.915661,2020
-118,American Black Duck,Anas rubripes,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
-119,Green-winged Teal,Anas crecca,2020-09-26 17:25,**BACK BAY NWR,60,36.672127,-75.915661,2020
-120,duck sp.,Anatinae sp.,2020-09-26 17:25,**BACK BAY NWR,200,36.672127,-75.915661,2020
-121,Pied-billed Grebe,Podilymbus podiceps,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
-122,Black-bellied Plover,Pluvialis squatarola,2020-09-26 17:25,**BACK BAY NWR,2,36.672127,-75.915661,2020
-123,Hudsonian Godwit,Limosa haemastica,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
-124,Stilt Sandpiper,Calidris himantopus,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
-125,Pectoral Sandpiper,Calidris melanotos,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
-126,Semipalmated Sandpiper,Calidris pusilla,2020-09-26 17:25,**BACK BAY NWR,3,36.672127,-75.915661,2020
-127,peep sp.,Calidris sp. (peep sp.),2020-09-26 17:25,**BACK BAY NWR,20,36.672127,-75.915661,2020
-128,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,2020-09-26 17:25,**BACK BAY NWR,2,36.672127,-75.915661,2020
-129,Wilson's Snipe,Gallinago delicata,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
-130,shorebird sp.,Charadriiformes sp.,2020-09-26 17:25,**BACK BAY NWR,30,36.672127,-75.915661,2020
-131,Blue-gray Gnatcatcher,Polioptila caerulea,2020-09-26 17:25,Air Force Memorial,1,38.8690671,-77.0662379,2020
-132,Boat-tailed Grackle,Quiscalus major,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
-133,Osprey,Pandion haliaetus,2020-09-26 17:20,"ONANCOCK,   VA",2,37.711,-75.746,2020
-134,sparrow sp.,Passerellidae sp. (sparrow sp.),2020-09-26 17:20,"ONANCOCK,   VA",1,37.711,-75.746,2020
-135,Little Blue Heron,Egretta caerulea,2020-09-26 17:18,Chincoteague NWR--Black Duck Marsh,1,37.9044274,-75.3574133,2020
-136,Cattle Egret,Bubulcus ibis,2020-09-26 17:18,Chincoteague NWR--Black Duck Marsh,1,37.9044274,-75.3574133,2020
-137,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 17:08,Swan Lake/Shields Lake,170,37.5427923,-77.4728394,2020
-138,Domestic goose sp. (Domestic type) x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,2020-09-26 17:08,Swan Lake/Shields Lake,4,37.5427923,-77.4728394,2020
-139,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2020-09-26 17:08,Swan Lake/Shields Lake,8,37.5427923,-77.4728394,2020
-140,Fish Crow,Corvus ossifragus,2020-09-26 17:06,Upton Hill Regional Park,2,38.8710821,-77.1430191,2020
-141,House Wren,Troglodytes aedon,2020-09-26 17:06,Upton Hill Regional Park,1,38.8710821,-77.1430191,2020
-142,Connecticut Warbler,Oporornis agilis,2020-09-26 17:06,Upton Hill Regional Park,1,38.8710821,-77.1430191,2020
-143,Purple Finch,Haemorhous purpureus,2020-09-26 17:03,Nellies Cave Park,1,37.2104049,-80.3923702,2020
-144,Field Sparrow,Spizella pusilla,2020-09-26 17:03,Nellies Cave Park,1,37.2104049,-80.3923702,2020
-145,Savannah Sparrow,Passerculus sandwichensis,2020-09-26 17:03,Kentland Farms,2,37.1991341,-80.5845102,2020
-146,Eastern Meadowlark,Sturnella magna,2020-09-26 17:03,Kentland Farms,1,37.1991341,-80.5845102,2020
-147,warbler sp. (Parulidae sp.),Parulidae sp.,2020-09-26 17:03,Nellies Cave Park,3,37.2104049,-80.3923702,2020
-148,Blue Grosbeak,Passerina caerulea,2020-09-26 17:03,Kentland Farms,1,37.1991341,-80.5845102,2020
-149,Indigo Bunting,Passerina cyanea,2020-09-26 17:03,Kentland Farms,2,37.1991341,-80.5845102,2020
-150,Black-throated Blue Warbler,Setophaga caerulescens,2020-09-26 16:55,Difficult Run Stream Valley Park (Oakton),1,38.8976597,-77.3202916,2020
-151,passerine sp.,Passeriformes sp.,2020-09-26 16:55,Difficult Run Stream Valley Park (Oakton),4,38.8976597,-77.3202916,2020
-152,Swamp Sparrow,Melospiza georgiana,2020-09-26 16:53,Algonkian Nature Preserve--Sanctuary Trail,1,39.0607162,-77.3664093,2020
-153,Ovenbird,Seiurus aurocapilla,2020-09-26 16:53,Algonkian Nature Preserve--Sanctuary Trail,1,39.0607162,-77.3664093,2020
-154,Black Skimmer,Rynchops niger,2020-09-26 16:46,Chincoteague NWR--Swan Cove,4,37.8941,-75.3485,2020
-155,Eastern Towhee,Pipilo erythrophthalmus,2020-09-26 16:45,White House Lane,3,36.8765928,-76.1435151,2020
+22,Carolina Chickadee,Poecile carolinensis,2020-09-26 18:45,Shenandoah NP--Dickey Ridge Visitor Center,1,38.8712,-78.2046,2020
+23,Eastern Towhee,Pipilo erythrophthalmus,2020-09-26 18:45,Shenandoah NP--Dickey Ridge Visitor Center,1,38.8712,-78.2046,2020
+24,Scarlet Tanager,Piranga olivacea,2020-09-26 18:45,Shenandoah NP--Dickey Ridge Visitor Center,2,38.8712,-78.2046,2020
+25,Belted Kingfisher,Megaceryle alcyon,2020-09-26 18:43,"4625 Williamsburg Road, Linville, Virginia, US (38.55, -78.841)",2,38.5497267,-78.8412434,2020
+26,Red-bellied Woodpecker,Melanerpes carolinus,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
+27,Northern Flicker,Colaptes auratus,2020-09-26 18:30,Waldron Place,2,37.828389,-79.309267,2020
+28,Eastern Wood-Pewee,Contopus virens,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
+29,Red-breasted Nuthatch,Sitta canadensis,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
+30,Northern Mockingbird,Mimus polyglottos,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),2,37.3967258,-78.641988,2020
+31,Eastern Bluebird,Sialia sialis,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),1,37.3967258,-78.641988,2020
+32,American Goldfinch,Spinus tristis,2020-09-26 18:30,Waldron Place,20,37.828389,-79.309267,2020
+33,Chipping Sparrow,Spizella passerina,2020-09-26 18:30,Holliday Lake State Park (Appomattox Co.),5,37.3967258,-78.641988,2020
+34,Cape May Warbler,Setophaga tigrina,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
+35,Yellow-rumped Warbler,Setophaga coronata,2020-09-26 18:30,Waldron Place,1,37.828389,-79.309267,2020
+36,Rock Pigeon,Columba livia,2020-09-26 18:28,Tabor Place,30,37.2517941,-79.8936926,2020
+37,Chimney Swift,Chaetura pelagica,2020-09-26 18:28,Tabor Place,7,37.2517941,-79.8936926,2020
+38,Blue-headed Vireo,Vireo solitarius,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
+39,Red-eyed Vireo,Vireo olivaceus,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
+40,American Crow,Corvus brachyrhynchos,2020-09-26 18:28,Home: 1731 Killarney Ct Vienna VA,1,38.9233635,-77.2604714,2020
+41,Brown-headed Nuthatch,Sitta pusilla,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
+42,Swainson's Thrush,Catharus ustulatus,2020-09-26 18:28,Tabor Place,1,37.2517941,-79.8936926,2020
+43,House Finch,Haemorhous mexicanus,2020-09-26 18:28,Home: 1731 Killarney Ct Vienna VA,1,38.9233635,-77.2604714,2020
+44,Mourning Dove,Zenaida macroura,2020-09-26 18:27,Plantation road,1,37.217655,-80.440056,2020
+45,European Starling,Sturnus vulgaris,2020-09-26 18:27,Plantation road,500,37.217655,-80.440056,2020
+46,Brown-headed Cowbird,Molothrus ater,2020-09-26 18:27,Plantation road,30,37.217655,-80.440056,2020
+47,Great Blue Heron,Ardea herodias,2020-09-26 18:25,Red Wing Lake Golf Course,1,36.8025343,-75.9846779,2020
+48,Osprey,Pandion haliaetus,2020-09-26 18:23,South Fork River Ln. - Notso,1,38.5325159,-78.6349276,2020
+49,Indigo Bunting,Passerina cyanea,2020-09-26 18:23,South Fork River Ln. - Notso,3,38.5325159,-78.6349276,2020
+50,Common Raven,Corvus corax,2020-09-26 18:20,District Vue,1,37.2937021,-79.9057916,2020
+51,Song Sparrow,Melospiza melodia,2020-09-26 18:20,District Vue,1,37.2937021,-79.9057916,2020
+52,Clapper Rail,Rallus crepitans,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,14,37.1283813,-75.9525368,2020
+53,Least Sandpiper,Calidris minutilla,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,2,37.1283813,-75.9525368,2020
+54,Laughing Gull,Leucophaeus atricilla,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,700,37.1283813,-75.9525368,2020
+55,Herring Gull,Larus argentatus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
+56,Caspian Tern,Hydroprogne caspia,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,2,37.1283813,-75.9525368,2020
+57,Royal Tern,Thalasseus maximus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,9,37.1283813,-75.9525368,2020
+58,Double-crested Cormorant,Phalacrocorax auritus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
+59,Brown Pelican,Pelecanus occidentalis,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,85,37.1283813,-75.9525368,2020
+60,Great Egret,Ardea alba,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,12,37.1283813,-75.9525368,2020
+61,Snowy Egret,Egretta thula,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,16,37.1283813,-75.9525368,2020
+62,Tricolored Heron,Egretta tricolor,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,6,37.1283813,-75.9525368,2020
+63,white egret sp.,Ardea/Egretta/Bubulcus sp.,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,20,37.1283813,-75.9525368,2020
+64,Black-crowned Night-Heron,Nycticorax nycticorax,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
+65,Yellow-crowned Night-Heron,Nyctanassa violacea,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
+66,White Ibis,Eudocimus albus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,128,37.1283813,-75.9525368,2020
+67,Black Vulture,Coragyps atratus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,14,37.1283813,-75.9525368,2020
+68,Sharp-shinned Hawk,Accipiter striatus,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
+69,American Kestrel,Falco sparverius,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,4,37.1283813,-75.9525368,2020
+70,Seaside Sparrow,Ammospiza maritima,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,3,37.1283813,-75.9525368,2020
+71,Common Yellowthroat,Geothlypis trichas,2020-09-26 18:17,Eastern Shore of Virginia NWR--Ramp Road,1,37.1283813,-75.9525368,2020
+72,Palm Warbler,Setophaga palmarum,2020-09-26 18:17,VT student remote lot,2,37.210087,-80.416981,2020
+73,Prairie Warbler,Setophaga discolor,2020-09-26 18:17,VT student remote lot,1,37.210087,-80.416981,2020
+74,Hairy Woodpecker,Dryobates villosus,2020-09-26 18:15,White's Mill Trail,1,38.726817,-77.775705,2020
+75,Magnolia Warbler,Setophaga magnolia,2020-09-26 18:15,White's Mill Trail,4,38.726817,-77.775705,2020
+76,Solitary Sandpiper,Tringa solitaria,2020-09-26 18:11,Haverford Square Fields,1,38.9619807,-77.5167787,2020
+77,Horned Lark,Eremophila alpestris,2020-09-26 18:11,Haverford Square Fields,25,38.9619807,-77.5167787,2020
+78,Red-headed Woodpecker,Melanerpes erythrocephalus,2020-09-26 18:08,"Starry Meadows Rockingham Co, Virginia United States",2,38.599693,-78.89277,2020
+79,Cedar Waxwing,Bombycilla cedrorum,2020-09-26 18:08,"Starry Meadows Rockingham Co, Virginia United States",12,38.599693,-78.89277,2020
+80,Ruby-throated Hummingbird,Archilochus colubris,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
+81,Downy Woodpecker,Dryobates pubescens,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
+82,Tufted Titmouse,Baeolophus bicolor,2020-09-26 18:05,Green Home,3,38.450739,-77.36976,2020
+83,White-breasted Nuthatch,Sitta carolinensis,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
+84,Black-and-white Warbler,Mniotilta varia,2020-09-26 18:05,Green Home,1,38.450739,-77.36976,2020
+85,American Redstart,Setophaga ruticilla,2020-09-26 18:05,Green Home,1,38.450739,-77.36976,2020
+86,Northern Parula,Setophaga americana,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
+87,Chestnut-sided Warbler,Setophaga pensylvanica,2020-09-26 18:05,Green Home,2,38.450739,-77.36976,2020
+88,vireo sp.,Vireo sp.,2020-09-26 18:02,"400 Comstock Dr, North Chesterfield US-VA 37.49673, -77.59484",1,37.496728,-77.594837,2020
+89,Wood Duck,Aix sponsa,2020-09-26 18:00,Ashby Pond Conservancy Site,4,38.8481892,-77.2860584,2020
+90,Green Heron,Butorides virescens,2020-09-26 18:00,Ashby Pond Conservancy Site,1,38.8481892,-77.2860584,2020
+91,Red-shouldered Hawk,Buteo lineatus,2020-09-26 18:00,Business park across from USGS,1,38.9475438,-77.3613404,2020
+92,Black-throated Green Warbler,Setophaga virens,2020-09-26 18:00,Pedlar River campsite,1,37.6929885,-79.2784497,2020
+93,Broad-winged Hawk,Buteo platypterus,2020-09-26 17:56,"4409 Eastwinds, Chincoteague US-VA 37.92672, -75.36541",1,37.926721,-75.365407,2020
+94,Common Grackle,Quiscalus quiscula,2020-09-26 17:56,"4409 Eastwinds, Chincoteague US-VA 37.92672, -75.36541",100,37.926721,-75.365407,2020
+95,Empidonax sp.,Empidonax sp.,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
+96,Tennessee Warbler,Leiothlypis peregrina,2020-09-26 17:55,Private Land,3,36.871059,-81.5057697,2020
+97,Bay-breasted Warbler,Setophaga castanea,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
+98,Blackburnian Warbler,Setophaga fusca,2020-09-26 17:55,Private Land,1,36.871059,-81.5057697,2020
+99,Sanderling,Calidris alba,2020-09-26 17:53,Chincoteague NWR--Beach,15,37.8800638,-75.3495458,2020
+100,Ring-billed Gull,Larus delawarensis,2020-09-26 17:53,Chincoteague NWR--Beach,1,37.8800638,-75.3495458,2020
+101,Eurasian Collared-Dove,Streptopelia decaocto,2020-09-26 17:50,"3200–3220 Doggett Ln, Cape Charles US-VA (37.2049,-75.9857)",2,37.20488,-75.985691,2020
+102,Black-capped Chickadee,Poecile atricapillus,2020-09-26 17:48,Park Woods,2,38.473342,-78.874444,2020
+103,Pine Warbler,Setophaga pinus,2020-09-26 17:43,"Auto selected 37.90936, -75.35064",20,37.909356,-75.350636,2020
+104,House Sparrow,Passer domesticus,2020-09-26 17:42,"13520 Gray Bill Court, Clifton, Virginia, US (38.839, -77.414)",7,38.8386133,-77.4140985,2020
+105,Yellow-bellied Sapsucker,Sphyrapicus varius,2020-09-26 17:41,"Lovettsville, off Stevens Road",1,39.30901,-77.68354,2020
+106,Wood Thrush,Hylocichla mustelina,2020-09-26 17:41,"Lovettsville, off Stevens Road",1,39.30901,-77.68354,2020
+107,hawk sp.,Accipitridae sp. (hawk sp.),2020-09-26 17:38,Pathway,1,38.856806,-77.2165738,2020
+108,Red-winged Blackbird,Agelaius phoeniceus,2020-09-26 17:34,Frying Pan Farm Park,6,38.9358202,-77.4025762,2020
+109,Greater Yellowlegs,Tringa melanoleuca,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
+110,Willet,Tringa semipalmata,2020-09-26 17:33,Chincoteague NWR-Swan Cove,2,37.892639,-75.35023,2020
+111,Lesser Yellowlegs,Tringa flavipes,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
+112,Forster's Tern,Sterna forsteri,2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
+113,crow sp.,Corvus sp. (crow sp.),2020-09-26 17:33,Chincoteague NWR-Swan Cove,1,37.892639,-75.35023,2020
+114,Turkey Vulture,Cathartes aura,2020-09-26 17:32,Liberty Hill Wildlife Management Area,5,36.5914804,-78.2841325,2020
+115,Peregrine Falcon,Falco peregrinus,2020-09-26 17:32,Liberty Hill Wildlife Management Area,1,36.5914804,-78.2841325,2020
+116,Summer Tanager,Piranga rubra,2020-09-26 17:32,Liberty Hill Wildlife Management Area,1,36.5914804,-78.2841325,2020
+117,Yellow-billed Cuckoo,Coccyzus americanus,2020-09-26 17:30,"Laurel Cove Drive, Virginia Beach, VA",1,36.8733727,-76.0499597,2020
+118,gull sp.,Larinae sp.,2020-09-26 17:30,"Laurel Cove Drive, Virginia Beach, VA",200,36.8733727,-76.0499597,2020
+119,Tree Swallow,Tachycineta bicolor,2020-09-26 17:30,Bells Lane,3,38.1676296,-79.036417,2020
+120,Blue-winged Teal,Spatula discors,2020-09-26 17:25,**BACK BAY NWR,15,36.672127,-75.915661,2020
+121,American Black Duck,Anas rubripes,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
+122,Green-winged Teal,Anas crecca,2020-09-26 17:25,**BACK BAY NWR,60,36.672127,-75.915661,2020
+123,duck sp.,Anatinae sp.,2020-09-26 17:25,**BACK BAY NWR,200,36.672127,-75.915661,2020
+124,Pied-billed Grebe,Podilymbus podiceps,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
+125,Black-bellied Plover,Pluvialis squatarola,2020-09-26 17:25,**BACK BAY NWR,2,36.672127,-75.915661,2020
+126,Hudsonian Godwit,Limosa haemastica,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
+127,Stilt Sandpiper,Calidris himantopus,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
+128,Pectoral Sandpiper,Calidris melanotos,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
+129,Semipalmated Sandpiper,Calidris pusilla,2020-09-26 17:25,**BACK BAY NWR,3,36.672127,-75.915661,2020
+130,peep sp.,Calidris sp. (peep sp.),2020-09-26 17:25,**BACK BAY NWR,20,36.672127,-75.915661,2020
+131,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,2020-09-26 17:25,**BACK BAY NWR,2,36.672127,-75.915661,2020
+132,Wilson's Snipe,Gallinago delicata,2020-09-26 17:25,**BACK BAY NWR,1,36.672127,-75.915661,2020
+133,shorebird sp.,Charadriiformes sp.,2020-09-26 17:25,**BACK BAY NWR,30,36.672127,-75.915661,2020
+134,Blue-gray Gnatcatcher,Polioptila caerulea,2020-09-26 17:25,Air Force Memorial,1,38.8690671,-77.0662379,2020
+135,Boat-tailed Grackle,Quiscalus major,2020-09-26 17:25,**BACK BAY NWR,4,36.672127,-75.915661,2020
+136,sparrow sp.,Passerellidae sp. (sparrow sp.),2020-09-26 17:20,"ONANCOCK,   VA",1,37.711,-75.746,2020
+137,Little Blue Heron,Egretta caerulea,2020-09-26 17:18,Chincoteague NWR--Black Duck Marsh,1,37.9044274,-75.3574133,2020
+138,Cattle Egret,Bubulcus ibis,2020-09-26 17:18,Chincoteague NWR--Black Duck Marsh,1,37.9044274,-75.3574133,2020
+139,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 17:08,Swan Lake/Shields Lake,170,37.5427923,-77.4728394,2020
+140,Domestic goose sp. (Domestic type) x Canada Goose (hybrid),Anser sp. (Domestic type) x Branta canadensis,2020-09-26 17:08,Swan Lake/Shields Lake,4,37.5427923,-77.4728394,2020
+141,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2020-09-26 17:08,Swan Lake/Shields Lake,8,37.5427923,-77.4728394,2020
+142,Fish Crow,Corvus ossifragus,2020-09-26 17:06,Upton Hill Regional Park,2,38.8710821,-77.1430191,2020
+143,House Wren,Troglodytes aedon,2020-09-26 17:06,Upton Hill Regional Park,1,38.8710821,-77.1430191,2020
+144,Connecticut Warbler,Oporornis agilis,2020-09-26 17:06,Upton Hill Regional Park,1,38.8710821,-77.1430191,2020
+145,Purple Finch,Haemorhous purpureus,2020-09-26 17:03,Nellies Cave Park,1,37.2104049,-80.3923702,2020
+146,Field Sparrow,Spizella pusilla,2020-09-26 17:03,Nellies Cave Park,1,37.2104049,-80.3923702,2020
+147,Savannah Sparrow,Passerculus sandwichensis,2020-09-26 17:03,Kentland Farms,2,37.1991341,-80.5845102,2020
+148,Eastern Meadowlark,Sturnella magna,2020-09-26 17:03,Kentland Farms,1,37.1991341,-80.5845102,2020
+149,warbler sp. (Parulidae sp.),Parulidae sp.,2020-09-26 17:03,Nellies Cave Park,3,37.2104049,-80.3923702,2020
+150,Blue Grosbeak,Passerina caerulea,2020-09-26 17:03,Kentland Farms,1,37.1991341,-80.5845102,2020
+151,Black-throated Blue Warbler,Setophaga caerulescens,2020-09-26 16:55,Difficult Run Stream Valley Park (Oakton),1,38.8976597,-77.3202916,2020
+152,passerine sp.,Passeriformes sp.,2020-09-26 16:55,Difficult Run Stream Valley Park (Oakton),4,38.8976597,-77.3202916,2020
+153,Swamp Sparrow,Melospiza georgiana,2020-09-26 16:53,Algonkian Nature Preserve--Sanctuary Trail,1,39.0607162,-77.3664093,2020
+154,Ovenbird,Seiurus aurocapilla,2020-09-26 16:53,Algonkian Nature Preserve--Sanctuary Trail,1,39.0607162,-77.3664093,2020
+155,Black Skimmer,Rynchops niger,2020-09-26 16:46,Chincoteague NWR--Swan Cove,4,37.8941,-75.3485,2020
 156,Nashville Warbler,Leiothlypis ruficapilla,2020-09-26 16:45,White House Lane,1,36.8765928,-76.1435151,2020
 157,Wild Turkey,Meleagris gallopavo,2020-09-26 16:44,Caynor Lake PRIVATE,12,38.498859,-78.07991,2020
 158,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),2020-09-26 16:36,Trant Lake Drive,1,36.871934,-76.052039,2020
@@ -224,24 +224,24 @@
 222,Purple Martin,Progne subis,2020-09-26 09:18,"32101–32111 Seaside Rd, Cape Charles US-VA 37.14361, -75.96259",1,37.143615,-75.96259,2020
 223,Acadian Flycatcher,Empidonax virescens,2020-09-26 09:00,Monticello Park,1,38.8331055,-77.0700252,2020
 224,Mute Swan,Cygnus olor,2020-09-26 08:58,Warrenton Reservoir,4,38.7407203,-77.7913463,2020
-225,White-rumped Sandpiper,Calidris fuscicollis,2020-09-26 08:50,**BACK BAY NWR,1,36.672127,-75.915661,2020
-226,Prothonotary Warbler,Protonotaria citrea,2020-09-26 08:41,Occoquan Bay NWR,1,38.6455061,-77.2361183,2020
-227,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-26 08:39,Jessups Lake,1,38.00235,-78.544498,2020
-228,Bank Swallow,Riparia riparia,2020-09-26 08:39,Meadowwood Farms Retention Pond,1,39.0949485,-77.574114,2020
-229,Mourning Warbler,Geothlypis philadelphia,2020-09-26 08:31,Greenbriar Park,1,38.0622389,-78.4732524,2020
-230,Bay-breasted/Blackpoll Warbler,Setophaga castanea/striata,2020-09-26 08:18,Switzer Lake Area,1,38.5719,-79.1451,2020
-231,Yellow-billed/Black-billed Cuckoo,Coccyzus americanus/erythropthalmus,2020-09-26 08:14,Chincoteague NWR--Woodland Trail,1,37.8953,-75.3681,2020
-232,Worm-eating Warbler,Helmitheros vermivorum,2020-09-26 08:05,"710 Dice's Spring Rd, Weyers Cave US-VA 38.29644, -78.92090",1,38.296442,-78.920901,2020
-233,American Bittern,Botaurus lentiginosus,2020-09-26 08:02,Dyke Marsh Wildlife Preserve,1,38.7695,-77.0494,2020
-234,American Wigeon,Mareca americana,2020-09-26 08:00,Belmont Bay Marina,11,38.6565271,-77.2340155,2020
-235,Common Gallinule,Gallinula galeata,2020-09-26 08:00,Botetourt Center at Greenfield,1,37.434326,-79.9153769,2020
-236,Yellow-bellied Flycatcher,Empidonax flaviventris,2020-09-26 08:00,Botetourt Center at Greenfield,1,37.434326,-79.9153769,2020
-237,Mallard/American Black Duck,Anas platyrhynchos/rubripes,2020-09-26 07:57,Occoquan Bay NWR,4,38.6455061,-77.2361183,2020
-238,Virginia Rail,Rallus limicola,2020-09-26 07:18,Chincoteague NWR--Toms Cove,1,37.8774164,-75.3553805,2020
-239,Red Knot,Calidris canutus,2020-09-26 07:18,Chincoteague NWR--Toms Cove,3,37.8774164,-75.3553805,2020
-240,Great Cormorant,Phalacrocorax carbo,2020-09-26 07:18,CBBT--North Scenic Overlook,1,37.1214539,-75.9692574,2020
-241,Northern Pintail,Anas acuta,2020-09-26 07:06,**BACK BAY NWR,6,36.672127,-75.915661,2020
-242,American Golden-Plover,Pluvialis dominica,2020-09-26 07:06,**BACK BAY NWR,1,36.672127,-75.915661,2020
+225,Prothonotary Warbler,Protonotaria citrea,2020-09-26 08:41,Occoquan Bay NWR,1,38.6455061,-77.2361183,2020
+226,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-26 08:39,Jessups Lake,1,38.00235,-78.544498,2020
+227,Bank Swallow,Riparia riparia,2020-09-26 08:39,Meadowwood Farms Retention Pond,1,39.0949485,-77.574114,2020
+228,Mourning Warbler,Geothlypis philadelphia,2020-09-26 08:31,Greenbriar Park,1,38.0622389,-78.4732524,2020
+229,Bay-breasted/Blackpoll Warbler,Setophaga castanea/striata,2020-09-26 08:18,Switzer Lake Area,1,38.5719,-79.1451,2020
+230,Yellow-billed/Black-billed Cuckoo,Coccyzus americanus/erythropthalmus,2020-09-26 08:14,Chincoteague NWR--Woodland Trail,1,37.8953,-75.3681,2020
+231,Worm-eating Warbler,Helmitheros vermivorum,2020-09-26 08:05,"710 Dice's Spring Rd, Weyers Cave US-VA 38.29644, -78.92090",1,38.296442,-78.920901,2020
+232,American Bittern,Botaurus lentiginosus,2020-09-26 08:02,Dyke Marsh Wildlife Preserve,1,38.7695,-77.0494,2020
+233,American Wigeon,Mareca americana,2020-09-26 08:00,Belmont Bay Marina,11,38.6565271,-77.2340155,2020
+234,Common Gallinule,Gallinula galeata,2020-09-26 08:00,Botetourt Center at Greenfield,1,37.434326,-79.9153769,2020
+235,Yellow-bellied Flycatcher,Empidonax flaviventris,2020-09-26 08:00,Botetourt Center at Greenfield,1,37.434326,-79.9153769,2020
+236,Mallard/American Black Duck,Anas platyrhynchos/rubripes,2020-09-26 07:57,Occoquan Bay NWR,4,38.6455061,-77.2361183,2020
+237,Virginia Rail,Rallus limicola,2020-09-26 07:18,Chincoteague NWR--Toms Cove,1,37.8774164,-75.3553805,2020
+238,Red Knot,Calidris canutus,2020-09-26 07:18,Chincoteague NWR--Toms Cove,3,37.8774164,-75.3553805,2020
+239,Great Cormorant,Phalacrocorax carbo,2020-09-26 07:18,CBBT--North Scenic Overlook,1,37.1214539,-75.9692574,2020
+240,Northern Pintail,Anas acuta,2020-09-26 07:06,**BACK BAY NWR,6,36.672127,-75.915661,2020
+241,American Golden-Plover,Pluvialis dominica,2020-09-26 07:06,**BACK BAY NWR,1,36.672127,-75.915661,2020
+242,White-rumped Sandpiper,Calidris fuscicollis,2020-09-26 07:06,**BACK BAY NWR,7,36.672127,-75.915661,2020
 243,Short-billed Dowitcher,Limnodromus griseus,2020-09-26 07:06,**BACK BAY NWR,5,36.672127,-75.915661,2020
 244,Long-billed Dowitcher,Limnodromus scolopaceus,2020-09-26 07:06,**BACK BAY NWR,4,36.672127,-75.915661,2020
 245,Bobolink,Dolichonyx oryzivorus,2020-09-26 07:06,**BACK BAY NWR,8,36.672127,-75.915661,2020

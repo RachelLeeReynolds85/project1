@@ -1,4 +1,4 @@
-,Common Name,Scientific Name,Date Sited,Location Name,Num Sighted,Latitude,Longitude,year
+,Common Name,Scientific Name,Date Sighted,Location Name,Num Sighted,Latitude,Longitude,year
 0,Canada Goose,Branta canadensis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",5,38.238629,-84.597402,2020
 1,Mourning Dove,Zenaida macroura,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",6,38.238629,-84.597402,2020
 2,Ruby-throated Hummingbird,Archilochus colubris,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",2,38.238629,-84.597402,2020
@@ -108,17 +108,17 @@
 106,Northern Parula,Setophaga americana,2020-09-26 14:53,760 Hodgenville road,3,37.6670407,-85.8352375,2020
 107,Blue Grosbeak,Passerina caerulea,2020-09-26 14:16,"Sep 26, 2020 14:42
 37.659, -84.343",5,37.6587854,-84.3427359,2020
-108,Cape May Warbler,Setophaga tigrina,2020-09-26 12:18,"11117 Pebble Creek Dr, Louisville US-KY 38.32092, -85.54135",1,38.320918,-85.54135,2020
-109,Yellow-bellied Sapsucker,Sphyrapicus varius,2020-09-26 11:45,The Hood,1,38.053355,-84.5546458,2020
-110,Least Sandpiper,Calidris minutilla,2020-09-26 11:30,Crappie Hollow (Blood River),3,36.5777315,-88.1470238,2020
-111,Ring-billed Gull,Larus delawarensis,2020-09-26 11:30,Crappie Hollow (Blood River),59,36.5777315,-88.1470238,2020
-112,Caspian Tern,Hydroprogne caspia,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
-113,American White Pelican,Pelecanus erythrorhynchos,2020-09-26 11:30,Crappie Hollow (Blood River),222,36.5777315,-88.1470238,2020
-114,Snowy Egret,Egretta thula,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
-115,Little Blue Heron,Egretta caerulea,2020-09-26 11:30,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2020
-116,Fish Crow,Corvus ossifragus,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
-117,Hooded Warbler,Setophaga citrina,2020-09-26 11:29,"Dave's Biosphere, 3809 Brier East,  Lexington KY",1,38.0155007,-84.3764269,2020
-118,Ovenbird,Seiurus aurocapilla,2020-09-26 10:34,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2020
+108,Ovenbird,Seiurus aurocapilla,2020-09-26 13:34,Abandoned KY 80 highway cut,2,37.0977127,-84.664849,2020
+109,Cape May Warbler,Setophaga tigrina,2020-09-26 12:18,"11117 Pebble Creek Dr, Louisville US-KY 38.32092, -85.54135",1,38.320918,-85.54135,2020
+110,Yellow-bellied Sapsucker,Sphyrapicus varius,2020-09-26 11:45,The Hood,1,38.053355,-84.5546458,2020
+111,Least Sandpiper,Calidris minutilla,2020-09-26 11:30,Crappie Hollow (Blood River),3,36.5777315,-88.1470238,2020
+112,Ring-billed Gull,Larus delawarensis,2020-09-26 11:30,Crappie Hollow (Blood River),59,36.5777315,-88.1470238,2020
+113,Caspian Tern,Hydroprogne caspia,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+114,American White Pelican,Pelecanus erythrorhynchos,2020-09-26 11:30,Crappie Hollow (Blood River),222,36.5777315,-88.1470238,2020
+115,Snowy Egret,Egretta thula,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+116,Little Blue Heron,Egretta caerulea,2020-09-26 11:30,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2020
+117,Fish Crow,Corvus ossifragus,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+118,Hooded Warbler,Setophaga citrina,2020-09-26 11:29,"Dave's Biosphere, 3809 Brier East,  Lexington KY",1,38.0155007,-84.3764269,2020
 119,Bay-breasted/Blackpoll Warbler,Setophaga castanea/striata,2020-09-26 10:34,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2020
 120,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 10:11,Lake Barkley (Lyon Co.)--Eddy Creek Embayment (Coleman Bridge Vicinity),5,37.0377028,-87.9994833,2020
 121,swallow sp.,Hirundinidae sp.,2020-09-26 10:11,Lake Barkley (Lyon Co.)--Eddy Creek Embayment (Coleman Bridge Vicinity),4,37.0377028,-87.9994833,2020

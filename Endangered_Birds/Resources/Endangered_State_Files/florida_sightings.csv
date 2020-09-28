@@ -1,4 +1,4 @@
-,Common Name,Scientific Name,Date Sited,Location Name,Num Sighted,Latitude,Longitude,year
+,Common Name,Scientific Name,Date Sighted,Location Name,Num Sighted,Latitude,Longitude,year
 0,Northern Mockingbird,Mimus polyglottos,2020-09-26 22:02,Home,2,27.0886565,-82.2351605,2020
 1,Gray-cheeked Thrush,Catharus minimus,2020-09-26 22:02,Home,3,27.0886565,-82.2351605,2020
 2,Swainson's Thrush,Catharus ustulatus,2020-09-26 22:02,Home,6,27.0886565,-82.2351605,2020
@@ -140,102 +140,102 @@
 138,Mallard x Mottled Duck (hybrid),Anas platyrhynchos x fulvigula,2020-09-26 17:06,Northshore Park,6,27.7840369,-82.6235819,2020
 139,Semipalmated Plover,Charadrius semipalmatus,2020-09-26 17:06,Northshore Park,9,27.7840369,-82.6235819,2020
 140,Marbled Godwit,Limosa fedoa,2020-09-26 17:06,Northshore Park,6,27.7840369,-82.6235819,2020
-141,Caspian Tern,Hydroprogne caspia,2020-09-26 17:06,Northshore Park,1,27.7840369,-82.6235819,2020
-142,Great Blue Heron x Great Egret (hybrid),Ardea herodias x alba,2020-09-26 17:06,Northshore Park,1,27.7840369,-82.6235819,2020
-143,Monk Parakeet,Myiopsitta monachus,2020-09-26 17:06,Northshore Park,4,27.7840369,-82.6235819,2020
-144,Painted Bunting,Passerina ciris,2020-09-26 17:06,US-FL-Naples-6215 Parkers Hammock Rd - 26.1117x-81.7071,1,26.111666,-81.707144,2020
-145,Common Myna,Acridotheres tristis,2020-09-26 17:03,"13201 Overseas Hwy, Marathon US-FL (24.7321,-81.0189)",2,24.732069,-81.018886,2020
-146,Snail Kite,Rostrhamus sociabilis,2020-09-26 17:00,Sweetwater Preserve,6,29.6092116,-82.3037782,2020
-147,Least Flycatcher,Empidonax minimus,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
-148,Eastern Phoebe,Sayornis phoebe,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
-149,American Robin,Turdus migratorius,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",2,30.796142,-87.410311,2020
-150,Eastern Towhee,Pipilo erythrophthalmus,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
-151,Peregrine Falcon,Falco peregrinus,2020-09-26 16:50,"508 Dowling Circle, Lady Lake, Florida, US (28.948, -81.929)",1,28.9476373,-81.9288925,2020
-152,Northern Harrier,Circus hudsonius,2020-09-26 16:46,28th Street wetlands,1,27.8720862,-82.6715183,2020
-153,warbler sp. (Parulidae sp.),Parulidae sp.,2020-09-26 16:40,Fat Deer Key-- Cocoplum Beach,1,24.72997,-81.000868,2020
-154,Semipalmated Sandpiper,Calidris pusilla,2020-09-26 16:32,St. Marks NWR--Stoney Bayou 1 & Twin Dikes,4,30.1257123,-84.1436863,2020
-155,American Goldfinch,Spinus tristis,2020-09-26 16:32,St. Marks NWR--Stoney Bayou 1 & Twin Dikes,3,30.1257123,-84.1436863,2020
-156,Alder/Willow Flycatcher (Traill's Flycatcher),Empidonax alnorum/traillii,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
-157,Empidonax sp.,Empidonax sp.,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
-158,Hooded Warbler,Setophaga citrina,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
-159,Magnolia Warbler,Setophaga magnolia,2020-09-26 16:30,Fred George Basin Greenway,2,30.4929486,-84.3567449,2020
-160,Canada Warbler,Cardellina canadensis,2020-09-26 16:30,Kendall Indian Hammocks Park,1,25.6953,-80.3734,2020
-161,Scarlet Tanager,Piranga olivacea,2020-09-26 16:30,Kendall Indian Hammocks Park,1,25.6953,-80.3734,2020
-162,Baltimore Oriole,Icterus galbula,2020-09-26 16:29,Private residence Solandra Dr.,1,30.2550815,-81.7499576,2020
-163,Chestnut-sided Warbler,Setophaga pensylvanica,2020-09-26 16:23,SE Indianhead Acres (private residence),1,30.4175453,-84.2526474,2020
-164,Tennessee Warbler,Leiothlypis peregrina,2020-09-26 16:15,Kendall Green Park,1,25.6923384,-80.4361171,2020
-165,Blackburnian Warbler,Setophaga fusca,2020-09-26 16:15,Kendall Green Park,1,25.6923384,-80.4361171,2020
-166,American Oystercatcher,Haematopus palliatus,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,2,26.476174,-81.9673795,2020
-167,Wilson's Plover,Charadrius wilsonia,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,1,26.476174,-81.9673795,2020
-168,Piping Plover,Charadrius melodus,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,2,26.476174,-81.9673795,2020
-169,Black Skimmer,Rynchops niger,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,102,26.476174,-81.9673795,2020
-170,House Sparrow,Passer domesticus,2020-09-26 16:06,Lake Okeechobee,5,27.1960526,-80.8299673,2020
-171,peep sp.,Calidris sp. (peep sp.),2020-09-26 16:02,Ohio Key,2,24.6720562,-81.2448406,2020
-172,large tern sp.,Hydroprogne/Thalasseus sp.,2020-09-26 15:52,Alligator Point,60,29.8937866,-84.3737608,2020
-173,Northern Bobwhite,Colinus virginianus,2020-09-26 15:49,Lake Loch Leven,2,28.8272489,-81.6384333,2020
-174,Neotropic Cormorant,Phalacrocorax brasilianus,2020-09-26 15:41,Wakodahatchee Wetlands,1,26.4781984,-80.144738,2020
-175,Neotropic x Double-crested Cormorant (hybrid),Phalacrocorax brasilianus x auritus,2020-09-26 15:41,Wakodahatchee Wetlands,1,26.4781984,-80.144738,2020
-176,Crested Caracara,Caracara cheriway,2020-09-26 15:40,Avon Park Cut Off Rd. sod fields and surrounding area,1,27.6902924,-81.6627073,2020
-177,Eastern Meadowlark,Sturnella magna,2020-09-26 15:40,Avon Park Cut Off Rd. sod fields and surrounding area,2,27.6902924,-81.6627073,2020
-178,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2020-09-26 15:05,"Big Bend Wildlands Preserve, Greenville US-FL 30.30484, -83.76998",1,30.30484,-83.769976,2020
-179,Eastern Kingbird,Tyrannus tyrannus,2020-09-26 15:00,Shell Key Preserve,2,27.6677178,-82.7425003,2020
-180,Wood Thrush,Hylocichla mustelina,2020-09-26 15:00,Pinecraft Park,1,27.3189746,-82.5037765,2020
-181,Broad-winged Hawk,Buteo platypterus,2020-09-26 14:25,"Florida's Turnpike N, Vero Beach US-FL 27.55949, -80.75331",1,27.559488,-80.75331,2020
-182,Purple Martin,Progne subis,2020-09-26 14:10,OK Corral and Spa,1,26.994471,-81.888136,2020
-183,duck sp.,Anatinae sp.,2020-09-26 14:06,Merritt Island NWR--Black Point Wildlife Drive,1,28.6575241,-80.7545391,2020
-184,new world vulture sp.,Cathartidae sp.,2020-09-26 14:00,"Florida 8, Quincy, Florida, US (30.562, -84.646)",1,30.5622044,-84.6462619,2020
-185,Indigo Bunting,Passerina cyanea,2020-09-26 14:00,Jupiter Farms,1,26.9128593,-80.2081604,2020
-186,White-tailed Kite,Elanus leucurus,2020-09-26 13:58,Stormwater Treatment Area 3/4--lower,1,26.3396402,-80.5494757,2020
-187,American Kestrel,Falco sparverius,2020-09-26 13:58,Stormwater Treatment Area 3/4--lower,1,26.3396402,-80.5494757,2020
-188,Yellow-billed Cuckoo,Coccyzus americanus,2020-09-26 13:46,St. Marks NWR--Mounds Trail & Tower Pond,1,30.0879518,-84.1609812,2020
-189,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-26 13:36,Higgs Beach Dog Park,10,24.5478193,-81.7866268,2020
-190,Swainson's Warbler,Limnothlypis swainsonii,2020-09-26 13:36,Higgs Beach Dog Park,1,24.5478193,-81.7866268,2020
-191,Gray-headed Swamphen,Porphyrio poliocephalus,2020-09-26 13:32,Lake Apopka Wildlife Drive,3,28.6691082,-81.5574338,2020
-192,House Wren,Troglodytes aedon,2020-09-26 13:01,Newnans Lake--Earl P. Powers Park,1,29.6179943,-82.2511673,2020
-193,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 13:00,Demetree Park,4,28.5336673,-81.3189796,2020
-194,Louisiana Waterthrush,Parkesia motacilla,2020-09-26 12:55,Natural Bridge Battlefield Historic SP,1,30.2841129,-84.1500549,2020
-195,Black Tern,Chlidonias niger,2020-09-26 12:48,"Alligator Bay, Port Charlotte US-FL 26.97076, -82.11988",1,26.970756,-82.119884,2020
-196,Short-tailed Hawk,Buteo brachyurus,2020-09-26 12:48,"Alligator Bay, Port Charlotte US-FL 26.97076, -82.11988",1,26.970756,-82.119884,2020
-197,Northern Flicker,Colaptes auratus,2020-09-26 12:44,Personal Residence (restricted access),1,27.8659883,-82.8324467,2020
-198,bird sp.,Aves sp.,2020-09-26 12:30,Lake Apopka Wildlife Drive,1,28.6691082,-81.5574338,2020
-199,Mute Swan,Cygnus olor,2020-09-26 12:14,"Peaceful Waters Preserve, Wellington US-FL 26.63274, -80.23388",1,26.632743,-80.233879,2020
-200,Scaly-breasted Munia,Lonchura punctulata,2020-09-26 12:00,Home,3,30.3454818,-87.4006493,2020
-201,Orchard Oriole,Icterus spurius,2020-09-26 12:00,Home,1,30.3454818,-87.4006493,2020
-202,Sharp-shinned Hawk,Accipiter striatus,2020-09-26 11:29,Bahia Honda SP,1,24.6602308,-81.2735188,2020
-203,tern sp.,Sterninae sp.,2020-09-26 11:26,Bald Point SP,1,29.9377826,-84.3381304,2020
-204,Blue-winged Warbler,Vermivora cyanoptera,2020-09-26 11:09,Canopy Shores Park,1,29.8128234,-81.299724,2020
-205,Snowy Plover,Charadrius nivosus,2020-09-26 10:58,Alligator Point,7,29.8937866,-84.3737608,2020
-206,hawk sp.,Accipitridae sp. (hawk sp.),2020-09-26 10:58,Alligator Point,1,29.8937866,-84.3737608,2020
-207,American White Pelican,Pelecanus erythrorhynchos,2020-09-26 10:45,St. George Island SP--Sugar Hill Beach Area,12,29.7245952,-84.7383418,2020
-208,Accipiter sp.,Accipiter sp.,2020-09-26 10:45,SE Farm Rd. Recreation Area,1,30.4528091,-83.3972007,2020
-209,swallow sp.,Hirundinidae sp.,2020-09-26 10:45,St. George Island SP--Sugar Hill Beach Area,5,29.7245952,-84.7383418,2020
-210,Bay-breasted Warbler,Setophaga castanea,2020-09-26 10:40,Cockroach Bay Preserve and surrounding area,1,27.6885443,-82.5014019,2020
-211,White-crowned Pigeon,Patagioenas leucocephala,2020-09-26 10:35,No Name Key,2,24.697714,-81.3310146,2020
-212,Whimbrel,Numenius phaeopus,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",1,30.405344,-81.403901,2020
-213,Semipalmated/Western Sandpiper,Calidris pusilla/mauri,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",30,30.405344,-81.403901,2020
-214,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",10,30.405344,-81.403901,2020
-215,Great Crested Flycatcher,Myiarchus crinitus,2020-09-26 10:30,Pine Island Ridge,1,26.0949108,-80.2790321,2020
-216,Red Knot,Calidris canutus,2020-09-26 10:29,Carlos Pointe,2,26.4031136,-81.8859959,2020
-217,Bobolink,Dolichonyx oryzivorus,2020-09-26 10:17,Frog Pond WMA--Lucky Hammock,2,25.396439,-80.566581,2020
-218,Bank Swallow,Riparia riparia,2020-09-26 10:11,655A Citrus Groves Area,1,27.8795494,-81.7608118,2020
-219,White-rumped Sandpiper,Calidris fuscicollis,2020-09-26 09:55,St. Marks NWR,1,30.1515653,-84.1473314,2020
-220,white egret sp.,Ardea/Egretta/Bubulcus sp.,2020-09-26 09:53,William F. Sheffield Regional Park,1,30.4662604,-81.5619259,2020
-221,Wilson's Warbler,Cardellina pusilla,2020-09-26 09:53,Spanish River Park,1,26.3829,-80.0692,2020
-222,crow sp.,Corvus sp. (crow sp.),2020-09-26 09:40,Faulk Drive Landing,1,30.5215893,-84.3238068,2020
-223,Cliff Swallow,Petrochelidon pyrrhonota,2020-09-26 09:40,Faulk Drive Landing,1,30.5215893,-84.3238068,2020
-224,Spot-breasted Oriole,Icterus pectoralis,2020-09-26 09:40,Plantation Botanical Garden,1,26.1284317,-80.2320814,2020
-225,Lesser Black-backed Gull,Larus fuscus,2020-09-26 09:38,Sand Key Park,1,27.960064,-82.8294897,2020
-226,Common Tern,Sterna hirundo,2020-09-26 09:38,Sand Key Park,2,27.960064,-82.8294897,2020
-227,Fulvous Whistling-Duck,Dendrocygna bicolor,2020-09-26 09:26,Lake Apopka Wildlife Drive,1,28.6691082,-81.5574338,2020
-228,gull sp.,Larinae sp.,2020-09-26 09:24,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",1,30.405344,-81.403901,2020
-229,Indian Peafowl,Pavo cristatus,2020-09-26 09:23,Jax Heights yard,1,30.218526,-81.795968,2020
-230,vireo sp.,Vireo sp.,2020-09-26 09:23,Big Pine Key--Blue Hole,1,24.705893,-81.380295,2020
-231,Black-faced Grassquit,Melanospiza bicolor,2020-09-26 09:23,Big Pine Key--Blue Hole,1,24.705893,-81.380295,2020
-232,Mallard/Mottled Duck,Anas platyrhynchos/fulvigula,2020-09-26 09:20,Bay Care Pond And Surroundings,4,27.9642541,-82.7148628,2020
-233,Kentucky Warbler,Geothlypis formosa,2020-09-26 09:20,NW Mays Island Rd.,1,30.610688,-83.573229,2020
-234,dabbling duck sp.,Anatidae sp. (dabbling duck sp.),2020-09-26 09:16,Lake Apopka Wildlife Drive,50,28.6691082,-81.5574338,2020
-235,small falcon sp.,Falco sp. (small falcon sp.),2020-09-26 09:11,Home,1,29.6712861,-82.3185289,2020
-236,American Avocet,Recurvirostra americana,2020-09-26 09:00,Everglades NP--Flamingo,2,25.1416,-80.9255,2020
+141,Lesser Black-backed Gull,Larus fuscus,2020-09-26 17:06,Northshore Park,1,27.7840369,-82.6235819,2020
+142,Caspian Tern,Hydroprogne caspia,2020-09-26 17:06,Northshore Park,1,27.7840369,-82.6235819,2020
+143,Great Blue Heron x Great Egret (hybrid),Ardea herodias x alba,2020-09-26 17:06,Northshore Park,1,27.7840369,-82.6235819,2020
+144,Monk Parakeet,Myiopsitta monachus,2020-09-26 17:06,Northshore Park,4,27.7840369,-82.6235819,2020
+145,Painted Bunting,Passerina ciris,2020-09-26 17:06,US-FL-Naples-6215 Parkers Hammock Rd - 26.1117x-81.7071,1,26.111666,-81.707144,2020
+146,Common Myna,Acridotheres tristis,2020-09-26 17:03,"13201 Overseas Hwy, Marathon US-FL (24.7321,-81.0189)",2,24.732069,-81.018886,2020
+147,Snail Kite,Rostrhamus sociabilis,2020-09-26 17:00,Sweetwater Preserve,6,29.6092116,-82.3037782,2020
+148,Least Flycatcher,Empidonax minimus,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
+149,Eastern Phoebe,Sayornis phoebe,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
+150,American Robin,Turdus migratorius,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",2,30.796142,-87.410311,2020
+151,Eastern Towhee,Pipilo erythrophthalmus,2020-09-26 17:00,"4551 White Ash Rd, Molino US-FL 30.79614, -87.41031",1,30.796142,-87.410311,2020
+152,Peregrine Falcon,Falco peregrinus,2020-09-26 16:50,"508 Dowling Circle, Lady Lake, Florida, US (28.948, -81.929)",1,28.9476373,-81.9288925,2020
+153,Northern Harrier,Circus hudsonius,2020-09-26 16:46,28th Street wetlands,1,27.8720862,-82.6715183,2020
+154,warbler sp. (Parulidae sp.),Parulidae sp.,2020-09-26 16:40,Fat Deer Key-- Cocoplum Beach,1,24.72997,-81.000868,2020
+155,Semipalmated Sandpiper,Calidris pusilla,2020-09-26 16:32,St. Marks NWR--Stoney Bayou 1 & Twin Dikes,4,30.1257123,-84.1436863,2020
+156,American Goldfinch,Spinus tristis,2020-09-26 16:32,St. Marks NWR--Stoney Bayou 1 & Twin Dikes,3,30.1257123,-84.1436863,2020
+157,Alder/Willow Flycatcher (Traill's Flycatcher),Empidonax alnorum/traillii,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
+158,Empidonax sp.,Empidonax sp.,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
+159,Hooded Warbler,Setophaga citrina,2020-09-26 16:30,Fred George Basin Greenway,1,30.4929486,-84.3567449,2020
+160,Magnolia Warbler,Setophaga magnolia,2020-09-26 16:30,Fred George Basin Greenway,2,30.4929486,-84.3567449,2020
+161,Canada Warbler,Cardellina canadensis,2020-09-26 16:30,Kendall Indian Hammocks Park,1,25.6953,-80.3734,2020
+162,Scarlet Tanager,Piranga olivacea,2020-09-26 16:30,Kendall Indian Hammocks Park,1,25.6953,-80.3734,2020
+163,Baltimore Oriole,Icterus galbula,2020-09-26 16:29,Private residence Solandra Dr.,1,30.2550815,-81.7499576,2020
+164,Chestnut-sided Warbler,Setophaga pensylvanica,2020-09-26 16:23,SE Indianhead Acres (private residence),1,30.4175453,-84.2526474,2020
+165,Tennessee Warbler,Leiothlypis peregrina,2020-09-26 16:15,Kendall Green Park,1,25.6923384,-80.4361171,2020
+166,Blackburnian Warbler,Setophaga fusca,2020-09-26 16:15,Kendall Green Park,1,25.6923384,-80.4361171,2020
+167,American Oystercatcher,Haematopus palliatus,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,2,26.476174,-81.9673795,2020
+168,Wilson's Plover,Charadrius wilsonia,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,1,26.476174,-81.9673795,2020
+169,Piping Plover,Charadrius melodus,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,2,26.476174,-81.9673795,2020
+170,Black Skimmer,Rynchops niger,2020-09-26 16:12,San Carlos Bay/Bunche Beach Preserve,102,26.476174,-81.9673795,2020
+171,House Sparrow,Passer domesticus,2020-09-26 16:06,Lake Okeechobee,5,27.1960526,-80.8299673,2020
+172,peep sp.,Calidris sp. (peep sp.),2020-09-26 16:02,Ohio Key,2,24.6720562,-81.2448406,2020
+173,large tern sp.,Hydroprogne/Thalasseus sp.,2020-09-26 15:52,Alligator Point,60,29.8937866,-84.3737608,2020
+174,Northern Bobwhite,Colinus virginianus,2020-09-26 15:49,Lake Loch Leven,2,28.8272489,-81.6384333,2020
+175,Neotropic Cormorant,Phalacrocorax brasilianus,2020-09-26 15:41,Wakodahatchee Wetlands,1,26.4781984,-80.144738,2020
+176,Neotropic x Double-crested Cormorant (hybrid),Phalacrocorax brasilianus x auritus,2020-09-26 15:41,Wakodahatchee Wetlands,1,26.4781984,-80.144738,2020
+177,Crested Caracara,Caracara cheriway,2020-09-26 15:40,Avon Park Cut Off Rd. sod fields and surrounding area,1,27.6902924,-81.6627073,2020
+178,Eastern Meadowlark,Sturnella magna,2020-09-26 15:40,Avon Park Cut Off Rd. sod fields and surrounding area,2,27.6902924,-81.6627073,2020
+179,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2020-09-26 15:05,"Big Bend Wildlands Preserve, Greenville US-FL 30.30484, -83.76998",1,30.30484,-83.769976,2020
+180,Eastern Kingbird,Tyrannus tyrannus,2020-09-26 15:00,Shell Key Preserve,2,27.6677178,-82.7425003,2020
+181,Wood Thrush,Hylocichla mustelina,2020-09-26 15:00,Pinecraft Park,1,27.3189746,-82.5037765,2020
+182,Broad-winged Hawk,Buteo platypterus,2020-09-26 14:25,"Florida's Turnpike N, Vero Beach US-FL 27.55949, -80.75331",1,27.559488,-80.75331,2020
+183,Northern Flicker,Colaptes auratus,2020-09-26 14:19,Merritt Island NWR--Scrub Trail,1,28.694804,-80.7158715,2020
+184,Purple Martin,Progne subis,2020-09-26 14:10,OK Corral and Spa,1,26.994471,-81.888136,2020
+185,duck sp.,Anatinae sp.,2020-09-26 14:06,Merritt Island NWR--Black Point Wildlife Drive,1,28.6575241,-80.7545391,2020
+186,new world vulture sp.,Cathartidae sp.,2020-09-26 14:00,"Florida 8, Quincy, Florida, US (30.562, -84.646)",1,30.5622044,-84.6462619,2020
+187,Indigo Bunting,Passerina cyanea,2020-09-26 14:00,Jupiter Farms,1,26.9128593,-80.2081604,2020
+188,White-tailed Kite,Elanus leucurus,2020-09-26 13:58,Stormwater Treatment Area 3/4,1,26.3387636,-80.6282356,2020
+189,American Kestrel,Falco sparverius,2020-09-26 13:58,Stormwater Treatment Area 3/4,1,26.3387636,-80.6282356,2020
+190,Yellow-billed Cuckoo,Coccyzus americanus,2020-09-26 13:46,St. Marks NWR--Mounds Trail & Tower Pond,1,30.0879518,-84.1609812,2020
+191,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-26 13:36,Higgs Beach Dog Park,10,24.5478193,-81.7866268,2020
+192,Swainson's Warbler,Limnothlypis swainsonii,2020-09-26 13:36,Higgs Beach Dog Park,1,24.5478193,-81.7866268,2020
+193,Gray-headed Swamphen,Porphyrio poliocephalus,2020-09-26 13:32,Lake Apopka Wildlife Drive,3,28.6691082,-81.5574338,2020
+194,House Wren,Troglodytes aedon,2020-09-26 13:01,Newnans Lake--Earl P. Powers Park,1,29.6179943,-82.2511673,2020
+195,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 13:00,Demetree Park,4,28.5336673,-81.3189796,2020
+196,Louisiana Waterthrush,Parkesia motacilla,2020-09-26 12:55,Natural Bridge Battlefield Historic SP,1,30.2841129,-84.1500549,2020
+197,Black Tern,Chlidonias niger,2020-09-26 12:48,"Alligator Bay, Port Charlotte US-FL 26.97076, -82.11988",1,26.970756,-82.119884,2020
+198,Short-tailed Hawk,Buteo brachyurus,2020-09-26 12:48,"Alligator Bay, Port Charlotte US-FL 26.97076, -82.11988",1,26.970756,-82.119884,2020
+199,bird sp.,Aves sp.,2020-09-26 12:30,Lake Apopka Wildlife Drive,1,28.6691082,-81.5574338,2020
+200,Mute Swan,Cygnus olor,2020-09-26 12:14,"Peaceful Waters Preserve, Wellington US-FL 26.63274, -80.23388",1,26.632743,-80.233879,2020
+201,American Avocet,Recurvirostra americana,2020-09-26 12:13,Little St. George Island East,1,29.5947727,-85.0560239,2020
+202,Snowy Plover,Charadrius nivosus,2020-09-26 12:13,Little St. George Island East,1,29.5947727,-85.0560239,2020
+203,Scaly-breasted Munia,Lonchura punctulata,2020-09-26 12:00,Home,3,30.3454818,-87.4006493,2020
+204,Orchard Oriole,Icterus spurius,2020-09-26 12:00,Home,1,30.3454818,-87.4006493,2020
+205,Sharp-shinned Hawk,Accipiter striatus,2020-09-26 11:29,Bahia Honda SP,1,24.6602308,-81.2735188,2020
+206,tern sp.,Sterninae sp.,2020-09-26 11:26,Bald Point SP,1,29.9377826,-84.3381304,2020
+207,Blue-winged Warbler,Vermivora cyanoptera,2020-09-26 11:09,Canopy Shores Park,1,29.8128234,-81.299724,2020
+208,hawk sp.,Accipitridae sp. (hawk sp.),2020-09-26 10:58,Alligator Point,1,29.8937866,-84.3737608,2020
+209,American White Pelican,Pelecanus erythrorhynchos,2020-09-26 10:45,St. George Island SP--Sugar Hill Beach Area,12,29.7245952,-84.7383418,2020
+210,Accipiter sp.,Accipiter sp.,2020-09-26 10:45,SE Farm Rd. Recreation Area,1,30.4528091,-83.3972007,2020
+211,swallow sp.,Hirundinidae sp.,2020-09-26 10:45,St. George Island SP--Sugar Hill Beach Area,5,29.7245952,-84.7383418,2020
+212,Bay-breasted Warbler,Setophaga castanea,2020-09-26 10:40,Cockroach Bay Preserve and surrounding area,1,27.6885443,-82.5014019,2020
+213,White-crowned Pigeon,Patagioenas leucocephala,2020-09-26 10:35,No Name Key,2,24.697714,-81.3310146,2020
+214,Whimbrel,Numenius phaeopus,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",1,30.405344,-81.403901,2020
+215,Semipalmated/Western Sandpiper,Calidris pusilla/mauri,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",30,30.405344,-81.403901,2020
+216,Short-billed/Long-billed Dowitcher,Limnodromus griseus/scolopaceus,2020-09-26 10:31,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",10,30.405344,-81.403901,2020
+217,Great Crested Flycatcher,Myiarchus crinitus,2020-09-26 10:30,Pine Island Ridge,1,26.0949108,-80.2790321,2020
+218,Red Knot,Calidris canutus,2020-09-26 10:29,Carlos Pointe,2,26.4031136,-81.8859959,2020
+219,Bobolink,Dolichonyx oryzivorus,2020-09-26 10:17,Frog Pond WMA--Lucky Hammock,2,25.396439,-80.566581,2020
+220,Bank Swallow,Riparia riparia,2020-09-26 10:11,655A Citrus Groves Area,1,27.8795494,-81.7608118,2020
+221,White-rumped Sandpiper,Calidris fuscicollis,2020-09-26 09:55,St. Marks NWR,1,30.1515653,-84.1473314,2020
+222,white egret sp.,Ardea/Egretta/Bubulcus sp.,2020-09-26 09:53,William F. Sheffield Regional Park,1,30.4662604,-81.5619259,2020
+223,Wilson's Warbler,Cardellina pusilla,2020-09-26 09:53,Spanish River Park,1,26.3829,-80.0692,2020
+224,crow sp.,Corvus sp. (crow sp.),2020-09-26 09:40,Faulk Drive Landing,1,30.5215893,-84.3238068,2020
+225,Cliff Swallow,Petrochelidon pyrrhonota,2020-09-26 09:40,Faulk Drive Landing,1,30.5215893,-84.3238068,2020
+226,Spot-breasted Oriole,Icterus pectoralis,2020-09-26 09:40,Plantation Botanical Garden,1,26.1284317,-80.2320814,2020
+227,Common Tern,Sterna hirundo,2020-09-26 09:38,Sand Key Park,2,27.960064,-82.8294897,2020
+228,Fulvous Whistling-Duck,Dendrocygna bicolor,2020-09-26 09:26,Lake Apopka Wildlife Drive,1,28.6691082,-81.5574338,2020
+229,gull sp.,Larinae sp.,2020-09-26 09:24,"Huguenot Memorial Park, Jacksonville US-FL 30.40534, -81.40390",1,30.405344,-81.403901,2020
+230,Indian Peafowl,Pavo cristatus,2020-09-26 09:23,Jax Heights yard,1,30.218526,-81.795968,2020
+231,vireo sp.,Vireo sp.,2020-09-26 09:23,Big Pine Key--Blue Hole,1,24.705893,-81.380295,2020
+232,Black-faced Grassquit,Melanospiza bicolor,2020-09-26 09:23,Big Pine Key--Blue Hole,1,24.705893,-81.380295,2020
+233,Mallard/Mottled Duck,Anas platyrhynchos/fulvigula,2020-09-26 09:20,Bay Care Pond And Surroundings,4,27.9642541,-82.7148628,2020
+234,Kentucky Warbler,Geothlypis formosa,2020-09-26 09:20,NW Mays Island Rd.,1,30.610688,-83.573229,2020
+235,dabbling duck sp.,Anatidae sp. (dabbling duck sp.),2020-09-26 09:16,Lake Apopka Wildlife Drive,50,28.6691082,-81.5574338,2020
+236,small falcon sp.,Falco sp. (small falcon sp.),2020-09-26 09:11,Home,1,29.6712861,-82.3185289,2020
 237,Chuck-will's-widow,Antrostomus carolinensis,2020-09-26 08:30,Evergreen Cemetery,1,26.1061594,-80.1318741,2020
 238,Blackpoll Warbler,Setophaga striata,2020-09-26 08:30,Evergreen Cemetery,2,26.1061594,-80.1318741,2020
 239,Bell's Vireo,Vireo bellii,2020-09-26 08:28,Double Hammock Creek behind Regency Cinema,1,28.308453,-82.703109,2020
