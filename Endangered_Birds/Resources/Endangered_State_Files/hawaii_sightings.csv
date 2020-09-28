@@ -1,369 +1,372 @@
 ,Common Name,Scientific Name,Date Sighted,Location Name,Num Sighted,Latitude,Longitude,year
-0,Spotted Dove,Streptopelia chinensis,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",2,19.724796,-155.979913,2020
-1,Zebra Dove,Geopelia striata,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",6,19.724796,-155.979913,2020
-2,Warbling White-eye,Zosterops japonicus,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",2,19.724796,-155.979913,2020
-3,Common Myna,Acridotheres tristis,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",4,19.724796,-155.979913,2020
-4,House Sparrow,Passer domesticus,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",1,19.724796,-155.979913,2020
-5,House Finch,Haemorhous mexicanus,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",5,19.724796,-155.979913,2020
-6,Yellow-fronted Canary,Crithagra mozambica,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",1,19.724796,-155.979913,2020
-7,Yellow-billed Cardinal,Paroaria capitata,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",2,19.724796,-155.979913,2020
-8,Saffron Finch,Sicalis flaveola,2020-09-26 17:38,"73-1222 Loloa Dr, Kailua Kona US-HI 19.72480, -155.97991",2,19.724796,-155.979913,2020
-9,Black-crowned Night-Heron,Nycticorax nycticorax,2020-09-26 16:36,"Marine Corps Air Station Hawaii, Kailua US-HI 21.44891, -157.74352",1,21.448914,-157.743524,2020
-10,Hawaiian Goose,Branta sandvicensis,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",2,22.2189121,-159.3869413,2020
-11,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-26 16:33,"Kahili Point (22.219, -159.387)",2,22.2189121,-159.3869413,2020
-12,Pacific Golden-Plover,Pluvialis fulva,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",1,22.2189121,-159.3869413,2020
-13,Great Frigatebird,Fregata minor,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",1,22.2189121,-159.3869413,2020
-14,Red-footed Booby,Sula sula,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",1,22.2189121,-159.3869413,2020
-15,White-rumped Shama,Copsychus malabaricus,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",1,22.2189121,-159.3869413,2020
-16,Northern Cardinal,Cardinalis cardinalis,2020-09-26 16:33,"Kahili Point (22.219, -159.387)",1,22.2189121,-159.3869413,2020
-17,Hawaiian Coot,Fulica alai,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,28,19.6621002,-156.0179014,2020
-18,Black-necked Stilt,Himantopus mexicanus,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,40,19.6621002,-156.0179014,2020
-19,Ruddy Turnstone,Arenaria interpres,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,24,19.6621002,-156.0179014,2020
-20,Sanderling,Calidris alba,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2020
-21,Long-billed Dowitcher,Limnodromus scolopaceus,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2020
-22,Wandering Tattler,Tringa incana,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2020
-23,Least Tern,Sternula antillarum,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2020
-24,Cattle Egret,Bubulcus ibis,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2020
-25,Common Waxbill,Estrilda astrild,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,12,19.6621002,-156.0179014,2020
-26,African Silverbill,Euodice cantans,2020-09-26 16:31,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2020
-27,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2020-09-26 16:24,Manoa Valley District Park,2,21.3134044,-157.8076816,2020
-28,Rose-ringed Parakeet,Psittacula krameri,2020-09-26 16:24,Manoa Valley District Park,4,21.3134044,-157.8076816,2020
-29,Red-vented Bulbul,Pycnonotus cafer,2020-09-26 16:24,Manoa Valley District Park,7,21.3134044,-157.8076816,2020
-30,Chestnut Munia,Lonchura atricapilla,2020-09-26 16:24,Manoa Valley District Park,12,21.3134044,-157.8076816,2020
-31,Java Sparrow,Lonchura oryzivora,2020-09-26 16:24,Manoa Valley District Park,2,21.3134044,-157.8076816,2020
-32,Red-crested Cardinal,Paroaria coronata,2020-09-26 16:24,Manoa Valley District Park,15,21.3134044,-157.8076816,2020
-33,White-tailed Tropicbird,Phaethon lepturus,2020-09-26 15:47,"4160 Wailapa Road, Kilauea, Hawaii, US (22.218, -159.386)",2,22.2181145,-159.3861535,2020
-34,Pectoral Sandpiper,Calidris melanotos,2020-09-26 15:08,Hamakua Marsh,1,21.3912752,-157.74333,2020
-35,Cackling Goose,Branta hutchinsii,2020-09-26 14:58,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2020
-36,Red Junglefowl,Gallus gallus,2020-09-26 14:26,Kilauea Overlook - Always Open,1,22.2277391,-159.4012624,2020
-37,Rock Pigeon,Columba livia,2020-09-26 14:26,Kilauea Overlook - Always Open,2,22.2277391,-159.4012624,2020
-38,Red-tailed Tropicbird,Phaethon rubricauda,2020-09-26 14:26,Kilauea Overlook - Always Open,1,22.2277391,-159.4012624,2020
-39,Chinese Hwamei,Garrulax canorus,2020-09-26 14:26,Kilauea Overlook - Always Open,1,22.2277391,-159.4012624,2020
-40,Apapane,Himatione sanguinea,2020-09-26 13:54,Hawai'i Volcanoes NP -- Visitor Center and Volcano House,2,19.4295211,-155.2575515,2020
-41,Erckel's Francolin,Pternistis erckelii,2020-09-26 11:00,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),1,19.8864154,-155.668606,2020
-42,Wild Turkey,Meleagris gallopavo,2020-09-26 11:00,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),18,19.8864154,-155.668606,2020
-43,Short-eared Owl,Asio flammeus,2020-09-26 11:00,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),2,19.8864154,-155.668606,2020
-44,Eurasian Skylark,Alauda arvensis,2020-09-26 11:00,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),3,19.8864154,-155.668606,2020
-45,Northern Shoveler,Spatula clypeata,2020-09-26 10:48,Kaloko-Honokohau NHP--Aimakapa Pond,1,19.6771833,-156.0259759,2020
-46,Wedge-tailed Shearwater,Ardenna pacifica,2020-09-26 10:48,Kaloko-Honokohau NHP--Aimakapa Pond,2,19.6771833,-156.0259759,2020
-47,White Tern,Gygis alba,2020-09-26 09:16,"Manoa Valley District Park, Honolulu US-HI 21.31258, -157.80890",3,21.312584,-157.808897,2020
-48,Northern Mockingbird,Mimus polyglottos,2020-09-26 09:12,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2020
-49,Black Noddy,Anous minutus,2020-09-26 09:09,"Kalalau Trail, Kapaʻa, Hawaii, US (22.221, -159.583)",3,22.2212007,-159.5830961,2020
-50,Brown Booby,Sula leucogaster,2020-09-26 09:09,"Kalalau Trail, Kapaʻa, Hawaii, US (22.221, -159.583)",5,22.2212007,-159.5830961,2020
-51,Red-whiskered Bulbul,Pycnonotus jocosus,2020-09-26 08:46,"1214 Mahiole Street, Honolulu, Hawaii, US (21.353, -157.896)",2,21.3529433,-157.895651,2020
-52,Gray Francolin,Francolinus pondicerianus,2020-09-26 06:48,A106 Lanai,1,19.5684672,-155.9592539,2020
-53,Rock Pigeon,Columba livia,2019-09-26 18:02,"Honolua Bay, West Maui",5,21.0128874,-156.638217,2019
-54,Black-crowned Night-Heron,Nycticorax nycticorax,2019-09-26 18:02,"Honolua Bay, West Maui",6,21.0128874,-156.638217,2019
-55,Gray Francolin,Francolinus pondicerianus,2019-09-26 17:20,Mauna Lani South Golf Course,8,19.930047,-155.8766429,2019
-56,Spotted Dove,Streptopelia chinensis,2019-09-26 17:20,Mauna Lani South Golf Course,3,19.930047,-155.8766429,2019
-57,Zebra Dove,Geopelia striata,2019-09-26 17:20,Mauna Lani South Golf Course,8,19.930047,-155.8766429,2019
-58,Pacific Golden-Plover,Pluvialis fulva,2019-09-26 17:20,Mauna Lani South Golf Course,7,19.930047,-155.8766429,2019
-59,Bristle-thighed Curlew,Numenius tahitiensis,2019-09-26 17:20,Mauna Lani South Golf Course,2,19.930047,-155.8766429,2019
-60,Cattle Egret,Bubulcus ibis,2019-09-26 17:20,Mauna Lani South Golf Course,15,19.930047,-155.8766429,2019
-61,Common Myna,Acridotheres tristis,2019-09-26 17:20,Mauna Lani South Golf Course,28,19.930047,-155.8766429,2019
-62,House Sparrow,Passer domesticus,2019-09-26 17:20,Mauna Lani South Golf Course,15,19.930047,-155.8766429,2019
-63,House Finch,Haemorhous mexicanus,2019-09-26 17:20,Mauna Lani South Golf Course,2,19.930047,-155.8766429,2019
-64,Northern Cardinal,Cardinalis cardinalis,2019-09-26 17:20,Mauna Lani South Golf Course,2,19.930047,-155.8766429,2019
-65,Yellow-billed Cardinal,Paroaria capitata,2019-09-26 17:20,Mauna Lani South Golf Course,3,19.930047,-155.8766429,2019
-66,Saffron Finch,Sicalis flaveola,2019-09-26 17:20,Mauna Lani South Golf Course,4,19.930047,-155.8766429,2019
-67,Black Noddy,Anous minutus,2019-09-26 16:23,Keokea Beach Park,24,20.2276807,-155.7455885,2019
-68,Wedge-tailed Shearwater,Ardenna pacifica,2019-09-26 16:23,Keokea Beach Park,20,20.2276807,-155.7455885,2019
-69,Sooty Shearwater,Ardenna grisea,2019-09-26 16:23,Keokea Beach Park,5,20.2276807,-155.7455885,2019
-70,Procellariid sp.,Procellariidae sp.,2019-09-26 16:23,Keokea Beach Park,4,20.2276807,-155.7455885,2019
-71,Red-vented Bulbul,Pycnonotus cafer,2019-09-26 16:16,Hanauma Bay Beach Park,1,21.2717791,-157.6973248,2019
-72,Red-crested Cardinal,Paroaria coronata,2019-09-26 16:16,Hanauma Bay Beach Park,2,21.2717791,-157.6973248,2019
-73,Hawaiian Goose,Branta sandvicensis,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,14,20.8926173,-156.4581578,2019
-74,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,2,20.8926173,-156.4581578,2019
-75,Hawaiian Coot,Fulica alai,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,4,20.8926173,-156.4581578,2019
-76,Black-necked Stilt,Himantopus mexicanus,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,50,20.8926173,-156.4581578,2019
-77,Ruddy Turnstone,Arenaria interpres,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,20,20.8926173,-156.4581578,2019
-78,Sanderling,Calidris alba,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,2,20.8926173,-156.4581578,2019
-79,Pectoral Sandpiper,Calidris melanotos,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,2,20.8926173,-156.4581578,2019
-80,Warbling White-eye,Zosterops japonicus,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,6,20.8926173,-156.4581578,2019
-81,African Silverbill,Euodice cantans,2019-09-26 15:27,Kanaha Pond Wildlife Sanctuary,2,20.8926173,-156.4581578,2019
-82,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),21,21.3567,-158.0194,2019
-83,Common Gallinule,Gallinula galeata,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),3,21.3567,-158.0194,2019
-84,Wandering Tattler,Tringa incana,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2019
-85,Red-whiskered Bulbul,Pycnonotus jocosus,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2019
-86,White-rumped Shama,Copsychus malabaricus,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2019
-87,Common Waxbill,Estrilda astrild,2019-09-26 15:25,Pearl Harbor NWR--Honouliuli Unit (restricted access),6,21.3567,-158.0194,2019
-88,Hawaiian Hawk,Buteo solitarius,2019-09-26 14:53,"RT-200, Hilo US-HI (19.6794,-155.1528)",1,19.679359,-155.152754,2019
-89,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2019-09-26 14:50,Kahuku Aqua Ponds,10,21.6830426,-157.958293,2019
-90,Scaly-breasted Munia,Lonchura punctulata,2019-09-26 14:34,HI: Kealia Pond NWR - Boardwalk,10,20.7954888,-156.4852881,2019
-91,Mourning Dove,Zenaida macroura,2019-09-26 13:36,HI: Kealia Pond NWR - Kanuimanu Fishponds,1,20.7948215,-156.4709038,2019
-92,Long-billed Dowitcher,Limnodromus scolopaceus,2019-09-26 13:36,HI: Kealia Pond NWR - Kanuimanu Fishponds,2,20.7948215,-156.4709038,2019
-93,Orange-cheeked Waxbill,Estrilda melpoda,2019-09-26 13:36,HI: Kealia Pond NWR - Kanuimanu Fishponds,4,20.7948215,-156.4709038,2019
-94,Chestnut Munia,Lonchura atricapilla,2019-09-26 13:36,HI: Kealia Pond NWR - Kanuimanu Fishponds,7,20.7948215,-156.4709038,2019
-95,Java Sparrow,Lonchura oryzivora,2019-09-26 13:36,HI: Kealia Pond NWR - Kanuimanu Fishponds,6,20.7948215,-156.4709038,2019
-96,Hawaiian Duck,Anas wyvilliana,2019-09-26 13:19,Hokuala Golf Course (formerly Kauai Lagoons Golf Course),2,21.962711,-159.3432784,2019
-97,Northern Mockingbird,Mimus polyglottos,2019-09-26 13:19,Hokuala Golf Course (formerly Kauai Lagoons Golf Course),1,21.962711,-159.3432784,2019
-98,Apapane,Himatione sanguinea,2019-09-26 13:04,"96720, Hilo US-HI (19.6539,-155.2461)",4,19.653887,-155.246117,2019
-99,Iiwi,Drepanis coccinea,2019-09-26 13:04,"96720, Hilo US-HI (19.6539,-155.2461)",5,19.653887,-155.246117,2019
-100,Ring-necked Pheasant,Phasianus colchicus,2019-09-26 11:30,Haleakala NP--Halemau'u Trail,1,20.7553514,-156.2233114,2019
-101,Eurasian Skylark,Alauda arvensis,2019-09-26 11:30,Haleakala NP--Halemau'u Trail,1,20.7553514,-156.2233114,2019
-102,Yellow-fronted Canary,Crithagra mozambica,2019-09-26 10:53,"Maunalani lower pkg lot from 3rd Flr lanai, Honolulu, Hawaii, US (21.297, -157.789)",2,21.2974789,-157.7890174,2019
-103,Hawaii Amakihi,Chlorodrepanis virens,2019-09-26 10:51,Haleakala NP--Halemau'u Trail,4,20.7553514,-156.2233114,2019
-104,Chukar,Alectoris chukar,2019-09-26 10:29,HI: Haleakala NP -- Kalahaku Overlook,1,20.7363686,-156.2354565,2019
-105,Red-tailed Tropicbird,Phaethon rubricauda,2019-09-26 09:00,Kilauea Point NWR,1,22.2316072,-159.4019778,2019
-106,Great Frigatebird,Fregata minor,2019-09-26 09:00,Kilauea Point NWR,15,22.2316072,-159.4019778,2019
-107,Brown Booby,Sula leucogaster,2019-09-26 09:00,Kilauea Point NWR,2,22.2316072,-159.4019778,2019
-108,Red-footed Booby,Sula sula,2019-09-26 09:00,Kilauea Point NWR,100,22.2316072,-159.4019778,2019
-109,Japanese Bush Warbler,Horornis diphone,2019-09-26 09:00,Kilauea Point NWR,2,22.2316072,-159.4019778,2019
-110,Erckel's Francolin,Pternistis erckelii,2019-09-26 08:37,"96720, Hilo US-HI (19.8328,-155.5962)",2,19.832756,-155.596239,2019
-111,Kalij Pheasant,Lophura leucomelanos,2019-09-26 08:37,"96720, Hilo US-HI (19.8328,-155.5962)",12,19.832756,-155.596239,2019
-112,Hawaii Elepaio,Chasiempis sandwichensis,2019-09-26 08:37,"96720, Hilo US-HI (19.8328,-155.5962)",2,19.832756,-155.596239,2019
-113,Red-billed Leiothrix,Leiothrix lutea,2019-09-26 08:37,"96720, Hilo US-HI (19.8328,-155.5962)",2,19.832756,-155.596239,2019
-114,Palila,Loxioides bailleui,2019-09-26 08:37,"96720, Hilo US-HI (19.8328,-155.5962)",2,19.832756,-155.596239,2019
-115,Maui Alauahio,Paroreomyza montana,2019-09-26 08:30,Haleakala NP--Hosmer Grove,2,20.7684183,-156.2365883,2019
-116,Chinese Hwamei,Garrulax canorus,2019-09-26 08:08,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2019
-117,Rosy-faced Lovebird,Agapornis roseicollis,2019-09-26 08:00,"Kehei, Maui, Hawaii",3,20.7227404,-156.4465452,2019
-118,White Tern,Gygis alba,2019-09-26 07:55,Fort Derussy Beach Park,7,21.2801171,-157.8342676,2019
-119,Rose-ringed Parakeet,Psittacula krameri,2019-09-26 06:50,"MNRC Upper parking lot, Honolulu, Hawaii, US (21.297, -157.789)",4,21.2974609,-157.7887182,2019
-120,Cackling Goose,Branta hutchinsii,2019-09-26 06:34,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2019
-121,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),2019-09-26 06:34,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2019
-122,Northern Shoveler,Spatula clypeata,2019-09-26 06:34,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2019
-123,Least Tern,Sternula antillarum,2019-09-26 06:34,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2019
-124,White-faced Ibis,Plegadis chihi,2019-09-26 06:34,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2019
-125,Indian Peafowl,Pavo cristatus,2019-09-26 05:44,"96786, Makaha US-HI (21.4841,-158.2083)",1,21.4841,-158.208343,2019
-126,Zebra Dove,Geopelia striata,2018-09-26 17:11,Iroquois Point,2,21.321917,-157.974149,2018
-127,Pacific Golden-Plover,Pluvialis fulva,2018-09-26 17:11,Iroquois Point,1,21.321917,-157.974149,2018
-128,Red-vented Bulbul,Pycnonotus cafer,2018-09-26 17:11,Iroquois Point,4,21.321917,-157.974149,2018
-129,Warbling White-eye,Zosterops japonicus,2018-09-26 17:11,Iroquois Point,3,21.321917,-157.974149,2018
-130,Common Myna,Acridotheres tristis,2018-09-26 17:11,Iroquois Point,2,21.321917,-157.974149,2018
-131,Gray Francolin,Francolinus pondicerianus,2018-09-26 17:00,Wawaloli Beach Park,1,19.7179898,-156.0514784,2018
-132,Spotted Dove,Streptopelia chinensis,2018-09-26 17:00,Wawaloli Beach Park,2,19.7179898,-156.0514784,2018
-133,Black-necked Stilt,Himantopus mexicanus,2018-09-26 17:00,Wawaloli Beach Park,4,19.7179898,-156.0514784,2018
-134,Black-crowned Night-Heron,Nycticorax nycticorax,2018-09-26 17:00,Wawaloli Beach Park,1,19.7179898,-156.0514784,2018
-135,Northern Mockingbird,Mimus polyglottos,2018-09-26 17:00,Wawaloli Beach Park,1,19.7179898,-156.0514784,2018
-136,White-rumped Shama,Copsychus malabaricus,2018-09-26 17:00,"320 Papaloa Rd, Kapaa US-HI (22.0507,-159.3336)",1,22.05069,-159.333633,2018
-137,House Sparrow,Passer domesticus,2018-09-26 17:00,Wawaloli Beach Park,6,19.7179898,-156.0514784,2018
-138,House Finch,Haemorhous mexicanus,2018-09-26 17:00,Wawaloli Beach Park,2,19.7179898,-156.0514784,2018
-139,Northern Cardinal,Cardinalis cardinalis,2018-09-26 17:00,Wawaloli Beach Park,1,19.7179898,-156.0514784,2018
-140,Yellow-billed Cardinal,Paroaria capitata,2018-09-26 17:00,Wawaloli Beach Park,2,19.7179898,-156.0514784,2018
-141,Saffron Finch,Sicalis flaveola,2018-09-26 17:00,Wawaloli Beach Park,2,19.7179898,-156.0514784,2018
-142,Cattle Egret,Bubulcus ibis,2018-09-26 16:43,HI: Waimea (H) - Ala Ohia Road,5,20.0145598,-155.6671635,2018
-143,Eurasian Skylark,Alauda arvensis,2018-09-26 16:43,HI: Waimea (H) - Ala Ohia Road,1,20.0145598,-155.6671635,2018
-144,Java Sparrow,Lonchura oryzivora,2018-09-26 16:43,HI: Waimea (H) - Ala Ohia Road,2,20.0145598,-155.6671635,2018
-145,Yellow-fronted Canary,Crithagra mozambica,2018-09-26 16:43,HI: Waimea (H) - Ala Ohia Road,2,20.0145598,-155.6671635,2018
-146,Scaly-breasted Munia,Lonchura punctulata,2018-09-26 16:26,HI: Waimea (H) - Ala Ohia Road,1,20.0145598,-155.6671635,2018
-147,Hawaiian Goose,Branta sandvicensis,2018-09-26 15:40,Kilauea Point NWR,8,22.2316072,-159.4019778,2018
-148,Wedge-tailed Shearwater,Ardenna pacifica,2018-09-26 15:40,Kilauea Point NWR,10,22.2316072,-159.4019778,2018
-149,Red-footed Booby,Sula sula,2018-09-26 15:40,Kilauea Point NWR,20,22.2316072,-159.4019778,2018
-150,Red-crested Cardinal,Paroaria coronata,2018-09-26 15:40,Kilauea Point NWR,2,22.2316072,-159.4019778,2018
-151,Cackling Goose,Branta hutchinsii,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2018
-152,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),16,21.3567,-158.0194,2018
-153,Common Gallinule,Gallinula galeata,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),5,21.3567,-158.0194,2018
-154,Hawaiian Coot,Fulica alai,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),60,21.3567,-158.0194,2018
-155,Ruddy Turnstone,Arenaria interpres,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),6,21.3567,-158.0194,2018
-156,Red Knot,Calidris canutus,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2018
-157,Red-whiskered Bulbul,Pycnonotus jocosus,2018-09-26 15:35,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2018
-158,Sanderling,Calidris alba,2018-09-26 15:20,"Kealia Coastal Boardwalk, Kihei",2,20.7966237,-156.4910798,2018
-159,Wandering Tattler,Tringa incana,2018-09-26 15:20,"Kealia Coastal Boardwalk, Kihei",1,20.7966237,-156.4910798,2018
-160,White-faced Ibis,Plegadis chihi,2018-09-26 15:20,"Kealia Coastal Boardwalk, Kihei",3,20.7966237,-156.4910798,2018
-161,Mourning Dove,Zenaida macroura,2018-09-26 14:52,Mauna Lani Point,4,19.9386577,-155.8753967,2018
-162,Bristle-thighed Curlew,Numenius tahitiensis,2018-09-26 14:36,Mauna Lani South Golf Course,4,19.9388307,-155.8670673,2018
-163,Red Junglefowl,Gallus gallus,2018-09-26 13:45,Ke Ala Halle Makalae Path,8,22.0908492,-159.3066716,2018
-164,Great Frigatebird,Fregata minor,2018-09-26 13:00,Waihe'e Refuge,1,20.9370919,-156.5081674,2018
-165,Hawaiian Duck,Anas wyvilliana,2018-09-26 10:40,Hanalei NWR -- Ohiki Rd.,1,22.2072115,-159.4754791,2018
-166,Red-masked Parakeet,Psittacara erythrogenys,2018-09-26 08:30,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",6,19.622327,-155.979194,2018
-167,White Tern,Gygis alba,2018-09-26 07:30,Niu Valley ,3,21.285456,-157.737963,2018
-168,Rose-ringed Parakeet,Psittacula krameri,2018-09-26 07:30,Niu Valley ,5,21.285456,-157.737963,2018
-169,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2018-09-26 07:10,"715 South Kihei Road, Kihei, Hawaii, US (20.764, -156.458)",1,20.7636701,-156.458074,2018
-170,Mallard,Anas platyrhynchos,2018-09-26 07:00,Leleiwi Park,5,19.7340274,-155.0162745,2018
-171,Semipalmated Plover,Charadrius semipalmatus,2018-09-26,Salt Pond Beach Park ponds,1,21.8996151,-159.6055824,2018
-172,Black Noddy,Anous minutus,2018-09-26,Na Pali Coast -- tour boat route,75,22.1718906,-159.7059517,2018
-173,Brown Booby,Sula leucogaster,2018-09-26,Na Pali Coast -- tour boat route,10,22.1718906,-159.7059517,2018
-174,Newell's Shearwater,Puffinus newelli,2017-09-26 18:44,"4-5079–4-5217 Kuhio Hwy, Kapaa US-HI (22.1791,-159.3309)",3,22.179098,-159.330874,2017
-175,African Silverbill,Euodice cantans,2017-09-26 17:00,Palamanui CC,2,19.7395681,-156.0132837,2017
-176,Erckel's Francolin,Pternistis erckelii,2017-09-26 16:54,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),1,19.8864154,-155.668606,2017
-177,Mourning Dove,Zenaida macroura,2017-09-26 16:54,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),4,19.8864154,-155.668606,2017
-178,Eurasian Skylark,Alauda arvensis,2017-09-26 16:54,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),3,19.8864154,-155.668606,2017
-179,Common Myna,Acridotheres tristis,2017-09-26 16:54,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),2,19.8864154,-155.668606,2017
-180,House Sparrow,Passer domesticus,2017-09-26 16:38,"Pohakuloa Cabins, Formerly ""Mauna Kea State Park""",5,19.7496797,-155.5236626,2017
-181,Ring-necked Pheasant,Phasianus colchicus,2017-09-26 15:37,"Keanakolu Road (dirt road to Hakalau NWR, often misnamed Mana Road)",3,19.739723,-155.3816986,2017
-182,Pacific Golden-Plover,Pluvialis fulva,2017-09-26 15:37,"Keanakolu Road (dirt road to Hakalau NWR, often misnamed Mana Road)",2,19.739723,-155.3816986,2017
-183,Spotted Dove,Streptopelia chinensis,2017-09-26 15:30,Wailua,2,22.0491695,-159.3351674,2017
-184,Zebra Dove,Geopelia striata,2017-09-26 15:30,Wailua,8,22.0491695,-159.3351674,2017
-185,Cattle Egret,Bubulcus ibis,2017-09-26 15:30,Wailua,6,22.0491695,-159.3351674,2017
-186,Black-crowned Night-Heron,Nycticorax nycticorax,2017-09-26 15:30,Wailua,1,22.0491695,-159.3351674,2017
-187,Warbling White-eye,Zosterops japonicus,2017-09-26 15:26,Waimea Nature Park,6,20.020198,-155.67304,2017
-188,Northern Cardinal,Cardinalis cardinalis,2017-09-26 15:26,Waimea Nature Park,2,20.020198,-155.67304,2017
-189,Rock Pigeon,Columba livia,2017-09-26 14:46,Waimea-Kohala Airport,3,19.9984749,-155.6738234,2017
-190,Hawaii Elepaio,Chasiempis sandwichensis,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2017
-191,Red-billed Leiothrix,Leiothrix lutea,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2017
-192,Omao,Myadestes obscurus,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2017
-193,Apapane,Himatione sanguinea,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),11,19.7895,-155.3262,2017
-194,Iiwi,Drepanis coccinea,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),10,19.7895,-155.3262,2017
-195,Hawaii Amakihi,Chlorodrepanis virens,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),10,19.7895,-155.3262,2017
-196,Yellow-fronted Canary,Crithagra mozambica,2017-09-26 14:33,Hakalau Forest NWR--Pua Akala Tract (restricted access),10,19.7895,-155.3262,2017
-197,Hawaiian Goose,Branta sandvicensis,2017-09-26 14:29,"Mauna Loa Road, Volcano, Hawaii, US (19.466, -155.35)",1,19.4661,-155.3496476,2017
-198,Kalij Pheasant,Lophura leucomelanos,2017-09-26 14:29,"Mauna Loa Road, Volcano, Hawaii, US (19.466, -155.35)",1,19.4661,-155.3496476,2017
-199,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2017-09-26 14:00,Kapiolani Regional Park,1,21.2667401,-157.8187537,2017
-200,White Tern,Gygis alba,2017-09-26 14:00,Kapiolani Regional Park,1,21.2667401,-157.8187537,2017
-201,Rose-ringed Parakeet,Psittacula krameri,2017-09-26 14:00,Kapiolani Regional Park,4,21.2667401,-157.8187537,2017
-202,Red-vented Bulbul,Pycnonotus cafer,2017-09-26 14:00,Kapiolani Regional Park,3,21.2667401,-157.8187537,2017
-203,Common Waxbill,Estrilda astrild,2017-09-26 14:00,Kapiolani Regional Park,8,21.2667401,-157.8187537,2017
-204,Java Sparrow,Lonchura oryzivora,2017-09-26 14:00,Kapiolani Regional Park,3,21.2667401,-157.8187537,2017
-205,Red-crested Cardinal,Paroaria coronata,2017-09-26 14:00,Kapiolani Regional Park,7,21.2667401,-157.8187537,2017
-206,Hawaii Creeper,Loxops mana,2017-09-26 13:47,Hakalau Forest NWR--Pua Akala Tract (restricted access),3,19.7895,-155.3262,2017
-207,Hawaii Akepa,Loxops coccineus,2017-09-26 13:47,Hakalau Forest NWR--Pua Akala Tract (restricted access),4,19.7895,-155.3262,2017
-208,Brown Booby,Sula leucogaster,2017-09-26 13:22,Poipu Beach,1,21.873519,-159.454697,2017
-209,Black-necked Stilt,Himantopus mexicanus,2017-09-26 13:00,Salt Pond Beach Park ponds,4,21.8996151,-159.6055824,2017
-210,Sanderling,Calidris alba,2017-09-26 13:00,Salt Pond Beach Park ponds,1,21.8996151,-159.6055824,2017
-211,Hawaiian Hawk,Buteo solitarius,2017-09-26 12:45,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2017
-212,Saffron Finch,Sicalis flaveola,2017-09-26 12:30,73-308 Makako Bay Dr,2,19.7151767,-156.0447192,2017
-213,Snow Goose,Anser caerulescens,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
-214,Hawaiian Duck,Anas wyvilliana,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,3,22.0099791,-159.7679526,2017
-215,Common Gallinule,Gallinula galeata,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2017
-216,Hawaiian Coot,Fulica alai,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,3,22.0099791,-159.7679526,2017
-217,Ruddy Turnstone,Arenaria interpres,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,5,22.0099791,-159.7679526,2017
-218,Wandering Tattler,Tringa incana,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
-219,Great Frigatebird,Fregata minor,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
-220,Short-eared Owl,Asio flammeus,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
-221,Northern Mockingbird,Mimus polyglottos,2017-09-26 11:40,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
-222,Gray Francolin,Francolinus pondicerianus,2017-09-26 10:45,Kaloko-Honokōhau National Historical Park,1,19.6787172,-156.0217381,2017
-223,Red-tailed Tropicbird,Phaethon rubricauda,2017-09-26 10:45,Kaloko-Honokōhau National Historical Park,1,19.6787172,-156.0217381,2017
-224,Red-masked Parakeet,Psittacara erythrogenys,2017-09-26 10:45,Kaloko-Honokōhau National Historical Park,1,19.6787172,-156.0217381,2017
-225,Scaly-breasted Munia,Lonchura punctulata,2017-09-26 10:45,Kaloko-Honokōhau National Historical Park,1,19.6787172,-156.0217381,2017
-226,White-tailed Tropicbird,Phaethon lepturus,2017-09-26 09:50,Kilauea Point NWR,3,22.2316072,-159.4019778,2017
-227,Wedge-tailed Shearwater,Ardenna pacifica,2017-09-26 09:50,Kilauea Point NWR,2,22.2316072,-159.4019778,2017
-228,Red-footed Booby,Sula sula,2017-09-26 09:50,Kilauea Point NWR,200,22.2316072,-159.4019778,2017
-229,Japanese Bush Warbler,Horornis diphone,2017-09-26 09:45,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2017
-230,Akiapolaau,Hemignathus wilsoni,2017-09-26 09:45,Hakalau Forest NWR--Pua Akala Tract (restricted access),2,19.7895,-155.3262,2017
-231,White-rumped Shama,Copsychus malabaricus,2017-09-26 07:00,Koke'e State Park,4,22.1302507,-159.6556377,2017
-232,Kauai Amakihi,Chlorodrepanis stejnegeri,2017-09-26 07:00,Koke'e State Park,1,22.1302507,-159.6556377,2017
-233,California Quail,Callipepla californica,2017-09-26 06:43,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),10,19.8864154,-155.668606,2017
-234,Black Francolin,Francolinus francolinus,2017-09-26 06:43,Old Saddle Road and Waiki'i Ranch (mile marker 43 to west end),1,19.8864154,-155.668606,2017
-235,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2017-09-26 06:30,"Turtle Bay Resort, 'O'ahu",3,21.7051636,-157.9987192,2017
-236,Chestnut Munia,Lonchura atricapilla,2017-09-26 06:30,"Turtle Bay Resort, 'O'ahu",4,21.7051636,-157.9987192,2017
-237,Chinese Hwamei,Garrulax canorus,2017-09-26 06:18,"Princeville, HI Area",2,22.219859,-159.470677,2017
-238,Western Meadowlark,Sturnella neglecta,2017-09-26 06:18,"Princeville, HI Area",1,22.219859,-159.470677,2017
-239,Zebra Dove,Geopelia striata,2016-09-26 18:00,Niumalu Beach Park ,1,21.9509298,-159.3622547,2016
-240,Pacific Golden-Plover,Pluvialis fulva,2016-09-26 18:00,Niumalu Beach Park ,1,21.9509298,-159.3622547,2016
-241,Wandering Tattler,Tringa incana,2016-09-26 18:00,Niumalu Beach Park ,1,21.9509298,-159.3622547,2016
-242,Cattle Egret,Bubulcus ibis,2016-09-26 18:00,Niumalu Beach Park ,1,21.9509298,-159.3622547,2016
-243,Common Myna,Acridotheres tristis,2016-09-26 18:00,Niumalu Beach Park ,2,21.9509298,-159.3622547,2016
-244,Gray Francolin,Francolinus pondicerianus,2016-09-26 17:41,Puako Beach Drive--walk,2,19.967118,-155.848911,2016
-245,Wild Turkey,Meleagris gallopavo,2016-09-26 17:41,Puako Beach Drive--walk,8,19.967118,-155.848911,2016
-246,Spotted Dove,Streptopelia chinensis,2016-09-26 17:41,Puako Beach Drive--walk,2,19.967118,-155.848911,2016
-247,Black-crowned Night-Heron,Nycticorax nycticorax,2016-09-26 17:41,Puako Beach Drive--walk,1,19.967118,-155.848911,2016
-248,Warbling White-eye,Zosterops japonicus,2016-09-26 17:41,Puako Beach Drive--walk,11,19.967118,-155.848911,2016
-249,Common Waxbill,Estrilda astrild,2016-09-26 17:41,Puako Beach Drive--walk,3,19.967118,-155.848911,2016
-250,Northern Cardinal,Cardinalis cardinalis,2016-09-26 17:41,Puako Beach Drive--walk,1,19.967118,-155.848911,2016
-251,Yellow-billed Cardinal,Paroaria capitata,2016-09-26 17:41,Puako Beach Drive--walk,1,19.967118,-155.848911,2016
-252,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2016-09-26 17:30,Diamond Head Recreation Area,12,21.2556217,-157.8055143,2016
-253,White Tern,Gygis alba,2016-09-26 17:30,Diamond Head Recreation Area,5,21.2556217,-157.8055143,2016
-254,Wedge-tailed Shearwater,Ardenna pacifica,2016-09-26 17:30,Makapu'u Point and Ka Iwa State Scenic Shoreline,1,21.3104352,-157.6545787,2016
-255,Great Frigatebird,Fregata minor,2016-09-26 17:30,Makapu'u Point and Ka Iwa State Scenic Shoreline,4,21.3104352,-157.6545787,2016
-256,Brown Booby,Sula leucogaster,2016-09-26 17:30,Diamond Head Recreation Area,1,21.2556217,-157.8055143,2016
-257,Red-footed Booby,Sula sula,2016-09-26 17:30,Makapu'u Point and Ka Iwa State Scenic Shoreline,3,21.3104352,-157.6545787,2016
-258,Red-vented Bulbul,Pycnonotus cafer,2016-09-26 17:30,Makapu'u Point and Ka Iwa State Scenic Shoreline,1,21.3104352,-157.6545787,2016
-259,Red-crested Cardinal,Paroaria coronata,2016-09-26 17:30,Makapu'u Point and Ka Iwa State Scenic Shoreline,2,21.3104352,-157.6545787,2016
-260,Hawaiian Goose,Branta sandvicensis,2016-09-26 17:08,US-HI-Hawaii National Park-Hawai‘i Volcanoes National Park - 19.4198x-155.2887,5,19.419848,-155.288707,2016
-261,Erckel's Francolin,Pternistis erckelii,2016-09-26 17:08,US-HI-Hawaii National Park-Hawai‘i Volcanoes National Park - 19.4198x-155.2887,1,19.419848,-155.288707,2016
-262,House Sparrow,Passer domesticus,2016-09-26 17:08,US-HI-Hawaii National Park-Hawai‘i Volcanoes National Park - 19.4198x-155.2887,1,19.419848,-155.288707,2016
-263,Rock Pigeon,Columba livia,2016-09-26 16:56,Diamond Head Memorial Park,28,21.2666201,-157.7967167,2016
-264,House Finch,Haemorhous mexicanus,2016-09-26 16:56,Diamond Head Memorial Park,1,21.2666201,-157.7967167,2016
-265,Cackling Goose,Branta hutchinsii,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2016
-266,Hawaiian Coot,Fulica alai,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2016
-267,Black-necked Stilt,Himantopus mexicanus,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
-268,Ruddy Turnstone,Arenaria interpres,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
-269,Black Noddy,Anous minutus,2016-09-26 16:30,Hawai'i Volcanoes NP -- Coastal Chain of Craters Rd,8,19.2944194,-155.0985271,2016
-270,Least Tern,Sternula antillarum,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2016
-271,White-faced Ibis,Plegadis chihi,2016-09-26 16:30,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
-272,Mottled Petrel,Pterodroma inexpectata,2016-09-26 15:40,Keokea Beach Park,1,20.2276807,-155.7455885,2016
-273,Juan Fernandez Petrel,Pterodroma externa,2016-09-26 15:40,Keokea Beach Park,1,20.2276807,-155.7455885,2016
-274,Cook's Petrel,Pterodroma cookii,2016-09-26 15:40,Keokea Beach Park,1,20.2276807,-155.7455885,2016
-275,Cookilaria petrel sp.,Pterodroma sp. (Cookilaria sp.),2016-09-26 15:40,Keokea Beach Park,15,20.2276807,-155.7455885,2016
-276,Sooty Shearwater,Ardenna grisea,2016-09-26 15:40,Keokea Beach Park,150,20.2276807,-155.7455885,2016
-277,Kalij Pheasant,Lophura leucomelanos,2016-09-26 15:30,HI: Top of Kaloko Drive and Huehue Street (restricted access),12,19.7199289,-155.9191704,2016
-278,Red-whiskered Bulbul,Pycnonotus jocosus,2016-09-26 15:30,US-Hawaii-Honolulu-63 Cowpens Street - 21.362x-157.953,2,21.3622299,-157.9532933,2016
-279,Apapane,Himatione sanguinea,2016-09-26 15:30,HI: Top of Kaloko Drive and Huehue Street (restricted access),4,19.7199289,-155.9191704,2016
-280,Hawaii Amakihi,Chlorodrepanis virens,2016-09-26 15:30,HI: Top of Kaloko Drive and Huehue Street (restricted access),6,19.7199289,-155.9191704,2016
-281,Yellow-fronted Canary,Crithagra mozambica,2016-09-26 15:30,Makalei Golf Club,6,19.7476803,-155.9722137,2016
-282,Saffron Finch,Sicalis flaveola,2016-09-26 15:30,Makalei Golf Club,6,19.7476803,-155.9722137,2016
-283,Hawaiian Hawk,Buteo solitarius,2016-09-26 15:00,Keokea Beach Park,1,20.2276807,-155.7455885,2016
-284,Java Sparrow,Lonchura oryzivora,2016-09-26 15:00,Keokea Beach Park,6,20.2276807,-155.7455885,2016
-285,Red-masked Parakeet,Psittacara erythrogenys,2016-09-26 14:20,HI: Kaloko Dr. (mauka) - 6.5 miles,2,19.7026286,-155.976681,2016
-286,California Quail,Callipepla californica,2016-09-26 14:00,Pu'u Anahulu - Big Island Country Club,6,19.821297,-155.843811,2016
-287,Eurasian Skylark,Alauda arvensis,2016-09-26 14:00,Pu'u Anahulu - Big Island Country Club,2,19.821297,-155.843811,2016
-288,Red Avadavat,Amandava amandava,2016-09-26 14:00,Pu'u Anahulu - Big Island Country Club,2,19.821297,-155.843811,2016
-289,African Silverbill,Euodice cantans,2016-09-26 14:00,Pu'u Anahulu - Big Island Country Club,6,19.821297,-155.843811,2016
-290,Scaly-breasted Munia,Lonchura punctulata,2016-09-26 14:00,Pu'u Anahulu - Big Island Country Club,300,19.821297,-155.843811,2016
-291,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2016-09-26 13:35,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
-292,Northern Pintail,Anas acuta,2016-09-26 13:35,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2016
-293,Ring-necked Pheasant,Phasianus colchicus,2016-09-26 11:50,US-Hawaii-Koloa-2733 Ala Kinoiki - 21.893x-159.454,1,21.8930981,-159.4535159,2016
-294,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),2016-09-26 11:40,HI: Waikoloa Village area,7,19.928027,-155.7873264,2016
-295,Chestnut-bellied Sandgrouse,Pterocles exustus,2016-09-26 11:40,HI: Waikoloa Village area,7,19.928027,-155.7873264,2016
-296,Laughing Gull,Leucophaeus atricilla,2016-09-26 11:34,Kaloko-Honokohau NHP--Aimakapa Pond,1,19.6771833,-156.0259759,2016
-297,Red Junglefowl,Gallus gallus,2016-09-26 11:30,Koke'e State Park,10,22.1302507,-159.6556377,2016
-298,White-tailed Tropicbird,Phaethon lepturus,2016-09-26 11:00,Waimea Canyon,6,22.0714028,-159.6619892,2016
-299,Hawaii Elepaio,Chasiempis sandwichensis,2016-09-26 11:00,"Kipuka 21 (""Kaulana Manu"")",3,19.6713676,-155.3679389,2016
-300,Omao,Myadestes obscurus,2016-09-26 11:00,"Kipuka 21 (""Kaulana Manu"")",2,19.6713676,-155.3679389,2016
-301,Iiwi,Drepanis coccinea,2016-09-26 11:00,"Kipuka 21 (""Kaulana Manu"")",3,19.6713676,-155.3679389,2016
-302,Northern Mockingbird,Mimus polyglottos,2016-09-26 10:00,Samuel M. Spencer Beach Park and Puukohola Heiau,1,20.0237542,-155.8225434,2016
-303,Akiapolaau,Hemignathus wilsoni,2016-09-26 09:49,Hakalau Forest NWR--Pua Akala Tract (restricted access),1,19.7895,-155.3262,2016
-304,Hawaii Creeper,Loxops mana,2016-09-26 09:49,Hakalau Forest NWR--Pua Akala Tract (restricted access),5,19.7895,-155.3262,2016
-305,Hawaii Akepa,Loxops coccineus,2016-09-26 09:49,Hakalau Forest NWR--Pua Akala Tract (restricted access),4,19.7895,-155.3262,2016
-306,Mourning Dove,Zenaida macroura,2016-09-26 09:00,Waikoloa Town,2,19.9278051,-155.7921839,2016
-307,Hawaiian Petrel,Pterodroma sandwichensis,2016-09-26 09:00,Hanakapi'ai Trail,1,22.2140664,-159.5905781,2016
-308,Rosy-faced Lovebird,Agapornis roseicollis,2016-09-26 09:00,Waikoloa Town,4,19.9278051,-155.7921839,2016
-309,Short-eared Owl,Asio flammeus,2016-09-26 08:30,Keanakolu Road,2,19.725837,-155.422579,2016
-310,Red-billed Leiothrix,Leiothrix lutea,2016-09-26 08:00,Hawai'i Volcanoes NP -- Kipuka Ki (only!),4,19.4435086,-155.3193855,2016
-311,Black-necked Stilt,Himantopus mexicanus,2015-09-26 11:18,Kihei- Piikea Avenue Ponds,3,20.750399,-156.453963,2015
-312,Pacific Golden-Plover,Pluvialis fulva,2015-09-26 11:18,Kihei- Piikea Avenue Ponds,2,20.750399,-156.453963,2015
-313,Common Myna,Acridotheres tristis,2015-09-26 11:18,Kihei- Piikea Avenue Ponds,10,20.750399,-156.453963,2015
-314,Cackling Goose,Branta hutchinsii,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2015
-315,Northern Pintail,Anas acuta,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2015
-316,Gray Francolin,Francolinus pondicerianus,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2015
-317,Kalij Pheasant,Lophura leucomelanos,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2015
-318,Spotted Dove,Streptopelia chinensis,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,15,19.6621002,-156.0179014,2015
-319,Zebra Dove,Geopelia striata,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,50,19.6621002,-156.0179014,2015
-320,Hawaiian Coot,Fulica alai,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,20,19.6621002,-156.0179014,2015
-321,Ruddy Turnstone,Arenaria interpres,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,20,19.6621002,-156.0179014,2015
-322,Sanderling,Calidris alba,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2015
-323,Black Noddy,Anous minutus,2015-09-26 11:00,Keokea Beach Park,7,20.2276807,-155.7455885,2015
-324,Least Tern,Sternula antillarum,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,4,19.6621002,-156.0179014,2015
-325,Black Tern,Chlidonias niger,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2015
-326,Cookilaria petrel sp.,Pterodroma sp. (Cookilaria sp.),2015-09-26 11:00,Keokea Beach Park,1,20.2276807,-155.7455885,2015
-327,Wedge-tailed Shearwater,Ardenna pacifica,2015-09-26 11:00,Keokea Beach Park,3,20.2276807,-155.7455885,2015
-328,Sooty Shearwater,Ardenna grisea,2015-09-26 11:00,Keokea Beach Park,5,20.2276807,-155.7455885,2015
-329,Procellariid sp.,Procellariidae sp.,2015-09-26 11:00,Keokea Beach Park,8,20.2276807,-155.7455885,2015
-330,Black-crowned Night-Heron,Nycticorax nycticorax,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,5,19.6621002,-156.0179014,2015
-331,African Silverbill,Euodice cantans,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,6,19.6621002,-156.0179014,2015
-332,House Sparrow,Passer domesticus,2015-09-26 11:00,Kealakehe Wastewater Treatment Plant,11,19.6621002,-156.0179014,2015
-333,Great Frigatebird,Fregata minor,2015-09-26 10:00,Keokea Beach Park,1,20.2276807,-155.7455885,2015
-334,Scaly-breasted Munia,Lonchura punctulata,2015-09-26 10:00,Haleakala NP--Oheo Gulch ( 7 Sacred Pools) and Coastal Kipahulu Area,2,20.6625017,-156.0428953,2015
-335,Buller's Shearwater,Ardenna bulleri,2015-09-26 09:30,Keokea Beach Park,1,20.2276807,-155.7455885,2015
-336,Iiwi,Drepanis coccinea,2015-09-26 09:12,Alakai Swamp Trail--Pihea Trail junction to Kilohana Vista,1,22.152336,-159.6002142,2015
-337,Northern Shoveler,Spatula clypeata,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,8,19.6771833,-156.0259759,2015
-338,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,2,19.6771833,-156.0259759,2015
-339,Cattle Egret,Bubulcus ibis,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,7,19.6771833,-156.0259759,2015
-340,Lavender Waxbill,Estrilda coerulescens,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,1,19.6771833,-156.0259759,2015
-341,Common Waxbill,Estrilda astrild,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,15,19.6771833,-156.0259759,2015
-342,Yellow-fronted Canary,Crithagra mozambica,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,1,19.6771833,-156.0259759,2015
-343,Yellow-billed Cardinal,Paroaria capitata,2015-09-26 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,6,19.6771833,-156.0259759,2015
-344,Juan Fernandez Petrel,Pterodroma externa,2015-09-26 08:30,Keokea Beach Park,4,20.2276807,-155.7455885,2015
-345,shearwater sp.,Procellariidae sp. (shearwater sp.),2015-09-26 07:55,Keokea Beach Park,1,20.2276807,-155.7455885,2015
-346,Hawaiian Hawk,Buteo solitarius,2015-09-26 07:30,Ha'o Trail,1,19.6831109,-155.9164667,2015
-347,Tanimbar Corella,Cacatua goffiniana,2015-09-26 07:30,Ha'o Trail,7,19.6831109,-155.9164667,2015
-348,corella/cockatoo sp.,Cacatua sp.,2015-09-26 07:30,Ha'o Trail,7,19.6831109,-155.9164667,2015
-349,Red-masked Parakeet,Psittacara erythrogenys,2015-09-26 07:30,Ha'o Trail,15,19.6831109,-155.9164667,2015
-350,Java Sparrow,Lonchura oryzivora,2015-09-26 07:30,Ha'o Trail,12,19.6831109,-155.9164667,2015
-351,Hawaii Amakihi,Chlorodrepanis virens,2015-09-26 07:30,Ha'o Trail,7,19.6831109,-155.9164667,2015
-352,Saffron Finch,Sicalis flaveola,2015-09-26 07:30,Ha'o Trail,2,19.6831109,-155.9164667,2015
-353,Black Francolin,Francolinus francolinus,2015-09-26,Mokio Preserve,4,21.2182538,-157.2444949,2015
-354,Bristle-thighed Curlew,Numenius tahitiensis,2015-09-26,Mokio Preserve,1,21.2182538,-157.2444949,2015
-355,Brown Booby,Sula leucogaster,2015-09-26,Mokio Preserve,4,21.2182538,-157.2444949,2015
-356,Eurasian Skylark,Alauda arvensis,2015-09-26,Mokio Preserve,6,21.2182538,-157.2444949,2015
-357,Northern Mockingbird,Mimus polyglottos,2015-09-26,Mokio Preserve,4,21.2182538,-157.2444949,2015
-358,Red-crested Cardinal,Paroaria coronata,2015-09-26,Mokio Preserve,1,21.2182538,-157.2444949,2015
-359,Warbling White-eye,Zosterops japonicus,2010-09-26 13:55,"Kahakapao Trail, Makawao Forest Reserve",5,20.82968,-156.27786,2010
-360,Northern Cardinal,Cardinalis cardinalis,2010-09-26 13:55,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-361,Iiwi,Drepanis coccinea,2010-09-26 13:34,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-362,House Finch,Haemorhous mexicanus,2010-09-26 13:34,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-363,Zebra Dove,Geopelia striata,2010-09-26 12:45,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-364,Red-billed Leiothrix,Leiothrix lutea,2010-09-26 12:45,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-365,Scaly-breasted Munia,Lonchura punctulata,2010-09-26 12:45,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-366,Hawaii Amakihi,Chlorodrepanis virens,2010-09-26 12:45,"Kahakapao Trail, Makawao Forest Reserve",1,20.82968,-156.27786,2010
-367,Chinese Hwamei,Garrulax canorus,2010-09-26 10:00,"Kahakapao Trail, Makawao Forest Reserve",2,20.82968,-156.27786,2010
+0,Pacific Golden-Plover,Pluvialis fulva,2020-09-22 20:00,Lanai,1,21.9065438,-159.5822563,2020
+1,Spotted Dove,Streptopelia chinensis,2020-09-22 17:06,"Anela St, Hilo",5,19.68826,-155.077974,2020
+2,Zebra Dove,Geopelia striata,2020-09-22 17:06,"Anela St, Hilo",15,19.68826,-155.077974,2020
+3,Common Myna,Acridotheres tristis,2020-09-22 17:06,"Anela St, Hilo",5,19.68826,-155.077974,2020
+4,Scaly-breasted Munia,Lonchura punctulata,2020-09-22 17:06,"Anela St, Hilo",25,19.68826,-155.077974,2020
+5,Java Sparrow,Lonchura oryzivora,2020-09-22 17:06,"Anela St, Hilo",17,19.68826,-155.077974,2020
+6,House Finch,Haemorhous mexicanus,2020-09-22 17:06,"Anela St, Hilo",15,19.68826,-155.077974,2020
+7,Yellow-fronted Canary,Crithagra mozambica,2020-09-22 17:06,"Anela St, Hilo",10,19.68826,-155.077974,2020
+8,Saffron Finch,Sicalis flaveola,2020-09-22 17:06,"Anela St, Hilo",2,19.68826,-155.077974,2020
+9,Hawaiian Goose,Branta sandvicensis,2020-09-22 16:35,"3900 Iona Road, Hanapepe, Hawaii, US (21.911, -159.586)",4,21.9112405,-159.58604,2020
+10,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2020-09-22 14:35,Archie Baker Park,15,21.3079673,-157.8310839,2020
+11,White Tern,Gygis alba,2020-09-22 14:35,Archie Baker Park,4,21.3079673,-157.8310839,2020
+12,Rose-ringed Parakeet,Psittacula krameri,2020-09-22 14:35,Archie Baker Park,15,21.3079673,-157.8310839,2020
+13,Red-vented Bulbul,Pycnonotus cafer,2020-09-22 14:35,Archie Baker Park,7,21.3079673,-157.8310839,2020
+14,Warbling White-eye,Zosterops japonicus,2020-09-22 14:35,Archie Baker Park,5,21.3079673,-157.8310839,2020
+15,White-rumped Shama,Copsychus malabaricus,2020-09-22 14:35,Archie Baker Park,3,21.3079673,-157.8310839,2020
+16,Common Waxbill,Estrilda astrild,2020-09-22 14:35,Archie Baker Park,10,21.3079673,-157.8310839,2020
+17,House Sparrow,Passer domesticus,2020-09-22 14:35,Archie Baker Park,10,21.3079673,-157.8310839,2020
+18,Northern Cardinal,Cardinalis cardinalis,2020-09-22 14:35,Archie Baker Park,1,21.3079673,-157.8310839,2020
+19,Red-crested Cardinal,Paroaria coronata,2020-09-22 14:35,Archie Baker Park,2,21.3079673,-157.8310839,2020
+20,Yellow-billed Cardinal,Paroaria capitata,2020-09-22 14:04,University of the Nations-Kona,2,19.6320952,-155.982406,2020
+21,White-tailed Tropicbird,Phaethon lepturus,2020-09-22 13:30,Waipio Valley Overlook,2,20.1180411,-155.5843878,2020
+22,Red-footed Booby,Sula sula,2020-09-22 13:30,Waipio Valley Overlook,1,20.1180411,-155.5843878,2020
+23,Great Frigatebird,Fregata minor,2020-09-22 12:55,Laupahoehoe Point County Park,1,19.992466,-155.2411938,2020
+24,Hawaiian Duck,Anas wyvilliana,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2020
+25,Black Francolin,Francolinus francolinus,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2020
+26,Common Gallinule,Gallinula galeata,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2020
+27,Hawaiian Coot,Fulica alai,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,3,22.0099791,-159.7679526,2020
+28,Black-necked Stilt,Himantopus mexicanus,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,18,22.0099791,-159.7679526,2020
+29,Ruddy Turnstone,Arenaria interpres,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,8,22.0099791,-159.7679526,2020
+30,Sharp-tailed Sandpiper,Calidris acuminata,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2020
+31,Cattle Egret,Bubulcus ibis,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2020
+32,Black-crowned Night-Heron,Nycticorax nycticorax,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,4,22.0099791,-159.7679526,2020
+33,Chinese Hwamei,Garrulax canorus,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2020
+34,Northern Mockingbird,Mimus polyglottos,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2020
+35,Red Avadavat,Amandava amandava,2020-09-22 08:33,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2020
+36,Gray Francolin,Francolinus pondicerianus,2020-09-22 08:13,"Kahoe Road, Kona Paradise Subdivision",2,19.3138691,-155.8867604,2020
+37,Red-billed Leiothrix,Leiothrix lutea,2020-09-22 08:13,"Kahoe Road, Kona Paradise Subdivision",1,19.3138691,-155.8867604,2020
+38,Lavender Waxbill,Estrilda coerulescens,2020-09-22 08:13,"Kahoe Road, Kona Paradise Subdivision",2,19.3138691,-155.8867604,2020
+39,Ring-necked Pheasant,Phasianus colchicus,2020-09-22 07:55,"Kiko Road, Hawaii, US (22.039, -159.763)",1,22.0387871,-159.7634804,2020
+40,Rock Pigeon,Columba livia,2020-09-22 07:55,"Kiko Road, Hawaii, US (22.039, -159.763)",1,22.0387871,-159.7634804,2020
+41,African Silverbill,Euodice cantans,2020-09-22 07:55,"Kiko Road, Hawaii, US (22.039, -159.763)",30,22.0387871,-159.7634804,2020
+42,Chestnut Munia,Lonchura atricapilla,2020-09-22 07:37,"Kiko Road, Hawaii, US (22.038, -159.766)",3,22.0380937,-159.7655238,2020
+43,passerine sp.,Passeriformes sp.,2020-09-22 07:37,"Kiko Road, Hawaii, US (22.038, -159.766)",15,22.0380937,-159.7655238,2020
+44,House Sparrow,Passer domesticus,2019-09-22 18:45,OGG,1,20.8967095,-156.440718,2019
+45,Pacific Golden-Plover,Pluvialis fulva,2019-09-22 17:55,"Mauna Lani, Hawaii",1,19.9485899,-155.851257,2019
+46,Short-eared Owl,Asio flammeus,2019-09-22 17:19,"71-1613–71-1619 Mamalahoa Hwy, Captain Cook US-HI (19.8000,-155.8505)",1,19.80003,-155.85054,2019
+47,Spotted Dove,Streptopelia chinensis,2019-09-22 17:06,"8th & Kilauea, Honolulu, Hawaii, US (21.277, -157.808)",5,21.2771154,-157.8078216,2019
+48,Zebra Dove,Geopelia striata,2019-09-22 17:06,"8th & Kilauea, Honolulu, Hawaii, US (21.277, -157.808)",2,21.2771154,-157.8078216,2019
+49,Gray Francolin,Francolinus pondicerianus,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",5,19.622327,-155.979194,2019
+50,Cattle Egret,Bubulcus ibis,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",3,19.622327,-155.979194,2019
+51,Red-masked Parakeet,Psittacara erythrogenys,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",6,19.622327,-155.979194,2019
+52,Warbling White-eye,Zosterops japonicus,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",3,19.622327,-155.979194,2019
+53,Common Myna,Acridotheres tristis,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",5,19.622327,-155.979194,2019
+54,Common Waxbill,Estrilda astrild,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",2,19.622327,-155.979194,2019
+55,House Finch,Haemorhous mexicanus,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",6,19.622327,-155.979194,2019
+56,Yellow-fronted Canary,Crithagra mozambica,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",2,19.622327,-155.979194,2019
+57,Northern Cardinal,Cardinalis cardinalis,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",1,19.622327,-155.979194,2019
+58,Yellow-billed Cardinal,Paroaria capitata,2019-09-22 16:37,"75-6060 Kuakini Hwy, Holualoa US-HI (19.6223,-155.9792)",2,19.622327,-155.979194,2019
+59,Bristle-thighed Curlew,Numenius tahitiensis,2019-09-22 16:30,Mauna Lani South Golf Course,3,19.930047,-155.8766429,2019
+60,Ruddy Turnstone,Arenaria interpres,2019-09-22 16:30,Mauna Lani South Golf Course,21,19.930047,-155.8766429,2019
+61,Saffron Finch,Sicalis flaveola,2019-09-22 16:30,Mauna Lani South Golf Course,5,19.930047,-155.8766429,2019
+62,Japanese Bush Warbler,Horornis diphone,2019-09-22 16:00,"Haleakalā National Park, Hana US-HI (20.6947,-156.0876)",1,20.694715,-156.087581,2019
+63,Red-billed Leiothrix,Leiothrix lutea,2019-09-22 16:00,"Haleakalā National Park, Hana US-HI (20.6947,-156.0876)",1,20.694715,-156.087581,2019
+64,Apapane,Himatione sanguinea,2019-09-22 16:00,"Haleakalā National Park, Hana US-HI (20.6947,-156.0876)",1,20.694715,-156.087581,2019
+65,Iiwi,Drepanis coccinea,2019-09-22 16:00,"Haleakalā National Park, Hana US-HI (20.6947,-156.0876)",1,20.694715,-156.087581,2019
+66,Hawaii Amakihi,Chlorodrepanis virens,2019-09-22 16:00,"Haleakalā National Park, Hana US-HI (20.6947,-156.0876)",1,20.694715,-156.087581,2019
+67,Hawaiian Goose,Branta sandvicensis,2019-09-22 15:10,"ワイコロア・ビーチリゾート, Kamuela US-HI (19.9151,-155.8812)",2,19.915067,-155.881205,2019
+68,Wandering Tattler,Tringa incana,2019-09-22 15:10,"Mauna Lani Golf Course, Kamuela US-HI (19.9424,-155.8761) and the way via Kalahuipuaa Historic Park and Eva Parker Woods Cottage",1,19.942372,-155.876069,2019
+69,Black-crowned Night-Heron,Nycticorax nycticorax,2019-09-22 15:10,"Mauna Lani Golf Course, Kamuela US-HI (19.9424,-155.8761) and the way via Kalahuipuaa Historic Park and Eva Parker Woods Cottage",1,19.942372,-155.876069,2019
+70,African Silverbill,Euodice cantans,2019-09-22 15:10,"Mauna Lani Golf Course, Kamuela US-HI (19.9424,-155.8761) and the way via Kalahuipuaa Historic Park and Eva Parker Woods Cottage",2,19.942372,-155.876069,2019
+71,Rock Pigeon,Columba livia,2019-09-22 15:06,Lana'i Lookout,12,21.2764006,-157.68557,2019
+72,Red-tailed Tropicbird,Phaethon rubricauda,2019-09-22 15:06,Lana'i Lookout,2,21.2764006,-157.68557,2019
+73,Brown Booby,Sula leucogaster,2019-09-22 15:06,Lana'i Lookout,2,21.2764006,-157.68557,2019
+74,Red-footed Booby,Sula sula,2019-09-22 15:06,Lana'i Lookout,1,21.2764006,-157.68557,2019
+75,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2019
+76,Northern Pintail,Anas acuta,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2019
+77,Hawaiian Coot,Fulica alai,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,38,19.6621002,-156.0179014,2019
+78,Black-necked Stilt,Himantopus mexicanus,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,27,19.6621002,-156.0179014,2019
+79,Sanderling,Calidris alba,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2019
+80,Least Tern,Sternula antillarum,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2019
+81,White-faced Ibis,Plegadis chihi,2019-09-22 14:51,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2019
+82,Indian Peafowl,Pavo cristatus,2019-09-22 14:15,Makalei Golf Club,1,19.747099,-155.972881,2019
+83,Erckel's Francolin,Pternistis erckelii,2019-09-22 14:15,Makalei Golf Club,1,19.747099,-155.972881,2019
+84,Kalij Pheasant,Lophura leucomelanos,2019-09-22 14:00,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",4,19.8319137,-155.5947653,2019
+85,Eurasian Skylark,Alauda arvensis,2019-09-22 14:00,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",8,19.8319137,-155.5947653,2019
+86,Black Noddy,Anous minutus,2019-09-22 11:45,Hawai'i Volcanoes National Park (general),1,19.3292867,-155.194416,2019
+87,White-tailed Tropicbird,Phaethon lepturus,2019-09-22 11:45,Hawai'i Volcanoes National Park (general),2,19.3292867,-155.194416,2019
+88,Hawaiian Hawk,Buteo solitarius,2019-09-22 11:45,Hawai'i Volcanoes National Park (general),2,19.3292867,-155.194416,2019
+89,Muscovy Duck x Mallard (hybrid),Cairina moschata x Anas platyrhynchos,2019-09-22 11:28,Pu'u Anahulu - Big Island Country Club,3,19.821297,-155.843811,2019
+90,Wild Turkey,Meleagris gallopavo,2019-09-22 11:28,Pu'u Anahulu - Big Island Country Club,9,19.821297,-155.843811,2019
+91,Red Avadavat,Amandava amandava,2019-09-22 11:28,Pu'u Anahulu - Big Island Country Club,2,19.821297,-155.843811,2019
+92,Scaly-breasted Munia,Lonchura punctulata,2019-09-22 11:28,Pu'u Anahulu - Big Island Country Club,3,19.821297,-155.843811,2019
+93,Northern Mockingbird,Mimus polyglottos,2019-09-22 10:47,"Pohakuloa Cabins, Formerly ""Mauna Kea State Park""",4,19.7496797,-155.5236626,2019
+94,White Tern,Gygis alba,2019-09-22 09:32,"Outer Drive, Honolulu, Hawaii, US (21.313, -157.848)",2,21.3134963,-157.8480851,2019
+95,Rose-ringed Parakeet,Psittacula krameri,2019-09-22 09:32,"Outer Drive, Honolulu, Hawaii, US (21.313, -157.848)",2,21.3134963,-157.8480851,2019
+96,Red-vented Bulbul,Pycnonotus cafer,2019-09-22 09:32,"Outer Drive, Honolulu, Hawaii, US (21.313, -157.848)",4,21.3134963,-157.8480851,2019
+97,Java Sparrow,Lonchura oryzivora,2019-09-22 09:32,"Outer Drive, Honolulu, Hawaii, US (21.313, -157.848)",1,21.3134963,-157.8480851,2019
+98,Red-crested Cardinal,Paroaria coronata,2019-09-22 09:32,"Outer Drive, Honolulu, Hawaii, US (21.313, -157.848)",3,21.3134963,-157.8480851,2019
+99,Ring-necked Pheasant,Phasianus colchicus,2019-09-22 09:30,"Palekaiko Rd, Kamuela US-HI (19.8557,-155.6527)",10,19.855669,-155.652685,2019
+100,Chestnut-bellied Sandgrouse,Pterocles exustus,2019-09-22 09:30,"68-1839 Paniolo Ave, Waikoloa US-HI (19.9561,-155.7894) and on the R190",25,19.956087,-155.789422,2019
+101,Hawaiian Duck,Anas wyvilliana,2019-09-22 08:57,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2019
+102,Common Gallinule,Gallinula galeata,2019-09-22 08:57,Kawaiele State Waterbird Sanctuary,3,22.0099791,-159.7679526,2019
+103,Chestnut Munia,Lonchura atricapilla,2019-09-22 08:57,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2019
+104,Rosy-faced Lovebird,Agapornis roseicollis,2019-09-22 08:53,HI: Waikoloa Village - KTA Super Store,4,19.9281087,-155.7871896,2019
+105,Chinese Hwamei,Garrulax canorus,2019-09-22 07:45,Orchidland Estates 500' elev.,2,19.551365,-155.003829,2019
+106,Red Junglefowl,Gallus gallus,2019-09-22 07:43,Mohihi-Waiale Trail,2,22.1148068,-159.5774295,2019
+107,Kauai Elepaio,Chasiempis sclateri,2019-09-22 07:43,Mohihi-Waiale Trail,11,22.1148068,-159.5774295,2019
+108,White-rumped Shama,Copsychus malabaricus,2019-09-22 07:43,Mohihi-Waiale Trail,2,22.1148068,-159.5774295,2019
+109,Anianiau,Magumma parva,2019-09-22 07:43,Mohihi-Waiale Trail,4,22.1148068,-159.5774295,2019
+110,Kauai Amakihi,Chlorodrepanis stejnegeri,2019-09-22 07:43,Mohihi-Waiale Trail,4,22.1148068,-159.5774295,2019
+111,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2019-09-22 07:15,Samuel M. Spencer Beach Park and Puukohola Heiau,1,20.0237542,-155.8225434,2019
+112,Oahu Elepaio,Chasiempis ibidis,2019-09-22 07:00,Wailupe Valley - Hao Street Trail,6,21.2986485,-157.7565895,2019
+113,Gray Francolin,Francolinus pondicerianus,2018-09-22 18:19,Kohanaiki Beach Park,6,19.7013619,-156.0477563,2018
+114,Pacific Golden-Plover,Pluvialis fulva,2018-09-22 18:19,Kohanaiki Beach Park,3,19.7013619,-156.0477563,2018
+115,Kalij Pheasant,Lophura leucomelanos,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,13,19.4405764,-155.3024554,2018
+116,Zebra Dove,Geopelia striata,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,3,19.4405764,-155.3024554,2018
+117,Hawaii Elepaio,Chasiempis sandwichensis,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,1,19.4405764,-155.3024554,2018
+118,Warbling White-eye,Zosterops japonicus,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,6,19.4405764,-155.3024554,2018
+119,Omao,Myadestes obscurus,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,4,19.4405764,-155.3024554,2018
+120,Apapane,Himatione sanguinea,2018-09-22 15:46,Hawai'i Volcanoes NP--Kipuka Puaulu,5,19.4405764,-155.3024554,2018
+121,Bristle-thighed Curlew,Numenius tahitiensis,2018-09-22 15:45,"68 South Kaniku Drive, Waimea, Hawaii, US (19.935, -155.868)",1,19.934814,-155.8680951,2018
+122,Cattle Egret,Bubulcus ibis,2018-09-22 15:45,"68 South Kaniku Drive, Waimea, Hawaii, US (19.935, -155.868)",2,19.934814,-155.8680951,2018
+123,Common Myna,Acridotheres tristis,2018-09-22 15:45,"68 South Kaniku Drive, Waimea, Hawaii, US (19.935, -155.868)",5,19.934814,-155.8680951,2018
+124,Ruddy Turnstone,Arenaria interpres,2018-09-22 15:32,"68-1064 Makaiwa Place, Waimea, Hawaii, US (19.937, -155.867)",12,19.9374855,-155.8671047,2018
+125,Java Sparrow,Lonchura oryzivora,2018-09-22 15:32,"68-1064 Makaiwa Place, Waimea, Hawaii, US (19.937, -155.867)",1,19.9374855,-155.8671047,2018
+126,House Sparrow,Passer domesticus,2018-09-22 15:32,"68-1064 Makaiwa Place, Waimea, Hawaii, US (19.937, -155.867)",7,19.9374855,-155.8671047,2018
+127,Yellow-billed Cardinal,Paroaria capitata,2018-09-22 15:32,"68-1064 Makaiwa Place, Waimea, Hawaii, US (19.937, -155.867)",1,19.9374855,-155.8671047,2018
+128,Saffron Finch,Sicalis flaveola,2018-09-22 15:32,"68-1064 Makaiwa Place, Waimea, Hawaii, US (19.937, -155.867)",1,19.9374855,-155.8671047,2018
+129,Spotted Dove,Streptopelia chinensis,2018-09-22 15:00,Shack House,1,19.710103,-155.083126,2018
+130,Black-necked Stilt,Himantopus mexicanus,2018-09-22 15:00,Salt Pond Beach Park ponds,2,21.8996151,-159.6055824,2018
+131,Hawaiian Hawk,Buteo solitarius,2018-09-22 15:00,Shack House,1,19.710103,-155.083126,2018
+132,Scaly-breasted Munia,Lonchura punctulata,2018-09-22 15:00,Shack House,2,19.710103,-155.083126,2018
+133,Northern Cardinal,Cardinalis cardinalis,2018-09-22 15:00,Shack House,1,19.710103,-155.083126,2018
+134,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2018-09-22 14:16,Opae'ula Pond/Makalwena Beach,1,19.792612,-156.026008,2018
+135,Northern Mockingbird,Mimus polyglottos,2018-09-22 14:16,Opae'ula Pond/Makalwena Beach,1,19.792612,-156.026008,2018
+136,Yellow-fronted Canary,Crithagra mozambica,2018-09-22 14:16,Opae'ula Pond/Makalwena Beach,2,19.792612,-156.026008,2018
+137,Rock Pigeon,Columba livia,2018-09-22 14:00,Kilohama Plantation area-Lihue,25,21.969544,-159.3919808,2018
+138,Red-crested Cardinal,Paroaria coronata,2018-09-22 14:00,Kilohama Plantation area-Lihue,4,21.969544,-159.3919808,2018
+139,Canada Goose,Branta canadensis,2018-09-22 13:54,Wailoa River SP -- Waiakea Pond,5,19.7168384,-155.074296,2018
+140,Hawaiian Goose,Branta sandvicensis,2018-09-22 13:54,Wailoa River SP -- Waiakea Pond,7,19.7168384,-155.074296,2018
+141,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),2018-09-22 13:54,Wailoa River SP -- Waiakea Pond,21,19.7168384,-155.074296,2018
+142,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2018-09-22 13:54,Wailoa River SP -- Waiakea Pond,49,19.7168384,-155.074296,2018
+143,Hawaiian Coot,Fulica alai,2018-09-22 13:54,Wailoa River SP -- Waiakea Pond,3,19.7168384,-155.074296,2018
+144,Sanderling,Calidris alba,2018-09-22 13:27,Opae'ula Pond/Makalwena Beach,8,19.792612,-156.026008,2018
+145,Pectoral Sandpiper,Calidris melanotos,2018-09-22 13:27,Opae'ula Pond/Makalwena Beach,2,19.792612,-156.026008,2018
+146,Wandering Tattler,Tringa incana,2018-09-22 13:27,Opae'ula Pond/Makalwena Beach,2,19.792612,-156.026008,2018
+147,Common Waxbill,Estrilda astrild,2018-09-22 13:27,Opae'ula Pond/Makalwena Beach,1,19.792612,-156.026008,2018
+148,African Silverbill,Euodice cantans,2018-09-22 13:11,Opae'ula Pond/Makalwena Beach,2,19.792612,-156.026008,2018
+149,Rose-ringed Parakeet,Psittacula krameri,2018-09-22 13:00,HI: Foster Botanical Garden,1,21.3160431,-157.8568411,2018
+150,Red-vented Bulbul,Pycnonotus cafer,2018-09-22 13:00,HI: Foster Botanical Garden,7,21.3160431,-157.8568411,2018
+151,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,2018-09-22 11:30,James Campbell NWR--Kii Unit,17,21.687,-157.9531,2018
+152,Ring-necked Pheasant,Phasianus colchicus,2018-09-22 11:30,James Campbell NWR--Kii Unit,2,21.687,-157.9531,2018
+153,Common Gallinule,Gallinula galeata,2018-09-22 11:30,James Campbell NWR--Kii Unit,8,21.687,-157.9531,2018
+154,Wilson's Snipe,Gallinago delicata,2018-09-22 11:30,James Campbell NWR--Kii Unit,1,21.687,-157.9531,2018
+155,Black-crowned Night-Heron,Nycticorax nycticorax,2018-09-22 11:30,James Campbell NWR--Kii Unit,2,21.687,-157.9531,2018
+156,Red-billed Leiothrix,Leiothrix lutea,2018-09-22 10:33,"Pu'u O'o Trail, Kipuka Ainahou section (first 2 miles)",8,19.6714434,-155.3849602,2018
+157,Iiwi,Drepanis coccinea,2018-09-22 10:33,"Pu'u O'o Trail, Kipuka Ainahou section (first 2 miles)",11,19.6714434,-155.3849602,2018
+158,Hawaii Amakihi,Chlorodrepanis virens,2018-09-22 10:33,"Pu'u O'o Trail, Kipuka Ainahou section (first 2 miles)",2,19.6714434,-155.3849602,2018
+159,Cackling Goose,Branta hutchinsii,2018-09-22 10:15,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2018
+160,Northern Shoveler,Spatula clypeata,2018-09-22 10:15,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2018
+161,Least Tern,Sternula antillarum,2018-09-22 10:15,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2018
+162,White-faced Ibis,Plegadis chihi,2018-09-22 10:15,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2018
+163,White-tailed Tropicbird,Phaethon lepturus,2018-09-22 10:00,Kilauea Point NWR,2,22.2316072,-159.4019778,2018
+164,Red-tailed Tropicbird,Phaethon rubricauda,2018-09-22 10:00,Kilauea Point NWR,2,22.2316072,-159.4019778,2018
+165,Wedge-tailed Shearwater,Ardenna pacifica,2018-09-22 10:00,Kilauea Point NWR,4,22.2316072,-159.4019778,2018
+166,Great Frigatebird,Fregata minor,2018-09-22 10:00,Kilauea Point NWR,10,22.2316072,-159.4019778,2018
+167,Brown Booby,Sula leucogaster,2018-09-22 10:00,Kilauea Point NWR,4,22.2316072,-159.4019778,2018
+168,Red-footed Booby,Sula sula,2018-09-22 10:00,Kilauea Point NWR,500,22.2316072,-159.4019778,2018
+169,Red-masked Parakeet,Psittacara erythrogenys,2018-09-22 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,6,19.6771833,-156.0259759,2018
+170,House Finch,Haemorhous mexicanus,2018-09-22 09:00,Kaloko-Honokohau NHP--Aimakapa Pond,5,19.6771833,-156.0259759,2018
+171,Chestnut Munia,Lonchura atricapilla,2018-09-22 08:30,Pearl Harbor NWR--Honouliuli Unit (restricted access),2,21.3567,-158.0194,2018
+172,Sooty Shearwater,Ardenna grisea,2018-09-22 07:28,Keahole Point,3,19.727713,-156.0609278,2018
+173,Procellariid sp.,Procellariidae sp.,2018-09-22 07:28,Keahole Point,7,19.727713,-156.0609278,2018
+174,Spotted Sandpiper,Actitis macularius,2018-09-22 07:10,Kaloko-Honokohau NHP--Aimakapa Pond,1,19.6771833,-156.0259759,2018
+175,Red Avadavat,Amandava amandava,2018-09-22 07:10,Kahuku Aqua Ponds,4,21.6830426,-157.958293,2018
+176,California Quail,Callipepla californica,2018-09-22 06:44,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",21,19.8319137,-155.5947653,2018
+177,Erckel's Francolin,Pternistis erckelii,2018-09-22 06:44,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",13,19.8319137,-155.5947653,2018
+178,Eurasian Skylark,Alauda arvensis,2018-09-22 06:44,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",11,19.8319137,-155.5947653,2018
+179,Palila,Loxioides bailleui,2018-09-22 06:44,"Pu'u La'au, Palila Discovery Trail and Ka'ohe GMA",2,19.8319137,-155.5947653,2018
+180,Short-eared Owl,Asio flammeus,2018-09-22 06:02,Humu'ula Sheep Station and Pastures (lower mauna kea access rd),1,19.7124,-155.4478,2018
+181,Wild Turkey,Meleagris gallopavo,2018-09-22 05:59,Kona Heights,21,19.6389705,-155.9764542,2018
+182,Sooty Tern,Onychoprion fuscatus,2017-09-22 18:45,"(19.538, -163.064)",2,19.53833,-163.0641457,2017
+183,Bulwer's Petrel,Bulweria bulwerii,2017-09-22 18:45,"(19.538, -163.064)",1,19.53833,-163.0641457,2017
+184,Wedge-tailed Shearwater,Ardenna pacifica,2017-09-22 18:45,"(19.538, -163.064)",10,19.53833,-163.0641457,2017
+185,Short-tailed Shearwater,Ardenna tenuirostris,2017-09-22 18:45,"(19.538, -163.064)",2,19.53833,-163.0641457,2017
+186,Sooty/Short-tailed Shearwater,Ardenna grisea/tenuirostris,2017-09-22 18:45,"(19.538, -163.064)",10,19.53833,-163.0641457,2017
+187,Red-footed Booby,Sula sula,2017-09-22 18:45,"(19.538, -163.064)",2,19.53833,-163.0641457,2017
+188,Gray Francolin,Francolinus pondicerianus,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),4,19.6348271,-155.9892082,2017
+189,Spotted Dove,Streptopelia chinensis,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),1,19.6348271,-155.9892082,2017
+190,Zebra Dove,Geopelia striata,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),12,19.6348271,-155.9892082,2017
+191,Warbling White-eye,Zosterops japonicus,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),1,19.6348271,-155.9892082,2017
+192,Common Myna,Acridotheres tristis,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),2,19.6348271,-155.9892082,2017
+193,House Sparrow,Passer domesticus,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),6,19.6348271,-155.9892082,2017
+194,Saffron Finch,Sicalis flaveola,2017-09-22 16:30,Kailua-Kona Town Area (not wilderness or upper elevations!),2,19.6348271,-155.9892082,2017
+195,Northern Shoveler,Spatula clypeata,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+196,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),12,21.3567,-158.0194,2017
+197,Common Gallinule,Gallinula galeata,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),7,21.3567,-158.0194,2017
+198,Hawaiian Coot,Fulica alai,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),10,21.3567,-158.0194,2017
+199,Black-necked Stilt,Himantopus mexicanus,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),6,21.3567,-158.0194,2017
+200,Pacific Golden-Plover,Pluvialis fulva,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),133,21.3567,-158.0194,2017
+201,Ruddy Turnstone,Arenaria interpres,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),28,21.3567,-158.0194,2017
+202,Sanderling,Calidris alba,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),2,21.3567,-158.0194,2017
+203,Spotted Sandpiper,Actitis macularius,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+204,Wandering Tattler,Tringa incana,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+205,Cattle Egret,Bubulcus ibis,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),7,21.3567,-158.0194,2017
+206,Black-crowned Night-Heron,Nycticorax nycticorax,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+207,Red-vented Bulbul,Pycnonotus cafer,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),4,21.3567,-158.0194,2017
+208,White-rumped Shama,Copsychus malabaricus,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+209,Red Avadavat,Amandava amandava,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),4,21.3567,-158.0194,2017
+210,Chestnut Munia,Lonchura atricapilla,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),2,21.3567,-158.0194,2017
+211,House Finch,Haemorhous mexicanus,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),8,21.3567,-158.0194,2017
+212,Red-crested Cardinal,Paroaria coronata,2017-09-22 16:20,Pearl Harbor NWR--Honouliuli Unit (restricted access),4,21.3567,-158.0194,2017
+213,shorebird sp.,Charadriiformes sp.,2017-09-22 16:08,Kahuku Aqua Ponds,1,21.6830426,-157.958293,2017
+214,White-tailed Tropicbird,Phaethon lepturus,2017-09-22 16:06,Na Pali Coast State Park -- Nualolo Kai,2,22.159326,-159.6997277,2017
+215,Great Frigatebird,Fregata minor,2017-09-22 16:06,Na Pali Coast State Park -- Nualolo Kai,1,22.159326,-159.6997277,2017
+216,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2017-09-22 15:45,Amy Greenwell Ethnobotanical Garden,6,19.4902204,-155.9113035,2017
+217,Common Waxbill,Estrilda astrild,2017-09-22 15:45,Amy Greenwell Ethnobotanical Garden,6,19.4902204,-155.9113035,2017
+218,Java Sparrow,Lonchura oryzivora,2017-09-22 15:45,Amy Greenwell Ethnobotanical Garden,3,19.4902204,-155.9113035,2017
+219,Yellow-fronted Canary,Crithagra mozambica,2017-09-22 15:45,Amy Greenwell Ethnobotanical Garden,5,19.4902204,-155.9113035,2017
+220,Yellow-billed Cardinal,Paroaria capitata,2017-09-22 15:45,Amy Greenwell Ethnobotanical Garden,15,19.4902204,-155.9113035,2017
+221,Juan Fernandez Petrel,Pterodroma externa,2017-09-22 15:30,HICEAS Survey 23,1,19.5,-163.0,2017
+222,Rock Pigeon,Columba livia,2017-09-22 15:15,Hawaii Prince golf club,12,21.3269971,-158.0131173,2017
+223,Least Tern,Sternula antillarum,2017-09-22 15:15,Hawaii Prince golf club,1,21.3269971,-158.0131173,2017
+224,Hawaiian Hawk,Buteo solitarius,2017-09-22 14:45,Kailua-Kona Town Area (not wilderness or upper elevations!),1,19.6348271,-155.9892082,2017
+225,Indian Peafowl,Pavo cristatus,2017-09-22 14:43,Maui--Hwy 340,3,20.9582035,-156.5256339,2017
+226,francolin sp.,Pternistis/Francolinus/Peliperdix/Scleroptila sp.,2017-09-22 14:13,"74-5200 Queen Kaahumanu Hwy, Kailua US-HI (19.6606,-156.0150)",3,19.66058,-156.014996,2017
+227,Cackling Goose,Branta hutchinsii,2017-09-22 13:55,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2017
+228,Apapane,Himatione sanguinea,2017-09-22 13:00,Hosmer Grove Trail Loop,2,20.7684333,-156.2375593,2017
+229,Iiwi,Drepanis coccinea,2017-09-22 13:00,Hosmer Grove Trail Loop,4,20.7684333,-156.2375593,2017
+230,Hawaii Amakihi,Chlorodrepanis virens,2017-09-22 13:00,Hosmer Grove Trail Loop,1,20.7684333,-156.2375593,2017
+231,Northern Cardinal,Cardinalis cardinalis,2017-09-22 13:00,Hosmer Grove Trail Loop,2,20.7684333,-156.2375593,2017
+232,Chestnut-bellied Sandgrouse,Pterocles exustus,2017-09-22 12:15,Keahole Point,2,19.727713,-156.0609278,2017
+233,Red-whiskered Bulbul,Pycnonotus jocosus,2017-09-22 11:15,Ala Puumalu Community Park,2,21.3590701,-157.9025567,2017
+234,Mallard,Anas platyrhynchos,2017-09-22 11:00,Kuhio Kalanianaole Park,3,19.7251832,-155.0607267,2017
+235,dabbling duck sp.,Anatidae sp. (dabbling duck sp.),2017-09-22 10:45,Pearl Harbor NWR--Honouliuli Unit (restricted access),1,21.3567,-158.0194,2017
+236,African Silverbill,Euodice cantans,2017-09-22 10:20,Waimea Canyon Park,14,21.959961,-159.674325,2017
+237,Scaly-breasted Munia,Lonchura punctulata,2017-09-22 10:20,Waimea Canyon Park,2,21.959961,-159.674325,2017
+238,Pterodroma sp.,Pterodroma sp.,2017-09-22 09:40,"(19.247, -161.914)",10,19.2471426,-161.91405,2017
+239,Sooty Shearwater,Ardenna grisea,2017-09-22 09:40,"(19.247, -161.914)",2,19.2471426,-161.91405,2017
+240,Masked Booby,Sula dactylatra,2017-09-22 09:40,"(19.247, -161.914)",1,19.2471426,-161.91405,2017
+241,Chinese Hwamei,Garrulax canorus,2017-09-22 08:53,"Hanalei National Wildlife Refuge, Princeville US-HI (22.2017,-159.4727) Okolehao Trail",1,22.201734,-159.472652,2017
+242,Hawaiian Goose,Branta sandvicensis,2017-09-22 08:52,Kawaiele State Waterbird Sanctuary,8,22.0099791,-159.7679526,2017
+243,Hawaiian Duck,Anas wyvilliana,2017-09-22 08:52,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
+244,Pectoral Sandpiper,Calidris melanotos,2017-09-22 08:52,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
+245,Short-eared Owl,Asio flammeus,2017-09-22 08:52,Kawaiele State Waterbird Sanctuary,2,22.0099791,-159.7679526,2017
+246,Japanese Bush Warbler,Horornis diphone,2017-09-22 08:52,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
+247,Red Junglefowl,Gallus gallus,2017-09-22 08:34,Hanalei NWR -- Ohiki Rd.,2,22.2072115,-159.4754791,2017
+248,Red-masked Parakeet,Psittacara erythrogenys,2017-09-22 08:15,Kailua-Kona Town Area (not wilderness or upper elevations!),2,19.6348271,-155.9892082,2017
+249,Maui Alauahio,Paroreomyza montana,2017-09-22 08:09,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2017
+250,Hawaiian Petrel,Pterodroma sandwichensis,2017-09-22 08:00,Koa Kea Hotel & Resort,1,21.874821,-159.4576317,2017
+251,Red-crowned Parrot,Amazona viridigenalis,2017-09-22 07:50,Kapiolani Park,1,21.2666546,-157.8193562,2017
+252,Erckel's Francolin,Pternistis erckelii,2017-09-22 07:00,Kawaiele State Waterbird Sanctuary,6,22.0099791,-159.7679526,2017
+253,Black Francolin,Francolinus francolinus,2017-09-22 07:00,Kawaiele State Waterbird Sanctuary,1,22.0099791,-159.7679526,2017
+254,Hawaiian Goose,Branta sandvicensis,2016-09-22 22:27,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2016
+255,Short-eared Owl,Asio flammeus,2016-09-22 22:27,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2016
+256,Maui Alauahio,Paroreomyza montana,2016-09-22 22:27,Haleakala NP--Hosmer Grove,2,20.7684183,-156.2365883,2016
+257,Apapane,Himatione sanguinea,2016-09-22 22:27,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2016
+258,White Tern,Gygis alba,2016-09-22 18:04,Diamond Head Recreation Area,9,21.2556217,-157.8055143,2016
+259,Cackling Goose,Branta hutchinsii,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,1,19.6621002,-156.0179014,2016
+260,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2016
+261,Northern Pintail,Anas acuta,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,7,19.6621002,-156.0179014,2016
+262,Spotted Dove,Streptopelia chinensis,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,4,19.6621002,-156.0179014,2016
+263,Zebra Dove,Geopelia striata,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,34,19.6621002,-156.0179014,2016
+264,Hawaiian Coot,Fulica alai,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,42,19.6621002,-156.0179014,2016
+265,Black-necked Stilt,Himantopus mexicanus,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,52,19.6621002,-156.0179014,2016
+266,Pacific Golden-Plover,Pluvialis fulva,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,36,19.6621002,-156.0179014,2016
+267,Ruddy Turnstone,Arenaria interpres,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,21,19.6621002,-156.0179014,2016
+268,Sanderling,Calidris alba,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,3,19.6621002,-156.0179014,2016
+269,Pectoral Sandpiper,Calidris melanotos,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
+270,Wandering Tattler,Tringa incana,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,15,19.6621002,-156.0179014,2016
+271,Least Tern,Sternula antillarum,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,4,19.6621002,-156.0179014,2016
+272,Cattle Egret,Bubulcus ibis,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,52,19.6621002,-156.0179014,2016
+273,Black-crowned Night-Heron,Nycticorax nycticorax,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,30,19.6621002,-156.0179014,2016
+274,White-faced Ibis,Plegadis chihi,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
+275,Common Myna,Acridotheres tristis,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,21,19.6621002,-156.0179014,2016
+276,House Sparrow,Passer domesticus,2016-09-22 17:40,Kealakehe Wastewater Treatment Plant,2,19.6621002,-156.0179014,2016
+277,Red Junglefowl,Gallus gallus,2016-09-22 17:29,Secret Falls,2,22.0460072,-159.3720317,2016
+278,White-rumped Shama,Copsychus malabaricus,2016-09-22 17:29,Secret Falls,2,22.0460072,-159.3720317,2016
+279,Warbling White-eye,Zosterops japonicus,2016-09-22 17:00,Holualoa,1,19.6150201,-155.9682226,2016
+280,Java Sparrow,Lonchura oryzivora,2016-09-22 17:00,Holualoa,2,19.6150201,-155.9682226,2016
+281,Yellow-billed Cardinal,Paroaria capitata,2016-09-22 17:00,Holualoa,1,19.6150201,-155.9682226,2016
+282,Saffron Finch,Sicalis flaveola,2016-09-22 17:00,Holualoa,10,19.6150201,-155.9682226,2016
+283,Black Noddy,Anous minutus,2016-09-22 16:15,Keahole Point,35,19.727713,-156.0609278,2016
+284,Brown/Black Noddy,Anous stolidus/minutus,2016-09-22 16:15,Keahole Point,20,19.727713,-156.0609278,2016
+285,Bulwer's Petrel,Bulweria bulwerii,2016-09-22 16:15,Keahole Point,13,19.727713,-156.0609278,2016
+286,Wedge-tailed Shearwater,Ardenna pacifica,2016-09-22 16:15,Keahole Point,425,19.727713,-156.0609278,2016
+287,Great Frigatebird,Fregata minor,2016-09-22 16:15,Keahole Point,1,19.727713,-156.0609278,2016
+288,Brown Booby,Sula leucogaster,2016-09-22 16:15,Keahole Point,3,19.727713,-156.0609278,2016
+289,Northern Mockingbird,Mimus polyglottos,2016-09-22 16:15,Keahole Point,1,19.727713,-156.0609278,2016
+290,House Finch,Haemorhous mexicanus,2016-09-22 16:15,Keahole Point,5,19.727713,-156.0609278,2016
+291,Yellow-fronted Canary,Crithagra mozambica,2016-09-22 16:15,Keahole Point,2,19.727713,-156.0609278,2016
+292,Red-crested Cardinal,Paroaria coronata,2016-09-22 16:00,Ka'ena Point NAR,3,21.5742024,-158.2777119,2016
+293,Northern Cardinal,Cardinalis cardinalis,2016-09-22 15:00,Sheraton Keauhou Bay Resort and Spa,1,19.5584961,-155.9652615,2016
+294,Gray Francolin,Francolinus pondicerianus,2016-09-22 14:00,Kalahuipua'a Historic Park,3,19.9418225,-155.867501,2016
+295,Common Waxbill,Estrilda astrild,2016-09-22 14:00,Kalahuipua'a Historic Park,10,19.9418225,-155.867501,2016
+296,Rock Pigeon,Columba livia,2016-09-22 13:10,Waipio Peninsula Soccer Complex,10,21.3722035,-157.997539,2016
+297,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),2016-09-22 13:00,Airport,3,20.9009137,-156.43085,2016
+298,Mallard x Hawaiian Duck (hybrid),Anas platyrhynchos x wyvilliana,2016-09-22 11:00,Pearl Harbor NWR--Honouliuli Unit (restricted access),10,21.3567,-158.0194,2016
+299,Mourning Dove,Zenaida macroura,2016-09-22 11:00,Pearl Harbor NWR--Honouliuli Unit (restricted access),14,21.3567,-158.0194,2016
+300,Common Gallinule,Gallinula galeata,2016-09-22 11:00,Pearl Harbor NWR--Honouliuli Unit (restricted access),6,21.3567,-158.0194,2016
+301,White-tailed Tropicbird,Phaethon lepturus,2016-09-22 11:00,Whittington Beach Park,4,19.0849122,-155.5504203,2016
+302,Red-vented Bulbul,Pycnonotus cafer,2016-09-22 11:00,Pearl Harbor NWR--Honouliuli Unit (restricted access),4,21.3567,-158.0194,2016
+303,Hawaii Amakihi,Chlorodrepanis virens,2016-09-22 10:48,Halepohaku,1,19.76156,-155.45587,2016
+304,large shorebird sp.,Scolopacidae sp. (large shorebird sp.),2016-09-22 09:19,Puhili Point,2,19.6940058,-156.0446978,2016
+305,African Silverbill,Euodice cantans,2016-09-22 09:19,Puhili Point,2,19.6940058,-156.0446978,2016
+306,Erckel's Francolin,Pternistis erckelii,2016-09-22 07:00,Hawai'i Volcanoes NP--Kipuka Puaulu,2,19.4405764,-155.3024554,2016
+307,Kalij Pheasant,Lophura leucomelanos,2016-09-22 07:00,Hawai'i Volcanoes NP--Kipuka Puaulu,1,19.4405764,-155.3024554,2016
+308,Chinese Hwamei,Garrulax canorus,2016-09-22 07:00,Hawai'i Volcanoes NP--Kipuka Puaulu,1,19.4405764,-155.3024554,2016
+309,Red-billed Leiothrix,Leiothrix lutea,2016-09-22 07:00,Hawai'i Volcanoes NP--Kipuka Puaulu,1,19.4405764,-155.3024554,2016
+310,Scaly-breasted Munia,Lonchura punctulata,2016-09-22 07:00,Hawai'i Volcanoes NP--Kipuka Puaulu,1,19.4405764,-155.3024554,2016
+311,Juan Fernandez Petrel,Pterodroma externa,2016-09-22 06:34,Keahole Point,1,19.727713,-156.0609278,2016
+312,Eurasian Skylark,Alauda arvensis,2016-09-22,Kanaha Pond State Sanctuary,1,20.8909737,-156.4616955,2016
+313,Spotted Dove,Streptopelia chinensis,2015-09-22 18:30,Kamaole Beach Park III,1,20.712973,-156.445725,2015
+314,Zebra Dove,Geopelia striata,2015-09-22 18:30,Kamaole Beach Park III,1,20.712973,-156.445725,2015
+315,Mourning Dove,Zenaida macroura,2015-09-22 18:30,Kamaole Beach Park III,1,20.712973,-156.445725,2015
+316,Common Myna,Acridotheres tristis,2015-09-22 18:30,Kamaole Beach Park III,1,20.712973,-156.445725,2015
+317,Hawaiian Goose,Branta sandvicensis,2015-09-22 15:50,Kilauea Point NWR,6,22.2316072,-159.4019778,2015
+318,Red Junglefowl,Gallus gallus,2015-09-22 15:30,Kihei - Suda Store/Farmer's Market,2,20.781969,-156.462659,2015
+319,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2015-09-22 14:33,Lokowaka Pond,11,19.7308362,-155.0285912,2015
+320,Hawaiian Coot,Fulica alai,2015-09-22 14:33,Lokowaka Pond,16,19.7308362,-155.0285912,2015
+321,Wandering Tattler,Tringa incana,2015-09-22 14:33,Lokowaka Pond,1,19.7308362,-155.0285912,2015
+322,Black-crowned Night-Heron,Nycticorax nycticorax,2015-09-22 14:33,Lokowaka Pond,2,19.7308362,-155.0285912,2015
+323,Yellow-billed Cardinal,Paroaria capitata,2015-09-22 14:33,Lokowaka Pond,1,19.7308362,-155.0285912,2015
+324,Rock Pigeon,Columba livia,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,6,21.39263,-157.730129,2015
+325,Common Gallinule,Gallinula galeata,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,5,21.39263,-157.730129,2015
+326,Black-necked Stilt,Himantopus mexicanus,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,2,21.39263,-157.730129,2015
+327,Pacific Golden-Plover,Pluvialis fulva,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,3,21.39263,-157.730129,2015
+328,Java Sparrow,Lonchura oryzivora,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,6,21.39263,-157.730129,2015
+329,Red-crested Cardinal,Paroaria coronata,2015-09-22 10:08,US-HI-Kailua-251 Kakahiaka St - 21.3926x-157.7301,3,21.39263,-157.730129,2015
+330,Erckel's Francolin,Pternistis erckelii,2015-09-22 09:05,Halepohaku,1,19.76156,-155.45587,2015
+331,Warbling White-eye,Zosterops japonicus,2015-09-22 09:05,Halepohaku,4,19.76156,-155.45587,2015
+332,Apapane,Himatione sanguinea,2015-09-22 09:05,Halepohaku,19,19.76156,-155.45587,2015
+333,Hawaii Amakihi,Chlorodrepanis virens,2015-09-22 09:05,Halepohaku,7,19.76156,-155.45587,2015
+334,Chukar,Alectoris chukar,2015-09-22 08:00,Haleakala NP--Hosmer Grove,1,20.7684183,-156.2365883,2015
+335,Iiwi,Drepanis coccinea,2015-09-22 08:00,Haleakala NP--Hosmer Grove,2,20.7684183,-156.2365883,2015
+336,Warbling White-eye,Zosterops japonicus,2010-09-22 16:00,TNC Waikamoi Campsite (Restricted Access),2,20.76944,-156.2256,2010
+337,Maui Alauahio,Paroreomyza montana,2010-09-22 16:00,TNC Waikamoi Campsite (Restricted Access),2,20.76944,-156.2256,2010
+338,Hawaii Amakihi,Chlorodrepanis virens,2010-09-22 16:00,TNC Waikamoi Campsite (Restricted Access),5,20.76944,-156.2256,2010
+339,House Finch,Haemorhous mexicanus,2010-09-22 16:00,TNC Waikamoi Campsite (Restricted Access),1,20.76944,-156.2256,2010
+340,Red-billed Leiothrix,Leiothrix lutea,2010-09-22 14:45,TNC Waikamoi Campsite (Restricted Access),1,20.76944,-156.2256,2010
+341,Ring-necked Pheasant,Phasianus colchicus,2010-09-22 13:30,TNC Waikamoi Campsite (Restricted Access),1,20.76944,-156.2256,2010
+342,Apapane,Himatione sanguinea,2010-09-22 13:30,TNC Waikamoi Campsite (Restricted Access),1,20.76944,-156.2256,2010
+343,Northern Cardinal,Cardinalis cardinalis,2010-09-22 13:30,TNC Waikamoi Campsite (Restricted Access),1,20.76944,-156.2256,2010
+344,Hawaiian Goose,Branta sandvicensis,2010-09-22 11:50,"Koke'e, Waipoo Fall",6,22.1155,-159.66988,2010
+345,White-tailed Tropicbird,Phaethon lepturus,2010-09-22 11:50,"Koke'e, Waipoo Fall",10,22.1155,-159.66988,2010
+346,White-rumped Shama,Copsychus malabaricus,2010-09-22 11:50,"Koke'e, Waipoo Fall",1,22.1155,-159.66988,2010
+347,Red-crested Cardinal,Paroaria coronata,2010-09-22 11:50,"Koke'e, Waipoo Fall",1,22.1155,-159.66988,2010
+348,Wedge-tailed Shearwater,Ardenna pacifica,2010-09-22 11:00,Popoia Island,100,21.4000559,-157.7204132,2010
+349,Akohekohe,Palmeria dolei,2010-09-22 09:56,"TNC Waikamoi, East of Honomanu Gulch 6000ft elev (Restricted)",1,20.77776,-156.21915,2010
+350,Iiwi,Drepanis coccinea,2010-09-22 09:56,"TNC Waikamoi, East of Honomanu Gulch 6000ft elev (Restricted)",1,20.77776,-156.21915,2010
+351,Brown Noddy,Anous stolidus,2010-09-22 06:30,Offshore waters windward Oahu,30,21.5603135,-157.6567698,2010
+352,Black Noddy,Anous minutus,2010-09-22 06:30,Offshore waters windward Oahu,3,21.5603135,-157.6567698,2010
+353,White Tern,Gygis alba,2010-09-22 06:30,Offshore waters windward Oahu,2,21.5603135,-157.6567698,2010
+354,Leach's Storm-Petrel,Oceanodroma leucorhoa,2010-09-22 06:30,Offshore waters windward Oahu,1,21.5603135,-157.6567698,2010
+355,Hawaiian Petrel,Pterodroma sandwichensis,2010-09-22 06:30,Offshore waters windward Oahu,2,21.5603135,-157.6567698,2010
+356,Black-winged Petrel,Pterodroma nigripennis,2010-09-22 06:30,Offshore waters windward Oahu,15,21.5603135,-157.6567698,2010
+357,Cook's Petrel,Pterodroma cookii,2010-09-22 06:30,Offshore waters windward Oahu,2,21.5603135,-157.6567698,2010
+358,Stejneger's Petrel,Pterodroma longirostris,2010-09-22 06:30,Offshore waters windward Oahu,2,21.5603135,-157.6567698,2010
+359,Cookilaria petrel sp.,Pterodroma sp. (Cookilaria sp.),2010-09-22 06:30,Offshore waters windward Oahu,20,21.5603135,-157.6567698,2010
+360,Pterodroma sp.,Pterodroma sp.,2010-09-22 06:30,Offshore waters windward Oahu,1,21.5603135,-157.6567698,2010
+361,Bulwer's Petrel,Bulweria bulwerii,2010-09-22 06:30,Offshore waters windward Oahu,1,21.5603135,-157.6567698,2010
+362,Buller's Shearwater,Ardenna bulleri,2010-09-22 06:30,Offshore waters windward Oahu,1,21.5603135,-157.6567698,2010
+363,Sooty Shearwater,Ardenna grisea,2010-09-22 06:30,Offshore waters windward Oahu,15,21.5603135,-157.6567698,2010
+364,Short-tailed Shearwater,Ardenna tenuirostris,2010-09-22 06:30,Offshore waters windward Oahu,2,21.5603135,-157.6567698,2010
+365,Sooty/Short-tailed Shearwater,Ardenna grisea/tenuirostris,2010-09-22 06:30,Offshore waters windward Oahu,20,21.5603135,-157.6567698,2010
+366,Great Frigatebird,Fregata minor,2010-09-22 06:30,Offshore waters windward Oahu,4,21.5603135,-157.6567698,2010
+367,Masked Booby,Sula dactylatra,2010-09-22 06:30,Offshore waters windward Oahu,4,21.5603135,-157.6567698,2010
+368,Brown Booby,Sula leucogaster,2010-09-22 06:30,Offshore waters windward Oahu,5,21.5603135,-157.6567698,2010
+369,Red-footed Booby,Sula sula,2010-09-22 06:30,Offshore waters windward Oahu,50,21.5603135,-157.6567698,2010
+370,Pacific Golden-Plover,Pluvialis fulva,2000-09-22,Mauna Kea Golf Course,10,20.0110365,-155.8172035,2000
