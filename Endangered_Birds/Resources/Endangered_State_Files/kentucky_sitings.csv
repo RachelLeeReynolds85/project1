@@ -1,0 +1,865 @@
+,Common Name,Scientific Name,Date Sited,Location Name,Num Sighted,Latitude,Longitude,year
+0,Canada Goose,Branta canadensis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",5,38.238629,-84.597402,2020
+1,Mourning Dove,Zenaida macroura,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",6,38.238629,-84.597402,2020
+2,Ruby-throated Hummingbird,Archilochus colubris,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",2,38.238629,-84.597402,2020
+3,Killdeer,Charadrius vociferus,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",2,38.238629,-84.597402,2020
+4,Great Blue Heron,Ardea herodias,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+5,Black Vulture,Coragyps atratus,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",3,38.238629,-84.597402,2020
+6,Cooper's Hawk,Accipiter cooperii,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+7,Red-tailed Hawk,Buteo jamaicensis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+8,Red-bellied Woodpecker,Melanerpes carolinus,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+9,Downy Woodpecker,Dryobates pubescens,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+10,Pileated Woodpecker,Dryocopus pileatus,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+11,American Kestrel,Falco sparverius,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+12,Blue Jay,Cyanocitta cristata,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",2,38.238629,-84.597402,2020
+13,Carolina Chickadee,Poecile carolinensis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+14,White-breasted Nuthatch,Sitta carolinensis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+15,European Starling,Sturnus vulgaris,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",4,38.238629,-84.597402,2020
+16,Eastern Bluebird,Sialia sialis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",7,38.238629,-84.597402,2020
+17,American Robin,Turdus migratorius,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",5,38.238629,-84.597402,2020
+18,House Finch,Haemorhous mexicanus,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",8,38.238629,-84.597402,2020
+19,American Goldfinch,Spinus tristis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",3,38.238629,-84.597402,2020
+20,Brown-headed Cowbird,Molothrus ater,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",2,38.238629,-84.597402,2020
+21,Common Grackle,Quiscalus quiscula,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",3,38.238629,-84.597402,2020
+22,Northern Cardinal,Cardinalis cardinalis,2020-09-26 21:10,"757 Lloyd Rd, Georgetown US-KY 38.23863, -84.59740",1,38.238629,-84.597402,2020
+23,Black-and-white Warbler,Mniotilta varia,2020-09-26 20:12,"20 Indian Drive, Morehead, Kentucky, US (38.222, -83.5)",1,38.2224343,-83.4997224,2020
+24,Great Horned Owl,Bubo virginianus,2020-09-26 19:51,"4007 Altawood Ct, Louisville US-KY 38.30249, -85.50318",2,38.302492,-85.503175,2020
+25,Northern Flicker,Colaptes auratus,2020-09-26 19:26,Grand Central Boulevard,1,37.0586397,-84.6327331,2020
+26,Carolina Wren,Thryothorus ludovicianus,2020-09-26 19:26,Grand Central Boulevard,3,37.0586397,-84.6327331,2020
+27,Song Sparrow,Melospiza melodia,2020-09-26 19:26,Grand Central Boulevard,1,37.0586397,-84.6327331,2020
+28,Eastern Towhee,Pipilo erythrophthalmus,2020-09-26 19:26,Grand Central Boulevard,3,37.0586397,-84.6327331,2020
+29,warbler sp. (Parulidae sp.),Parulidae sp.,2020-09-26 19:26,Grand Central Boulevard,2,37.0586397,-84.6327331,2020
+30,passerine sp.,Passeriformes sp.,2020-09-26 19:26,Grand Central Boulevard,3,37.0586397,-84.6327331,2020
+31,bird sp.,Aves sp.,2020-09-26 19:26,Grand Central Boulevard,1,37.0586397,-84.6327331,2020
+32,Chimney Swift,Chaetura pelagica,2020-09-26 19:00,"1411 Beckley Creek Parkway, Louisville, Kentucky, US (38.214, -85.474)",4,38.2139738,-85.4742824,2020
+33,Gray Catbird,Dumetella carolinensis,2020-09-26 19:00,"1411 Beckley Creek Parkway, Louisville, Kentucky, US (38.214, -85.474)",2,38.2139738,-85.4742824,2020
+34,sparrow sp.,Passerellidae sp. (sparrow sp.),2020-09-26 19:00,"1411 Beckley Creek Parkway, Louisville, Kentucky, US (38.214, -85.474)",2,38.2139738,-85.4742824,2020
+35,Barred Owl,Strix varia,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,1,38.204139,-85.477241,2020
+36,Hairy Woodpecker,Dryobates villosus,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,1,38.204139,-85.477241,2020
+37,Eastern Wood-Pewee,Contopus virens,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,1,38.204139,-85.477241,2020
+38,American Crow,Corvus brachyrhynchos,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,4,38.204139,-85.477241,2020
+39,Tufted Titmouse,Baeolophus bicolor,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,4,38.204139,-85.477241,2020
+40,Swainson's Thrush,Catharus ustulatus,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,1,38.204139,-85.477241,2020
+41,Cedar Waxwing,Bombycilla cedrorum,2020-09-26 18:32,Beckley Creek Park--Distillery Bend Section,2,38.204139,-85.477241,2020
+42,Red-breasted Nuthatch,Sitta canadensis,2020-09-26 18:27, Arnoldtown Road - neighborhood,1,38.1297011,-85.808402,2020
+43,Summer Tanager,Piranga rubra,2020-09-26 18:27, Arnoldtown Road - neighborhood,1,38.1297011,-85.808402,2020
+44,House Wren,Troglodytes aedon,2020-09-26 18:22,"4007 Altawood Ct, Louisville US-KY 38.30248, -85.50311",1,38.302481,-85.503108,2020
+45,Wood Thrush,Hylocichla mustelina,2020-09-26 18:10,Reserve de MK Trigo (Privada),1,38.094827,-85.2971217,2020
+46,Chipping Sparrow,Spizella passerina,2020-09-26 18:10,Reserve de MK Trigo (Privada),3,38.094827,-85.2971217,2020
+47,Mallard,Anas platyrhynchos,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+48,Eastern Phoebe,Sayornis phoebe,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+49,Philadelphia Vireo,Vireo philadelphicus,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+50,Brown Thrasher,Toxostoma rufum,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+51,Gray-cheeked Thrush,Catharus minimus,2020-09-26 18:07,Anchorage Trail,2,38.2666738,-85.5401262,2020
+52,American Redstart,Setophaga ruticilla,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+53,Canada Warbler,Cardellina canadensis,2020-09-26 18:07,Anchorage Trail,1,38.2666738,-85.5401262,2020
+54,flycatcher sp. (Tyrannidae sp.),Tyrannidae sp.,2020-09-26 18:03,Grand Central Boulevard,2,37.0586397,-84.6327331,2020
+55,Northern Mockingbird,Mimus polyglottos,2020-09-26 18:03,Grand Central Boulevard,1,37.0586397,-84.6327331,2020
+56,Acanthis/Spinus sp.,Acanthis/Spinus sp.,2020-09-26 18:03,Grand Central Boulevard,1,37.0586397,-84.6327331,2020
+57,Red-winged Blackbird,Agelaius phoeniceus,2020-09-26 18:03,Grand Central Boulevard,150,37.0586397,-84.6327331,2020
+58,blackbird sp.,Icteridae sp.,2020-09-26 18:03,Grand Central Boulevard,170,37.0586397,-84.6327331,2020
+59,Wood Duck,Aix sponsa,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),3,38.1519218,-85.7329059,2020
+60,Green-winged Teal,Anas crecca,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),3,38.1519218,-85.7329059,2020
+61,American Golden-Plover,Pluvialis dominica,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2020
+62,Pectoral Sandpiper,Calidris melanotos,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),3,38.1519218,-85.7329059,2020
+63,Spotted Sandpiper,Actitis macularius,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),2,38.1519218,-85.7329059,2020
+64,Greater Yellowlegs,Tringa melanoleuca,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),2,38.1519218,-85.7329059,2020
+65,Great Egret,Ardea alba,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),46,38.1519218,-85.7329059,2020
+66,Green Heron,Butorides virescens,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2020
+67,Black-crowned Night-Heron,Nycticorax nycticorax,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2020
+68,Peregrine Falcon,Falco peregrinus,2020-09-26 18:00,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2020
+69,Blue-winged Teal,Spatula discors,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",25,37.01551,-84.6357729,2020
+70,Wild Turkey,Meleagris gallopavo,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",5,37.01551,-84.6357729,2020
+71,Turkey Vulture,Cathartes aura,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",1,37.01551,-84.6357729,2020
+72,Loggerhead Shrike,Lanius ludovicianus,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",1,37.01551,-84.6357729,2020
+73,Tree Swallow,Tachycineta bicolor,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",50,37.01551,-84.6357729,2020
+74,House Sparrow,Passer domesticus,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",5,37.01551,-84.6357729,2020
+75,Eastern Meadowlark,Sturnella magna,2020-09-26 17:59,"500 Waitsboro Road, Somerset, Kentucky, US (37.016, -84.636)",2,37.01551,-84.6357729,2020
+76,Marsh Wren,Cistothorus palustris,2020-09-26 17:56,"250 Cave Run Circle, Versailles, Kentucky, US (37.946, -84.659)",1,37.9461585,-84.6587941,2020
+77,Common Yellowthroat,Geothlypis trichas,2020-09-26 17:56,"250 Cave Run Circle, Versailles, Kentucky, US (37.946, -84.659)",1,37.9461585,-84.6587941,2020
+78,Indigo Bunting,Passerina cyanea,2020-09-26 17:56,"250 Cave Run Circle, Versailles, Kentucky, US (37.946, -84.659)",3,37.9461585,-84.6587941,2020
+79,Magnolia Warbler,Setophaga magnolia,2020-09-26 17:48,Boxend,1,37.5800221,-84.2801456,2020
+80,Bay-breasted Warbler,Setophaga castanea,2020-09-26 17:48,Boxend,2,37.5800221,-84.2801456,2020
+81,Chestnut-sided Warbler,Setophaga pensylvanica,2020-09-26 17:48,Boxend,1,37.5800221,-84.2801456,2020
+82,Scarlet Tanager,Piranga olivacea,2020-09-26 17:48,Boxend,1,37.5800221,-84.2801456,2020
+83,Palm Warbler,Setophaga palmarum,2020-09-26 17:42,1714 Nightingale Court,1,38.21353,-85.71194,2020
+84,Rock Pigeon,Columba livia,2020-09-26 17:17,Arthur K. Draut Park,25,38.2425283,-85.6308532,2020
+85,Red-shouldered Hawk,Buteo lineatus,2020-09-26 17:17,Arthur K. Draut Park,1,38.2425283,-85.6308532,2020
+86,Black-throated Blue Warbler,Setophaga caerulescens,2020-09-26 17:17,Arthur K. Draut Park,1,38.2425283,-85.6308532,2020
+87,Rose-breasted Grosbeak,Pheucticus ludovicianus,2020-09-26 17:17,Arthur K. Draut Park,1,38.2425283,-85.6308532,2020
+88,Stilt Sandpiper,Calidris himantopus,2020-09-26 17:14,Fisherman’s lake,3,37.683243,-85.8337784,2020
+89,Double-crested Cormorant,Phalacrocorax auritus,2020-09-26 17:14,Fisherman’s lake,2,37.683243,-85.8337784,2020
+90,Belted Kingfisher,Megaceryle alcyon,2020-09-26 17:14,Fisherman’s lake,1,37.683243,-85.8337784,2020
+91,Tennessee Warbler,Leiothlypis peregrina,2020-09-26 17:14,Fisherman’s lake,7,37.683243,-85.8337784,2020
+92,Yellow-billed Cuckoo,Coccyzus americanus,2020-09-26 16:53,Mammoth Cave NP--Visitor Center area (Edmonson Co.),1,37.185719,-86.101903,2020
+93,Eastern Screech-Owl,Megascops asio,2020-09-26 16:53,Mammoth Cave NP--Visitor Center area (Edmonson Co.),2,37.185719,-86.101903,2020
+94,Yellow-throated Vireo,Vireo flavifrons,2020-09-26 16:53,Mammoth Cave NP--Visitor Center area (Edmonson Co.),1,37.185719,-86.101903,2020
+95,Prairie Warbler,Setophaga discolor,2020-09-26 16:53,Mammoth Cave NP--Visitor Center area (Edmonson Co.),1,37.185719,-86.101903,2020
+96,Forster's Tern,Sterna forsteri,2020-09-26 16:45,Ark Encounter Pond,1,38.6211265,-84.591442,2020
+97,Osprey,Pandion haliaetus,2020-09-26 16:23,Cedar Creek Lake--Dock #2,1,37.484557,-84.559819,2020
+98,Bald Eagle,Haliaeetus leucocephalus,2020-09-26 16:23,Cedar Creek Lake--Dock #2,1,37.484557,-84.559819,2020
+99,Black-throated Green Warbler,Setophaga virens,2020-09-26 16:01,Craigmoor Estates,2,38.19097,-84.63638,2020
+100,Mallard (Domestic type),Anas platyrhynchos (Domestic type),2020-09-26 15:54,Falls of the Ohio National Wildlife Conservation Area (KY),1,38.2733354,-85.7657962,2020
+101,Red-eyed Vireo,Vireo olivaceus,2020-09-26 15:10,Vellios Home,1,38.0173602,-84.4719055,2020
+102,Pied-billed Grebe,Podilymbus podiceps,2020-09-26 14:53,760 Hodgenville road,1,37.6670407,-85.8352375,2020
+103,White-eyed Vireo,Vireo griseus,2020-09-26 14:53,760 Hodgenville road,1,37.6670407,-85.8352375,2020
+104,Field Sparrow,Spizella pusilla,2020-09-26 14:53,760 Hodgenville road,1,37.6670407,-85.8352375,2020
+105,Nashville Warbler,Leiothlypis ruficapilla,2020-09-26 14:53,760 Hodgenville road,1,37.6670407,-85.8352375,2020
+106,Northern Parula,Setophaga americana,2020-09-26 14:53,760 Hodgenville road,3,37.6670407,-85.8352375,2020
+107,Blue Grosbeak,Passerina caerulea,2020-09-26 14:16,"Sep 26, 2020 14:42
+37.659, -84.343",5,37.6587854,-84.3427359,2020
+108,Cape May Warbler,Setophaga tigrina,2020-09-26 12:18,"11117 Pebble Creek Dr, Louisville US-KY 38.32092, -85.54135",1,38.320918,-85.54135,2020
+109,Yellow-bellied Sapsucker,Sphyrapicus varius,2020-09-26 11:45,The Hood,1,38.053355,-84.5546458,2020
+110,Least Sandpiper,Calidris minutilla,2020-09-26 11:30,Crappie Hollow (Blood River),3,36.5777315,-88.1470238,2020
+111,Ring-billed Gull,Larus delawarensis,2020-09-26 11:30,Crappie Hollow (Blood River),59,36.5777315,-88.1470238,2020
+112,Caspian Tern,Hydroprogne caspia,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+113,American White Pelican,Pelecanus erythrorhynchos,2020-09-26 11:30,Crappie Hollow (Blood River),222,36.5777315,-88.1470238,2020
+114,Snowy Egret,Egretta thula,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+115,Little Blue Heron,Egretta caerulea,2020-09-26 11:30,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2020
+116,Fish Crow,Corvus ossifragus,2020-09-26 11:30,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2020
+117,Hooded Warbler,Setophaga citrina,2020-09-26 11:29,"Dave's Biosphere, 3809 Brier East,  Lexington KY",1,38.0155007,-84.3764269,2020
+118,Ovenbird,Seiurus aurocapilla,2020-09-26 10:34,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2020
+119,Bay-breasted/Blackpoll Warbler,Setophaga castanea/striata,2020-09-26 10:34,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2020
+120,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2020-09-26 10:11,Lake Barkley (Lyon Co.)--Eddy Creek Embayment (Coleman Bridge Vicinity),5,37.0377028,-87.9994833,2020
+121,swallow sp.,Hirundinidae sp.,2020-09-26 10:11,Lake Barkley (Lyon Co.)--Eddy Creek Embayment (Coleman Bridge Vicinity),4,37.0377028,-87.9994833,2020
+122,Broad-winged Hawk,Buteo platypterus,2020-09-26 10:04,(Pond Creek Watershed)Pond Creek Path part of the Louisville Loop Manslick Road Trailhead,1,38.1196507,-85.7975215,2020
+123,Yellow-rumped Warbler,Setophaga coronata,2020-09-26 10:00,"41040, Falmouth US-KY (38.7213,-84.2813)",1,38.721313,-84.281255,2020
+124,Horned Lark,Eremophila alpestris,2020-09-26 09:35,Horseshoe Rd. Sloughs (restricted access; roadside viewing),10,37.8818907,-87.8666514,2020
+125,Yellow-throated Warbler,Setophaga dominica,2020-09-26 09:28,Barren River Lake--Tailwater Area,1,36.8951352,-86.1293364,2020
+126,Ruby-crowned Kinglet,Regulus calendula,2020-09-26 09:16,Wilderness Trails Park,1,38.9680741,-84.4645965,2020
+127,Empidonax sp.,Empidonax sp.,2020-09-26 09:13,Mammoth Cave NP--Maple Springs Campground (Edmonson Co.),2,37.2037582,-86.1374681,2020
+128,Semipalmated Sandpiper,Calidris pusilla,2020-09-26 09:00,Falls of the Ohio National Wildlife Conservation Area (KY),1,38.2733354,-85.7657962,2020
+129,Merlin,Falco columbarius,2020-09-26 09:00,Falls of the Ohio National Wildlife Conservation Area (KY),1,38.2733354,-85.7657962,2020
+130,Mallard/American Black Duck,Anas platyrhynchos/rubripes,2020-09-26 08:39,"Waterfront Park, Louisville US-KY 38.26089, -85.74373",5,38.260892,-85.743725,2020
+131,Blackburnian Warbler,Setophaga fusca,2020-09-26 08:39,Anchorage Trail,1,38.2666738,-85.5401262,2020
+132,Red-headed Woodpecker,Melanerpes erythrocephalus,2020-09-26 08:37,Cave Hill Cemetery,1,38.2453195,-85.7149995,2020
+133,Blue-headed Vireo,Vireo solitarius,2020-09-26 08:37,Cave Hill Cemetery,1,38.2453195,-85.7149995,2020
+134,Blue-winged Warbler,Vermivora cyanoptera,2020-09-26 08:35,Logan Hubble Memorial Park,1,37.5866593,-84.6192012,2020
+135,Great Crested Flycatcher,Myiarchus crinitus,2020-09-26 08:32,Caperton Swamp Park,1,38.2900693,-85.6813307,2020
+136,Northern Waterthrush,Parkesia noveboracensis,2020-09-26 08:32,Caperton Swamp Park,1,38.2900693,-85.6813307,2020
+137,Warbling Vireo,Vireo gilvus,2020-09-26 08:30,Craigmoor Estates,1,38.19097,-84.63638,2020
+138,Pine Warbler,Setophaga pinus,2020-09-26 08:21,Barren River Lake--Quarry Rec. Area,1,36.8959589,-86.1207962,2020
+139,Blue-gray Gnatcatcher,Polioptila caerulea,2020-09-26 07:55,Harrods Creek Park,1,38.3409411,-85.6000521,2020
+140,Wilson's Warbler,Cardellina pusilla,2020-09-26 07:55,Harrods Creek Park,1,38.3409411,-85.6000521,2020
+141,Northern Harrier,Circus hudsonius,2020-09-26 07:45,"Sloughs WMA, Sauerheber Unit",1,37.8488054,-87.7401166,2020
+142,Least Flycatcher,Empidonax minimus,2020-09-26 07:16,Virginia Miles Nature Center,1,37.716047,-87.084437,2020
+143,Wilson's Snipe,Gallinago delicata,2020-09-26 07:15,Harry King Rd,1,37.0582937,-85.9592628,2020
+144,Solitary Sandpiper,Tringa solitaria,2020-09-26 07:15,Harry King Rd,2,37.0582937,-85.9592628,2020
+145,Lesser Yellowlegs,Tringa flavipes,2020-09-26 07:15,Harry King Rd,1,37.0582937,-85.9592628,2020
+146,Mourning Dove,Zenaida macroura,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+147,Ruby-throated Hummingbird,Archilochus colubris,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+148,Black Vulture,Coragyps atratus,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+149,Turkey Vulture,Cathartes aura,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+150,Bald Eagle,Haliaeetus leucocephalus,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+151,Blue Jay,Cyanocitta cristata,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+152,American Crow,Corvus brachyrhynchos,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+153,Carolina Chickadee,Poecile carolinensis,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+154,Tufted Titmouse,Baeolophus bicolor,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+155,American Robin,Turdus migratorius,2019-09-26 21:50,"Land Between the Lakes (Trigg Co., KY)--Fenton Bridge Area",1,36.774505,-88.1089783,2019
+156,Eastern Screech-Owl,Megascops asio,2019-09-26 21:05,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2019
+157,Great Horned Owl,Bubo virginianus,2019-09-26 21:05,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2019
+158,Pied-billed Grebe,Podilymbus podiceps,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+159,Common Nighthawk,Chordeiles minor,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+160,Great Blue Heron,Ardea herodias,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+161,Green Heron,Butorides virescens,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+162,Belted Kingfisher,Megaceryle alcyon,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",2,37.8314879,-85.6280195,2019
+163,Red-bellied Woodpecker,Melanerpes carolinus,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+164,Downy Woodpecker,Dryobates pubescens,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+165,Pileated Woodpecker,Dryocopus pileatus,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",2,37.8314879,-85.6280195,2019
+166,Northern Flicker,Colaptes auratus,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",1,37.8314879,-85.6280195,2019
+167,Rose-breasted Grosbeak,Pheucticus ludovicianus,2019-09-26 19:36,"Hurricane Hills, Boston, Kentucky, US (37.831, -85.628)",4,37.8314879,-85.6280195,2019
+168,Canada Goose,Branta canadensis,2019-09-26 19:15,"Sutherland, Prospect, KY",15,38.3504434,-85.6149314,2019
+169,Carolina Wren,Thryothorus ludovicianus,2019-09-26 19:15,"Sutherland, Prospect, KY",1,38.3504434,-85.6149314,2019
+170,European Starling,Sturnus vulgaris,2019-09-26 19:15,"Sutherland, Prospect, KY",2000,38.3504434,-85.6149314,2019
+171,American Goldfinch,Spinus tristis,2019-09-26 19:15,"Sutherland, Prospect, KY",2,38.3504434,-85.6149314,2019
+172,Common Grackle,Quiscalus quiscula,2019-09-26 19:15,"Sutherland, Prospect, KY",500,38.3504434,-85.6149314,2019
+173,Northern Cardinal,Cardinalis cardinalis,2019-09-26 19:15,"Sutherland, Prospect, KY",3,38.3504434,-85.6149314,2019
+174,Blue-winged Teal,Spatula discors,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),3,36.64634,-87.2486007,2019
+175,Mallard,Anas platyrhynchos,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),2,36.64634,-87.2486007,2019
+176,Black-necked Stilt,Himantopus mexicanus,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),1,36.64634,-87.2486007,2019
+177,Killdeer,Charadrius vociferus,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),6,36.64634,-87.2486007,2019
+178,Least Sandpiper,Calidris minutilla,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),2,36.64634,-87.2486007,2019
+179,Greater Yellowlegs,Tringa melanoleuca,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),1,36.64634,-87.2486007,2019
+180,Lesser Yellowlegs,Tringa flavipes,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),4,36.64634,-87.2486007,2019
+181,Eastern Meadowlark,Sturnella magna,2019-09-26 18:45,Lawson-Poindexter Rd Farm Pond (restricted access; roadside viewing),4,36.64634,-87.2486007,2019
+182,Pectoral Sandpiper,Calidris melanotos,2019-09-26 18:38,Minor E Clark Fish Hatchery,5,38.1177106,-83.5470343,2019
+183,Western Sandpiper,Calidris mauri,2019-09-26 18:38,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2019
+184,Great Egret,Ardea alba,2019-09-26 18:38,Minor E Clark Fish Hatchery,6,38.1177106,-83.5470343,2019
+185,Chimney Swift,Chaetura pelagica,2019-09-26 18:31,Veterans Memorial WMA,2,38.3046479,-84.5569965,2019
+186,Eastern Wood-Pewee,Contopus virens,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+187,Blue-headed Vireo,Vireo solitarius,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+188,Gray Catbird,Dumetella carolinensis,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+189,Swainson's Thrush,Catharus ustulatus,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+190,Eastern Towhee,Pipilo erythrophthalmus,2019-09-26 18:31,Veterans Memorial WMA,3,38.3046479,-84.5569965,2019
+191,Red-winged Blackbird,Agelaius phoeniceus,2019-09-26 18:31,Veterans Memorial WMA,20,38.3046479,-84.5569965,2019
+192,American Redstart,Setophaga ruticilla,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+193,Cape May Warbler,Setophaga tigrina,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+194,Magnolia Warbler,Setophaga magnolia,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+195,Bay-breasted Warbler,Setophaga castanea,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+196,Blackburnian Warbler,Setophaga fusca,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+197,Chestnut-sided Warbler,Setophaga pensylvanica,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+198,Yellow-rumped Warbler,Setophaga coronata,2019-09-26 18:31,Veterans Memorial WMA,1,38.3046479,-84.5569965,2019
+199,Yellow-throated Warbler,Setophaga dominica,2019-09-26 18:31,Veterans Memorial WMA,2,38.3046479,-84.5569965,2019
+200,Black-throated Green Warbler,Setophaga virens,2019-09-26 18:31,Veterans Memorial WMA,4,38.3046479,-84.5569965,2019
+201,Summer Tanager,Piranga rubra,2019-09-26 18:31,Veterans Memorial WMA,2,38.3046479,-84.5569965,2019
+202,Red-tailed Hawk,Buteo jamaicensis,2019-09-26 18:20,Riverpointe,1,39.1106619,-84.4625473,2019
+203,White-breasted Nuthatch,Sitta carolinensis,2019-09-26 18:20,Riverpointe,1,39.1106619,-84.4625473,2019
+204,Northern Mockingbird,Mimus polyglottos,2019-09-26 18:20,Riverpointe,4,39.1106619,-84.4625473,2019
+205,Song Sparrow,Melospiza melodia,2019-09-26 18:20,Riverpointe,1,39.1106619,-84.4625473,2019
+206,Wood Duck,Aix sponsa,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2019
+207,Yellow-billed Cuckoo,Coccyzus americanus,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2019
+208,Eastern Phoebe,Sayornis phoebe,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2019
+209,Brown Thrasher,Toxostoma rufum,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2019
+210,Eastern Bluebird,Sialia sialis,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",8,38.2817914,-85.5584292,2019
+211,House Finch,Haemorhous mexicanus,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",5,38.2817914,-85.5584292,2019
+212,Orange-crowned Warbler,Leiothlypis celata,2019-09-26 18:12,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2019
+213,Eurasian Collared-Dove,Streptopelia decaocto,2019-09-26 17:50,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2019
+214,Spotted Sandpiper,Actitis macularius,2019-09-26 17:50,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2019
+215,Double-crested Cormorant,Phalacrocorax auritus,2019-09-26 17:50,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2019
+216,Loggerhead Shrike,Lanius ludovicianus,2019-09-26 17:50,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2019
+217,White-eyed Vireo,Vireo griseus,2019-09-26 17:22,"450 Jess Large Rd, Waynesburg US-KY (37.3788,-84.6312)",1,37.378819,-84.631248,2019
+218,Tennessee Warbler,Leiothlypis peregrina,2019-09-26 17:22,"450 Jess Large Rd, Waynesburg US-KY (37.3788,-84.6312)",2,37.378819,-84.631248,2019
+219,Indigo Bunting,Passerina cyanea,2019-09-26 17:22,"450 Jess Large Rd, Waynesburg US-KY (37.3788,-84.6312)",3,37.378819,-84.631248,2019
+220,Northern Harrier,Circus hudsonius,2019-09-26 17:00,"Home - 3601 Schochoh Rd, Adairville US-KY (36.7183,-86.8034)",1,36.718319,-86.80342,2019
+221,Red-headed Woodpecker,Melanerpes erythrocephalus,2019-09-26 17:00,"Home - 3601 Schochoh Rd, Adairville US-KY (36.7183,-86.8034)",1,36.718319,-86.80342,2019
+222,Hairy Woodpecker,Dryobates villosus,2019-09-26 17:00,Anchorage Trail,2,38.2666738,-85.5401262,2019
+223,Least Flycatcher,Empidonax minimus,2019-09-26 17:00,Anchorage Trail,1,38.2666738,-85.5401262,2019
+224,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2019-09-26 17:00,"Home - 3601 Schochoh Rd, Adairville US-KY (36.7183,-86.8034)",3,36.718319,-86.80342,2019
+225,Cliff Swallow,Petrochelidon pyrrhonota,2019-09-26 17:00,"Home - 3601 Schochoh Rd, Adairville US-KY (36.7183,-86.8034)",1,36.718319,-86.80342,2019
+226,Blue-gray Gnatcatcher,Polioptila caerulea,2019-09-26 17:00,Anchorage Trail,1,38.2666738,-85.5401262,2019
+227,House Wren,Troglodytes aedon,2019-09-26 17:00,Anchorage Trail,1,38.2666738,-85.5401262,2019
+228,Cedar Waxwing,Bombycilla cedrorum,2019-09-26 17:00,Anchorage Trail,11,38.2666738,-85.5401262,2019
+229,Lincoln's Sparrow,Melospiza lincolnii,2019-09-26 17:00,Anchorage Trail,1,38.2666738,-85.5401262,2019
+230,Ovenbird,Seiurus aurocapilla,2019-09-26 17:00,Anchorage Trail,1,38.2666738,-85.5401262,2019
+231,Rock Pigeon,Columba livia,2019-09-26 16:55,US-KY-Trenton-3240 Clarksville Rd - 36.6830x-87.2918,5,36.683011,-87.291785,2019
+232,Semipalmated Sandpiper,Calidris pusilla,2019-09-26 16:55,US-KY-Trenton-3240 Clarksville Rd - 36.6830x-87.2918,2,36.683011,-87.291785,2019
+233,American Kestrel,Falco sparverius,2019-09-26 16:55,US-KY-Trenton-3240 Clarksville Rd - 36.6830x-87.2918,1,36.683011,-87.291785,2019
+234,Tree Swallow,Tachycineta bicolor,2019-09-26 16:55,US-KY-Trenton-3240 Clarksville Rd - 36.6830x-87.2918,1,36.683011,-87.291785,2019
+235,Barn Swallow,Hirundo rustica,2019-09-26 16:55,US-KY-Trenton-3240 Clarksville Rd - 36.6830x-87.2918,36,36.683011,-87.291785,2019
+236,Red-eyed Vireo,Vireo olivaceus,2019-09-26 16:48,Shaker Village of Pleasant Hill,2,37.8217854,-84.7391796,2019
+237,Field Sparrow,Spizella pusilla,2019-09-26 16:48,Shaker Village of Pleasant Hill,2,37.8217854,-84.7391796,2019
+238,Black-and-white Warbler,Mniotilta varia,2019-09-26 16:48,Shaker Village of Pleasant Hill,2,37.8217854,-84.7391796,2019
+239,Nashville Warbler,Leiothlypis ruficapilla,2019-09-26 16:48,Shaker Village of Pleasant Hill,1,37.8217854,-84.7391796,2019
+240,Common Yellowthroat,Geothlypis trichas,2019-09-26 16:48,Shaker Village of Pleasant Hill,4,37.8217854,-84.7391796,2019
+241,Black-crowned Night-Heron,Nycticorax nycticorax,2019-09-26 16:00,Caperton Swamp Park,1,38.2900693,-85.6813307,2019
+242,Philadelphia Vireo,Vireo philadelphicus,2019-09-26 16:00,Caperton Swamp Park,3,38.2900693,-85.6813307,2019
+243,Chipping Sparrow,Spizella passerina,2019-09-26 14:00,glasgow,2,37.0406761,-85.9192657,2019
+244,Northern Parula,Setophaga americana,2019-09-26 14:00,glasgow,2,37.0406761,-85.9192657,2019
+245,Ring-billed Gull,Larus delawarensis,2019-09-26 13:28,Crappie Hollow (Blood River),200,36.5777315,-88.1470238,2019
+246,Snowy Egret,Egretta thula,2019-09-26 13:28,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2019
+247,Red-shouldered Hawk,Buteo lineatus,2019-09-26 13:28,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2019
+248,Fish Crow,Corvus ossifragus,2019-09-26 13:28,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2019
+249,House Sparrow,Passer domesticus,2019-09-26 13:15,"Townley Park, Lexington",11,38.0655841,-84.5305037,2019
+250,Broad-winged Hawk,Buteo platypterus,2019-09-26 10:49,"41005, Burlington US-KY (39.0522,-84.7130)",1,39.052196,-84.712972,2019
+251,Gray-cheeked Thrush,Catharus minimus,2019-09-26 10:19,Anchorage Trail,1,38.2666738,-85.5401262,2019
+252,Empidonax sp.,Empidonax sp.,2019-09-26 10:16,T. N. Sullivan WMA,1,38.2795458,-84.8302031,2019
+253,Brown-headed Cowbird,Molothrus ater,2019-09-26 10:16,T. N. Sullivan WMA,3,38.2795458,-84.8302031,2019
+254,Palm Warbler,Setophaga palmarum,2019-09-26 10:16,T. N. Sullivan WMA,1,38.2795458,-84.8302031,2019
+255,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2019-09-26 09:03,Fishing Creek Rec. Area,1,37.0715492,-84.6894257,2019
+256,American Golden-Plover,Pluvialis dominica,2019-09-26 09:03,Fishing Creek Rec. Area,1,37.0715492,-84.6894257,2019
+257,Osprey,Pandion haliaetus,2019-09-26 09:03,Fishing Creek Rec. Area,1,37.0715492,-84.6894257,2019
+258,Peregrine Falcon,Falco peregrinus,2019-09-26 09:03,Fishing Creek Rec. Area,1,37.0715492,-84.6894257,2019
+259,Pine Warbler,Setophaga pinus,2019-09-26 09:03,Fishing Creek Rec. Area,1,37.0715492,-84.6894257,2019
+260,vireo sp.,Vireo sp.,2019-09-26 09:00,Pennyrile Energy Mitigation 1,2,37.6434182,-87.408113,2019
+261,Horned Lark,Eremophila alpestris,2019-09-26 09:00,Pennyrile Energy Mitigation 1,1,37.6434182,-87.408113,2019
+262,Yellow-breasted Chat,Icteria virens,2019-09-26 09:00,Pennyrile Energy Mitigation 1,1,37.6434182,-87.408113,2019
+263,Baltimore Oriole,Icterus galbula,2019-09-26 09:00,Pennyrile Energy Mitigation 1,1,37.6434182,-87.408113,2019
+264,warbler sp. (Parulidae sp.),Parulidae sp.,2019-09-26 09:00,Pennyrile Energy Mitigation 1,4,37.6434182,-87.408113,2019
+265,Warbling Vireo,Vireo gilvus,2019-09-26 08:45,Rose Hill,1,38.3393673,-85.3680611,2019
+266,Solitary Sandpiper,Tringa solitaria,2019-09-26 08:36,Minor E Clark Fish Hatchery,2,38.1177106,-83.5470343,2019
+267,Hooded Warbler,Setophaga citrina,2019-09-26 08:36,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2019
+268,Wild Turkey,Meleagris gallopavo,2019-09-26 08:30,Louisville Water Company Ponds (park ONLY between the basins past the bottom of the hill),7,38.3442992,-85.6367153,2019
+269,Cooper's Hawk,Accipiter cooperii,2019-09-26 08:29,Harrods Creek Park,1,38.3409411,-85.6000521,2019
+270,Yellow-throated Vireo,Vireo flavifrons,2019-09-26 08:29,Harrods Creek Park,1,38.3409411,-85.6000521,2019
+271,Wood Thrush,Hylocichla mustelina,2019-09-26 08:29,Harrods Creek Park,1,38.3409411,-85.6000521,2019
+272,Scarlet Tanager,Piranga olivacea,2019-09-26 08:05,Logan Hubble Memorial Park,1,37.5866593,-84.6192012,2019
+273,Wilson's Snipe,Gallinago delicata,2019-09-26 08:02,South Beargrass Creek Retention Basin,2,38.1964394,-85.6685563,2019
+274,Muscovy Duck (Domestic type),Cairina moschata (Domestic type),2019-09-26 07:59,Long Run Park,1,38.2667035,-85.4178429,2019
+275,Buteo sp.,Buteo sp.,2019-09-26 07:59,Long Run Park,1,38.2667035,-85.4178429,2019
+276,Sharp-shinned Hawk,Accipiter striatus,2019-09-26 07:30,"Land Between the Lakes (Trigg Co., KY)--Hematite Lake",1,36.8978473,-88.0428691,2019
+277,Barred Owl,Strix varia,2019-09-26 07:30,"Land Between the Lakes (Trigg Co., KY)--Hematite Lake",1,36.8978473,-88.0428691,2019
+278,Great Crested Flycatcher,Myiarchus crinitus,2019-09-26 07:30,"Land Between the Lakes (Trigg Co., KY)--Hematite Lake",1,36.8978473,-88.0428691,2019
+279,Marsh Wren,Cistothorus palustris,2019-09-26 07:30,"Land Between the Lakes (Trigg Co., KY)--Hematite Lake",1,36.8978473,-88.0428691,2019
+280,Yellow Warbler,Setophaga petechia,2019-09-26 07:30,"Land Between the Lakes (Trigg Co., KY)--Hematite Lake",1,36.8978473,-88.0428691,2019
+281,Savannah Sparrow,Passerculus sandwichensis,2019-09-26,Surrey Hills Farm (restricted access),1,38.2831032,-85.6045228,2019
+282,Bobolink,Dolichonyx oryzivorus,2019-09-26,Surrey Hills Farm (restricted access),3,38.2831032,-85.6045228,2019
+283,Eastern Screech-Owl,Megascops asio,2018-09-26 21:25,Wilmore--203 Hutchins Dr.,2,37.8691547,-84.6599673,2018
+284,Barred Owl,Strix varia,2018-09-26 21:00,Personal Location,1,37.9863205,-85.6600785,2018
+285,Chimney Swift,Chaetura pelagica,2018-09-26 19:45,Township Square,100,38.0351096,-84.899766,2018
+286,Ruby-throated Hummingbird,Archilochus colubris,2018-09-26 19:21, Arnoldtown Road - neighborhood,2,38.1297011,-85.808402,2018
+287,Carolina Chickadee,Poecile carolinensis,2018-09-26 19:21, Arnoldtown Road - neighborhood,1,38.1297011,-85.808402,2018
+288,Northern Cardinal,Cardinalis cardinalis,2018-09-26 19:21, Arnoldtown Road - neighborhood,1,38.1297011,-85.808402,2018
+289,Canada Goose,Branta canadensis,2018-09-26 19:15,Arthur K. Draut Park,4,38.2425283,-85.6308532,2018
+290,Mourning Dove,Zenaida macroura,2018-09-26 19:15,Arthur K. Draut Park,3,38.2425283,-85.6308532,2018
+291,Red-bellied Woodpecker,Melanerpes carolinus,2018-09-26 19:15,Arthur K. Draut Park,1,38.2425283,-85.6308532,2018
+292,Downy Woodpecker,Dryobates pubescens,2018-09-26 19:15,Arthur K. Draut Park,1,38.2425283,-85.6308532,2018
+293,Northern Flicker,Colaptes auratus,2018-09-26 19:15,Arthur K. Draut Park,2,38.2425283,-85.6308532,2018
+294,Eastern Phoebe,Sayornis phoebe,2018-09-26 19:15,Arthur K. Draut Park,1,38.2425283,-85.6308532,2018
+295,Blue Jay,Cyanocitta cristata,2018-09-26 19:15,Arthur K. Draut Park,2,38.2425283,-85.6308532,2018
+296,American Crow,Corvus brachyrhynchos,2018-09-26 19:15,Arthur K. Draut Park,3,38.2425283,-85.6308532,2018
+297,Palm Warbler,Setophaga palmarum,2018-09-26 19:15,Arthur K. Draut Park,1,38.2425283,-85.6308532,2018
+298,Rose-breasted Grosbeak,Pheucticus ludovicianus,2018-09-26 19:15,Arthur K. Draut Park,1,38.2425283,-85.6308532,2018
+299,Carolina Wren,Thryothorus ludovicianus,2018-09-26 19:00,524 Rosemont backyard feeder,3,38.0226164,-84.5303287,2018
+300,Pileated Woodpecker,Dryocopus pileatus,2018-09-26 18:40,Personal Location,1,37.9863205,-85.6600785,2018
+301,Eastern Bluebird,Sialia sialis,2018-09-26 18:40,Personal Location,4,37.9863205,-85.6600785,2018
+302,Black Vulture,Coragyps atratus,2018-09-26 18:30,245 - Deatsville/Cox's Creek,3,37.8968987,-85.5650371,2018
+303,Turkey Vulture,Cathartes aura,2018-09-26 18:30,245 - Deatsville/Cox's Creek,2,37.8968987,-85.5650371,2018
+304,American Kestrel,Falco sparverius,2018-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2018
+305,Northern Mockingbird,Mimus polyglottos,2018-09-26 18:30,245 - Deatsville/Cox's Creek,2,37.8968987,-85.5650371,2018
+306,House Finch,Haemorhous mexicanus,2018-09-26 18:30,245 - Deatsville/Cox's Creek,7,37.8968987,-85.5650371,2018
+307,Wood Duck,Aix sponsa,2018-09-26 18:04,Brown Park,7,38.2395022,-85.6352808,2018
+308,Mallard,Anas platyrhynchos,2018-09-26 18:04,Brown Park,50,38.2395022,-85.6352808,2018
+309,Eastern Wood-Pewee,Contopus virens,2018-09-26 18:04,Brown Park,1,38.2395022,-85.6352808,2018
+310,Tufted Titmouse,Baeolophus bicolor,2018-09-26 18:04,Brown Park,1,38.2395022,-85.6352808,2018
+311,European Starling,Sturnus vulgaris,2018-09-26 17:58,1346 Clear Creek Rd,200,37.902777,-84.6458521,2018
+312,Gray Catbird,Dumetella carolinensis,2018-09-26 17:58,1346 Clear Creek Rd,2,37.902777,-84.6458521,2018
+313,American Robin,Turdus migratorius,2018-09-26 17:58,1346 Clear Creek Rd,10,37.902777,-84.6458521,2018
+314,American Goldfinch,Spinus tristis,2018-09-26 17:58,1346 Clear Creek Rd,2,37.902777,-84.6458521,2018
+315,Field Sparrow,Spizella pusilla,2018-09-26 17:58,1346 Clear Creek Rd,10,37.902777,-84.6458521,2018
+316,Song Sparrow,Melospiza melodia,2018-09-26 17:58,1346 Clear Creek Rd,3,37.902777,-84.6458521,2018
+317,Red-winged Blackbird,Agelaius phoeniceus,2018-09-26 17:58,1346 Clear Creek Rd,1,37.902777,-84.6458521,2018
+318,Common Grackle,Quiscalus quiscula,2018-09-26 17:58,1346 Clear Creek Rd,50,37.902777,-84.6458521,2018
+319,Nashville Warbler,Leiothlypis ruficapilla,2018-09-26 17:58,1346 Clear Creek Rd,1,37.902777,-84.6458521,2018
+320,Indigo Bunting,Passerina cyanea,2018-09-26 17:58,1346 Clear Creek Rd,1,37.902777,-84.6458521,2018
+321,Killdeer,Charadrius vociferus,2018-09-26 17:45,US-KY-Louisville-The Paddock Fields,8,38.283719,-85.499069,2018
+322,Least Flycatcher,Empidonax minimus,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+323,Yellow-throated Vireo,Vireo flavifrons,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+324,Red-eyed Vireo,Vireo olivaceus,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+325,White-breasted Nuthatch,Sitta carolinensis,2018-09-26 17:45,Harrods Creek Park,7,38.3409411,-85.6000521,2018
+326,Tennessee Warbler,Leiothlypis peregrina,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+327,Magnolia Warbler,Setophaga magnolia,2018-09-26 17:45,Harrods Creek Park,4,38.3409411,-85.6000521,2018
+328,Chestnut-sided Warbler,Setophaga pensylvanica,2018-09-26 17:45,Harrods Creek Park,2,38.3409411,-85.6000521,2018
+329,Black-throated Green Warbler,Setophaga virens,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+330,Summer Tanager,Piranga rubra,2018-09-26 17:45,Harrods Creek Park,1,38.3409411,-85.6000521,2018
+331,Cooper's Hawk,Accipiter cooperii,2018-09-26 17:11,US-Kentucky-Windy Hills,1,38.267371,-85.6295241,2018
+332,House Sparrow,Passer domesticus,2018-09-26 17:11,US-Kentucky-Windy Hills,9,38.267371,-85.6295241,2018
+333,Least Sandpiper,Calidris minutilla,2018-09-26 16:55,Barren River Lake--Bailey's Point,1,36.8864831,-86.0959637,2018
+334,Ring-billed Gull,Larus delawarensis,2018-09-26 16:55,Barren River Lake--Bailey's Point,1,36.8864831,-86.0959637,2018
+335,Herring Gull,Larus argentatus,2018-09-26 16:55,Barren River Lake--Bailey's Point,1,36.8864831,-86.0959637,2018
+336,Caspian Tern,Hydroprogne caspia,2018-09-26 16:55,Barren River Lake--Bailey's Point,5,36.8864831,-86.0959637,2018
+337,Common Tern,Sterna hirundo,2018-09-26 16:55,Barren River Lake--Bailey's Point,20,36.8864831,-86.0959637,2018
+338,Forster's Tern,Sterna forsteri,2018-09-26 16:55,Barren River Lake--Bailey's Point,2,36.8864831,-86.0959637,2018
+339,Double-crested Cormorant,Phalacrocorax auritus,2018-09-26 16:55,Barren River Lake--Bailey's Point,100,36.8864831,-86.0959637,2018
+340,Bald Eagle,Haliaeetus leucocephalus,2018-09-26 16:55,Barren River Lake--Bailey's Point,1,36.8864831,-86.0959637,2018
+341,Northern Parula,Setophaga americana,2018-09-26 16:55,Barren River Lake--Bailey's Point,1,36.8864831,-86.0959637,2018
+342,Great Blue Heron,Ardea herodias,2018-09-26 16:23,Van Buren Landing,9,37.9738181,-85.1580334,2018
+343,Great Egret,Ardea alba,2018-09-26 16:23,Van Buren Landing,44,37.9738181,-85.1580334,2018
+344,Yellow-bellied Sapsucker,Sphyrapicus varius,2018-09-26 16:23,Van Buren Landing,1,37.9738181,-85.1580334,2018
+345,Swainson's Thrush,Catharus ustulatus,2018-09-26 16:23,Van Buren Landing,1,37.9738181,-85.1580334,2018
+346,Belted Kingfisher,Megaceryle alcyon,2018-09-26 16:20,Barren Lake Dam Observation Deck,1,36.89632,-86.1241047,2018
+347,Red-headed Woodpecker,Melanerpes erythrocephalus,2018-09-26 16:20,Barren Lake Dam Observation Deck,1,36.89632,-86.1241047,2018
+348,American Redstart,Setophaga ruticilla,2018-09-26 16:01,Douglass Hills,2,38.2370593,-85.5583772,2018
+349,Wilson's Warbler,Cardellina pusilla,2018-09-26 16:01,Douglass Hills,1,38.2370593,-85.5583772,2018
+350,Red-tailed Hawk,Buteo jamaicensis,2018-09-26 15:37,"11895 Newstead Rd, Hopkinsville US-KY (36.7901,-87.6402)",1,36.790098,-87.640219,2018
+351,Eurasian Collared-Dove,Streptopelia decaocto,2018-09-26 15:35,"5920–6112 Gracey Herndon Rd, Hopkinsville US-KY (36.7987,-87.6301)",2,36.798733,-87.630129,2018
+352,House Wren,Troglodytes aedon,2018-09-26 15:30,Seneca Park,1,38.238888,-85.6762362,2018
+353,Golden-winged Warbler,Vermivora chrysoptera,2018-09-26 15:30,Seneca Park,1,38.238888,-85.6762362,2018
+354,Black-and-white Warbler,Mniotilta varia,2018-09-26 15:30,Seneca Park,1,38.238888,-85.6762362,2018
+355,Rock Pigeon,Columba livia,2018-09-26 15:26,Northern Kentucky University,2,39.0317224,-84.4645429,2018
+356,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),2018-09-26 15:25,"9521–10141 Swift Ford Rd, Herndon US-KY (36.7557,-87.5886)",6,36.755675,-87.588607,2018
+357,Red-shouldered Hawk,Buteo lineatus,2018-09-26 15:25,"9521–10141 Swift Ford Rd, Herndon US-KY (36.7557,-87.5886)",1,36.755675,-87.588607,2018
+358,Brown Thrasher,Toxostoma rufum,2018-09-26 15:25,"9521–10141 Swift Ford Rd, Herndon US-KY (36.7557,-87.5886)",1,36.755675,-87.588607,2018
+359,Chipping Sparrow,Spizella passerina,2018-09-26 15:25,"9521–10141 Swift Ford Rd, Herndon US-KY (36.7557,-87.5886)",8,36.755675,-87.588607,2018
+360,Pied-billed Grebe,Podilymbus podiceps,2018-09-26 15:15,"10398–10406 Lafayette Rd, Herndon US-KY (36.7400,-87.5592)",1,36.739965,-87.559176,2018
+361,Eastern Meadowlark,Sturnella magna,2018-09-26 15:15,"10398–10406 Lafayette Rd, Herndon US-KY (36.7400,-87.5592)",1,36.739965,-87.559176,2018
+362,Northern Bobwhite,Colinus virginianus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),2,36.8548119,-89.1274163,2018
+363,Yellow-billed Cuckoo,Coccyzus americanus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+364,American White Pelican,Pelecanus erythrorhynchos,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),10,36.8548119,-89.1274163,2018
+365,Snowy Egret,Egretta thula,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),5,36.8548119,-89.1274163,2018
+366,Broad-winged Hawk,Buteo platypterus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),7,36.8548119,-89.1274163,2018
+367,Peregrine Falcon,Falco peregrinus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+368,Acadian Flycatcher,Empidonax virescens,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),2,36.8548119,-89.1274163,2018
+369,Great Crested Flycatcher,Myiarchus crinitus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+370,White-eyed Vireo,Vireo griseus,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),6,36.8548119,-89.1274163,2018
+371,Northern Rough-winged Swallow,Stelgidopteryx serripennis,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),150,36.8548119,-89.1274163,2018
+372,Tree Swallow,Tachycineta bicolor,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),50,36.8548119,-89.1274163,2018
+373,Blue-gray Gnatcatcher,Polioptila caerulea,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+374,Baltimore Oriole,Icterus galbula,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+375,Brown-headed Cowbird,Molothrus ater,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),15,36.8548119,-89.1274163,2018
+376,Ovenbird,Seiurus aurocapilla,2018-09-26 15:00,Laketon Boat Ramp Area (River Rd. to Co. Rd. 1308),1,36.8548119,-89.1274163,2018
+377,Warbling Vireo,Vireo gilvus,2018-09-26 14:57,"Blue Licks Battlefield St Park, Mount Olivet US-KY (38.4304,-83.9934)",1,38.430405,-83.993406,2018
+378,Pine Warbler,Setophaga pinus,2018-09-26 14:57,"Blue Licks Battlefield St Park, Mount Olivet US-KY (38.4304,-83.9934)",6,38.430405,-83.993406,2018
+379,Scarlet Tanager,Piranga olivacea,2018-09-26 14:57,"Blue Licks Battlefield St Park, Mount Olivet US-KY (38.4304,-83.9934)",1,38.430405,-83.993406,2018
+380,Gray-cheeked Thrush,Catharus minimus,2018-09-26 14:13,US-KY-Louisville-2157 Tyler Ln,1,38.217127,-85.679091,2018
+381,Bay-breasted Warbler,Setophaga castanea,2018-09-26 13:56,Lexington Cemetery,2,38.0599186,-84.5085526,2018
+382,Blue-winged Teal,Spatula discors,2018-09-26 13:45,Minor E Clark Fish Hatchery,90,38.1177106,-83.5470343,2018
+383,Semipalmated Plover,Charadrius semipalmatus,2018-09-26 13:45,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2018
+384,Semipalmated Sandpiper,Calidris pusilla,2018-09-26 13:45,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2018
+385,Spotted Sandpiper,Actitis macularius,2018-09-26 13:45,Minor E Clark Fish Hatchery,5,38.1177106,-83.5470343,2018
+386,Solitary Sandpiper,Tringa solitaria,2018-09-26 13:45,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2018
+387,Greater Yellowlegs,Tringa melanoleuca,2018-09-26 13:45,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2018
+388,Wild Turkey,Meleagris gallopavo,2018-09-26 13:25,Myer Creek Park,12,37.5456,-87.250108,2018
+389,Hairy Woodpecker,Dryobates villosus,2018-09-26 13:25,Myer Creek Park,1,37.5456,-87.250108,2018
+390,Barn Swallow,Hirundo rustica,2018-09-26 13:25,Myer Creek Park,7,37.5456,-87.250108,2018
+391,Cedar Waxwing,Bombycilla cedrorum,2018-09-26 13:25,Myer Creek Park,13,37.5456,-87.250108,2018
+392,Yellow-throated Warbler,Setophaga dominica,2018-09-26 13:25,Myer Creek Park,1,37.5456,-87.250108,2018
+393,Eastern Towhee,Pipilo erythrophthalmus,2018-09-26 13:21,Stockdell Road,1,38.3295089,-84.631522,2018
+394,Common Yellowthroat,Geothlypis trichas,2018-09-26 13:21,Stockdell Road,2,38.3295089,-84.631522,2018
+395,Prairie Warbler,Setophaga discolor,2018-09-26 12:05,Lost River Cave,1,36.9526183,-86.4706045,2018
+396,Yellow-rumped Warbler,Setophaga coronata,2018-09-26 11:48,Onton Mine #9 (restricted access; roadside viewing),2,37.585168,-87.473481,2018
+397,Philadelphia Vireo,Vireo philadelphicus,2018-09-26 11:39,Logan Hubble Memorial Park,3,37.5866593,-84.6192012,2018
+398,Veery,Catharus fuscescens,2018-09-26 11:39,Logan Hubble Memorial Park,1,37.5866593,-84.6192012,2018
+399,Cape May Warbler,Setophaga tigrina,2018-09-26 11:39,Logan Hubble Memorial Park,1,37.5866593,-84.6192012,2018
+400,duck sp.,Anatinae sp.,2018-09-26 10:54,Chimney Rock Marina,40,37.750694,-84.7062273,2018
+401,Yellow-bellied Flycatcher,Empidonax flaviventris,2018-09-26 10:32,Craigmoor Estates,1,38.19097,-84.63638,2018
+402,Blue-winged Warbler,Vermivora cyanoptera,2018-09-26 10:32,Craigmoor Estates,1,38.19097,-84.63638,2018
+403,Canada Warbler,Cardellina canadensis,2018-09-26 10:32,Craigmoor Estates,1,38.19097,-84.63638,2018
+404,Osprey,Pandion haliaetus,2018-09-26 10:30,Cedar Creek Lake,1,37.4865733,-84.548378,2018
+405,Blackburnian Warbler,Setophaga fusca,2018-09-26 10:30,Cedar Creek Lake,1,37.4865733,-84.548378,2018
+406,Blue Grosbeak,Passerina caerulea,2018-09-26 10:30,Cedar Creek Lake,4,37.4865733,-84.548378,2018
+407,Common Nighthawk,Chordeiles minor,2018-09-26 10:00,Douglass Hills,1,38.2370593,-85.5583772,2018
+408,Black Tern,Chlidonias niger,2018-09-26 10:00,Wolf Creek Dam,2,36.8664273,-85.1418409,2018
+409,Common Loon,Gavia immer,2018-09-26 10:00,Wolf Creek Dam,1,36.8664273,-85.1418409,2018
+410,American Bittern,Botaurus lentiginosus,2018-09-26 10:00,Diamond Links Golf Course,1,38.343982,-82.703568,2018
+411,Red-breasted Nuthatch,Sitta canadensis,2018-09-26 10:00,Douglass Hills,1,38.2370593,-85.5583772,2018
+412,Ring-necked Duck,Aythya collaris,2018-09-26 09:55,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2018
+413,Lesser Yellowlegs,Tringa flavipes,2018-09-26 09:55,Frogue Pond (restricted access; roadside viewing),1,36.75972,-87.16924,2018
+414,swallow sp.,Hirundinidae sp.,2018-09-26 09:32,Nettleroth Bird Sanctuary,1,38.2400677,-85.6917715,2018
+415,Wood Thrush,Hylocichla mustelina,2018-09-26 09:15,Figett Bend Road,2,37.312442,-85.7394534,2018
+416,Orange-crowned Warbler,Leiothlypis celata,2018-09-26 09:15,Figett Bend Road,1,37.312442,-85.7394534,2018
+417,Black-throated Blue Warbler,Setophaga caerulescens,2018-09-26 09:15,Figett Bend Road,1,37.312442,-85.7394534,2018
+418,Green Heron,Butorides virescens,2018-09-26 09:00,Surrey Hills Farm (restricted access),1,38.2831032,-85.6045228,2018
+419,Northern Harrier,Circus hudsonius,2018-09-26 09:00,Surrey Hills Farm (restricted access),1,38.2831032,-85.6045228,2018
+420,Sharp-shinned/Cooper's Hawk,Accipiter striatus/cooperii,2018-09-26 09:00,Surrey Hills Farm (restricted access),1,38.2831032,-85.6045228,2018
+421,Great Horned Owl,Bubo virginianus,2018-09-26 09:00,Surrey Hills Farm (restricted access),1,38.2831032,-85.6045228,2018
+422,Empidonax sp.,Empidonax sp.,2018-09-26 09:00,Cherokee Park,2,38.2390228,-85.6961489,2018
+423,Bald Eagle,Haliaeetus leucocephalus,2017-09-26 18:00,"Rockcastle River, Jackson County, Kentucky",1,37.334636,-84.127362,2017
+424,Ring-billed Gull,Larus delawarensis,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",1,36.7930699,-88.0410061,2017
+425,Broad-winged Hawk,Buteo platypterus,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",1,36.7930699,-88.0410061,2017
+426,Red-tailed Hawk,Buteo jamaicensis,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",1,36.7930699,-88.0410061,2017
+427,Belted Kingfisher,Megaceryle alcyon,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",1,36.7930699,-88.0410061,2017
+428,American Crow,Corvus brachyrhynchos,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",4,36.7930699,-88.0410061,2017
+429,European Starling,Sturnus vulgaris,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",60,36.7930699,-88.0410061,2017
+430,Eastern Bluebird,Sialia sialis,2017-09-26 17:45,"Land Between the Lakes (Trigg Co., KY)",4,36.7930699,-88.0410061,2017
+431,Great Blue Heron,Ardea herodias,2017-09-26 16:31,"Old US-62, Kuttawa, Kentucky, US (37.052, -88.126)",5,37.0520537,-88.1261502,2017
+432,Great Egret,Ardea alba,2017-09-26 16:31,"Old US-62, Kuttawa, Kentucky, US (37.052, -88.126)",3,37.0520537,-88.1261502,2017
+433,Turkey Vulture,Cathartes aura,2017-09-26 16:31,"Old US-62, Kuttawa, Kentucky, US (37.052, -88.126)",25,37.0520537,-88.1261502,2017
+434,Red-bellied Woodpecker,Melanerpes carolinus,2017-09-26 16:31,"Old US-62, Kuttawa, Kentucky, US (37.052, -88.126)",4,37.0520537,-88.1261502,2017
+435,Hairy Woodpecker,Dryobates villosus,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+436,Blue Jay,Cyanocitta cristata,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+437,Carolina Chickadee,Poecile carolinensis,2017-09-26 15:37,Murray State Arboretum,2,36.6060586,-88.3296986,2017
+438,Tufted Titmouse,Baeolophus bicolor,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+439,Northern Mockingbird,Mimus polyglottos,2017-09-26 15:37,Murray State Arboretum,2,36.6060586,-88.3296986,2017
+440,American Robin,Turdus migratorius,2017-09-26 15:37,Murray State Arboretum,2,36.6060586,-88.3296986,2017
+441,Blue-winged Warbler,Vermivora cyanoptera,2017-09-26 15:37,Murray State Arboretum,2,36.6060586,-88.3296986,2017
+442,Tennessee Warbler,Leiothlypis peregrina,2017-09-26 15:37,Murray State Arboretum,4,36.6060586,-88.3296986,2017
+443,Nashville Warbler,Leiothlypis ruficapilla,2017-09-26 15:37,Murray State Arboretum,2,36.6060586,-88.3296986,2017
+444,Bay-breasted Warbler,Setophaga castanea,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+445,Blackburnian Warbler,Setophaga fusca,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+446,Black-throated Green Warbler,Setophaga virens,2017-09-26 15:37,Murray State Arboretum,4,36.6060586,-88.3296986,2017
+447,Canada Warbler,Cardellina canadensis,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+448,Northern Cardinal,Cardinalis cardinalis,2017-09-26 15:37,Murray State Arboretum,1,36.6060586,-88.3296986,2017
+449,Red-shouldered Hawk,Buteo lineatus,2017-09-26 14:30,Evergreen Cemetery (Louisville),3,38.1832497,-85.7143128,2017
+450,Downy Woodpecker,Dryobates pubescens,2017-09-26 14:30,Evergreen Cemetery (Louisville),4,38.1832497,-85.7143128,2017
+451,Northern Flicker,Colaptes auratus,2017-09-26 14:30,Evergreen Cemetery (Louisville),1,38.1832497,-85.7143128,2017
+452,White-breasted Nuthatch,Sitta carolinensis,2017-09-26 14:30,Evergreen Cemetery (Louisville),1,38.1832497,-85.7143128,2017
+453,Carolina Wren,Thryothorus ludovicianus,2017-09-26 14:30,Evergreen Cemetery (Louisville),7,38.1832497,-85.7143128,2017
+454,House Finch,Haemorhous mexicanus,2017-09-26 14:30,Evergreen Cemetery (Louisville),1,38.1832497,-85.7143128,2017
+455,White-throated Sparrow,Zonotrichia albicollis,2017-09-26 14:30,Evergreen Cemetery (Louisville),1,38.1832497,-85.7143128,2017
+456,Song Sparrow,Melospiza melodia,2017-09-26 14:30,Evergreen Cemetery (Louisville),2,38.1832497,-85.7143128,2017
+457,Magnolia Warbler,Setophaga magnolia,2017-09-26 14:30,Evergreen Cemetery (Louisville),1,38.1832497,-85.7143128,2017
+458,Canada Goose,Branta canadensis,2017-09-26 13:15,Rose Hill,30,38.3393673,-85.3680611,2017
+459,Wild Turkey,Meleagris gallopavo,2017-09-26 13:15,Rose Hill,1,38.3393673,-85.3680611,2017
+460,Rock Pigeon,Columba livia,2017-09-26 13:15,Rose Hill,9,38.3393673,-85.3680611,2017
+461,Mourning Dove,Zenaida macroura,2017-09-26 13:15,Rose Hill,3,38.3393673,-85.3680611,2017
+462,Ruby-throated Hummingbird,Archilochus colubris,2017-09-26 13:15,Rose Hill,2,38.3393673,-85.3680611,2017
+463,Black Vulture,Coragyps atratus,2017-09-26 13:15,Rose Hill,2,38.3393673,-85.3680611,2017
+464,Eastern Phoebe,Sayornis phoebe,2017-09-26 13:15,Rose Hill,1,38.3393673,-85.3680611,2017
+465,American Goldfinch,Spinus tristis,2017-09-26 13:15,Rose Hill,3,38.3393673,-85.3680611,2017
+466,Summer Tanager,Piranga rubra,2017-09-26 13:15,Rose Hill,1,38.3393673,-85.3680611,2017
+467,Chimney Swift,Chaetura pelagica,2017-09-26 11:53,US-Kentucky-Louisville-1925 South 7th Street - 38.22x-85.777,11,38.2201006,-85.7773067,2017
+468,Forster's Tern,Sterna forsteri,2017-09-26 11:50,Van Buren Landing,3,37.9738181,-85.1580334,2017
+469,Double-crested Cormorant,Phalacrocorax auritus,2017-09-26 11:50,Van Buren Landing,40,37.9738181,-85.1580334,2017
+470,Green Heron,Butorides virescens,2017-09-26 11:50,Van Buren Landing,1,37.9738181,-85.1580334,2017
+471,Pileated Woodpecker,Dryocopus pileatus,2017-09-26 11:50,Van Buren Landing,1,37.9738181,-85.1580334,2017
+472,Eastern Screech-Owl,Megascops asio,2017-09-26 11:35,Knobs Road Loop,2,38.105242,-86.3862,2017
+473,Red-headed Woodpecker,Melanerpes erythrocephalus,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+474,American Kestrel,Falco sparverius,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+475,Eastern Wood-Pewee,Contopus virens,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+476,White-eyed Vireo,Vireo griseus,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+477,Red-eyed Vireo,Vireo olivaceus,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+478,Wood Thrush,Hylocichla mustelina,2017-09-26 11:35,Knobs Road Loop,2,38.105242,-86.3862,2017
+479,House Sparrow,Passer domesticus,2017-09-26 11:35,Knobs Road Loop,2,38.105242,-86.3862,2017
+480,Chipping Sparrow,Spizella passerina,2017-09-26 11:35,Knobs Road Loop,3,38.105242,-86.3862,2017
+481,Eastern Towhee,Pipilo erythrophthalmus,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+482,Baltimore Oriole,Icterus galbula,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+483,Ovenbird,Seiurus aurocapilla,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+484,American Redstart,Setophaga ruticilla,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+485,Northern Parula,Setophaga americana,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+486,Rose-breasted Grosbeak,Pheucticus ludovicianus,2017-09-26 11:35,Knobs Road Loop,1,38.105242,-86.3862,2017
+487,Indigo Bunting,Passerina cyanea,2017-09-26 11:35,Knobs Road Loop,2,38.105242,-86.3862,2017
+488,Killdeer,Charadrius vociferus,2017-09-26 10:34,Ohio River - Stephensport Waterfront,2,37.915499,-86.522902,2017
+489,Spotted Sandpiper,Actitis macularius,2017-09-26 10:34,Ohio River - Stephensport Waterfront,1,37.915499,-86.522902,2017
+490,Yellow-bellied Sapsucker,Sphyrapicus varius,2017-09-26 10:20,Douglass Hills,1,38.2370593,-85.5583772,2017
+491,Gray-cheeked Thrush,Catharus minimus,2017-09-26 10:20,Douglass Hills,1,38.2370593,-85.5583772,2017
+492,Gray Catbird,Dumetella carolinensis,2017-09-26 10:10,Taylorsville Lake SP ,3,38.0248698,-85.2641201,2017
+493,Northern Harrier,Circus hudsonius,2017-09-26 09:53,Breckinridge Co. Incidentals,1,37.827936,-86.64714,2017
+494,Mallard,Anas platyrhynchos,2017-09-26 09:36,Beckley Creek Park--Grand Allee Section,5,38.21077,-85.474903,2017
+495,Barn Swallow,Hirundo rustica,2017-09-26 09:36,Beckley Creek Park--Grand Allee Section,1,38.21077,-85.474903,2017
+496,Red-winged Blackbird,Agelaius phoeniceus,2017-09-26 09:36,Beckley Creek Park--Grand Allee Section,42,38.21077,-85.474903,2017
+497,Chestnut-sided Warbler,Setophaga pensylvanica,2017-09-26 09:36,Beckley Creek Park--Grand Allee Section,1,38.21077,-85.474903,2017
+498,Palm Warbler,Setophaga palmarum,2017-09-26 09:09,Litchfield Lane,1,38.024311,-84.566513,2017
+499,Cooper's Hawk,Accipiter cooperii,2017-09-26 09:00,Douglass Hills,2,38.2370593,-85.5583772,2017
+500,Swainson's Thrush,Catharus ustulatus,2017-09-26 08:40,Alpha,1,37.182608,-84.658483,2017
+501,Common Yellowthroat,Geothlypis trichas,2017-09-26 08:40,Alpha,1,37.182608,-84.658483,2017
+502,Cape May Warbler,Setophaga tigrina,2017-09-26 08:40,Alpha,1,37.182608,-84.658483,2017
+503,Blue-gray Gnatcatcher,Polioptila caerulea,2017-09-26 08:27,Broad Run Park,2,38.1077159,-85.5383277,2017
+504,House Wren,Troglodytes aedon,2017-09-26 08:27,Broad Run Park,1,38.1077159,-85.5383277,2017
+505,Cedar Waxwing,Bombycilla cedrorum,2017-09-26 08:27,Broad Run Park,6,38.1077159,-85.5383277,2017
+506,Black-and-white Warbler,Mniotilta varia,2017-09-26 08:27,Broad Run Park,1,38.1077159,-85.5383277,2017
+507,Yellow-rumped Warbler,Setophaga coronata,2017-09-26 08:27,Broad Run Park,1,38.1077159,-85.5383277,2017
+508,Common Nighthawk,Chordeiles minor,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,1,36.8532951,-88.3334188,2017
+509,Wilson's Snipe,Gallinago delicata,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,8,36.8532951,-88.3334188,2017
+510,Solitary Sandpiper,Tringa solitaria,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,3,36.8532951,-88.3334188,2017
+511,Fish Crow,Corvus ossifragus,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,1,36.8532951,-88.3334188,2017
+512,Brown Thrasher,Toxostoma rufum,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,4,36.8532951,-88.3334188,2017
+513,Yellow-breasted Chat,Icteria virens,2017-09-26 08:16,Clarks River NWR--Environmental Education and Recreation Area,1,36.8532951,-88.3334188,2017
+514,Scarlet Tanager,Piranga olivacea,2017-09-26 08:02,Vastwood Park,1,37.906518,-86.786526,2017
+515,Brown-headed Cowbird,Molothrus ater,2017-09-26 07:43,Beaumont Preserve,5,38.0278785,-84.5650291,2017
+516,Field Sparrow,Spizella pusilla,2017-09-26 07:15,moss house,3,37.0562731,-85.8968961,2017
+517,flycatcher sp. (Tyrannidae sp.),Tyrannidae sp.,2017-09-26 06:45,Frank Lyne's Farm (Private) stakeout Harris's Sparrow 2014-2015,1,36.706112,-86.958198,2017
+518,Lincoln's Sparrow,Melospiza lincolnii,2017-09-26 06:45,Frank Lyne's Farm (Private) stakeout Harris's Sparrow 2014-2015,1,36.706112,-86.958198,2017
+519,Eastern Meadowlark,Sturnella magna,2017-09-26 06:45,Frank Lyne's Farm (Private) stakeout Harris's Sparrow 2014-2015,2,36.706112,-86.958198,2017
+520,warbler sp. (Parulidae sp.),Parulidae sp.,2017-09-26 06:45,Frank Lyne's Farm (Private) stakeout Harris's Sparrow 2014-2015,1,36.706112,-86.958198,2017
+521,Mourning Dove,Zenaida macroura,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,2,38.21374,-85.71269,2016
+522,Chimney Swift,Chaetura pelagica,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,4,38.21374,-85.71269,2016
+523,House Wren,Troglodytes aedon,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,1,38.21374,-85.71269,2016
+524,Carolina Wren,Thryothorus ludovicianus,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,2,38.21374,-85.71269,2016
+525,Gray Catbird,Dumetella carolinensis,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,2,38.21374,-85.71269,2016
+526,American Robin,Turdus migratorius,2016-09-26 19:40,Poplar Level - Area around Nightingale Ct,1,38.21374,-85.71269,2016
+527,Canada Goose,Branta canadensis,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",25,38.2817914,-85.5584292,2016
+528,Mallard,Anas platyrhynchos,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",9,38.2817914,-85.5584292,2016
+529,Cooper's Hawk,Accipiter cooperii,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",1,38.2817914,-85.5584292,2016
+530,Blue Jay,Cyanocitta cristata,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2016
+531,American Crow,Corvus brachyrhynchos,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",2,38.2817914,-85.5584292,2016
+532,Northern Cardinal,Cardinalis cardinalis,2016-09-26 19:03,"E.P. ""Tom"" Sawyer SP",4,38.2817914,-85.5584292,2016
+533,Eurasian Collared-Dove,Streptopelia decaocto,2016-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2016
+534,Ruby-throated Hummingbird,Archilochus colubris,2016-09-26 18:30,245 - Deatsville/Cox's Creek,2,37.8968987,-85.5650371,2016
+535,Turkey Vulture,Cathartes aura,2016-09-26 18:30,245 - Deatsville/Cox's Creek,4,37.8968987,-85.5650371,2016
+536,Osprey,Pandion haliaetus,2016-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2016
+537,Bald Eagle,Haliaeetus leucocephalus,2016-09-26 18:30,245 - Deatsville/Cox's Creek,2,37.8968987,-85.5650371,2016
+538,Carolina Chickadee,Poecile carolinensis,2016-09-26 18:30,245 - Deatsville/Cox's Creek,2,37.8968987,-85.5650371,2016
+539,European Starling,Sturnus vulgaris,2016-09-26 18:30,245 - Deatsville/Cox's Creek,7,37.8968987,-85.5650371,2016
+540,Northern Mockingbird,Mimus polyglottos,2016-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2016
+541,House Sparrow,Passer domesticus,2016-09-26 18:30,245 - Deatsville/Cox's Creek,4,37.8968987,-85.5650371,2016
+542,House Finch,Haemorhous mexicanus,2016-09-26 18:30,245 - Deatsville/Cox's Creek,4,37.8968987,-85.5650371,2016
+543,American Goldfinch,Spinus tristis,2016-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2016
+544,Song Sparrow,Melospiza melodia,2016-09-26 18:30,245 - Deatsville/Cox's Creek,1,37.8968987,-85.5650371,2016
+545,Gadwall,Mareca strepera,2016-09-26 18:15,Hays Kennedy Park,5,38.35254,-85.6308371,2016
+546,Killdeer,Charadrius vociferus,2016-09-26 18:15,Hays Kennedy Park,6,38.35254,-85.6308371,2016
+547,Great Blue Heron,Ardea herodias,2016-09-26 18:15,Hays Kennedy Park,1,38.35254,-85.6308371,2016
+548,Tree Swallow,Tachycineta bicolor,2016-09-26 18:15,Hays Kennedy Park,1,38.35254,-85.6308371,2016
+549,Downy Woodpecker,Dryobates pubescens,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+550,Pileated Woodpecker,Dryocopus pileatus,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+551,Northern Flicker,Colaptes auratus,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+552,Eastern Phoebe,Sayornis phoebe,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+553,Tufted Titmouse,Baeolophus bicolor,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+554,White-breasted Nuthatch,Sitta carolinensis,2016-09-26 17:45,Lakeview Farm,3,37.9622126,-85.0168053,2016
+555,Black-throated Green Warbler,Setophaga virens,2016-09-26 17:45,Lakeview Farm,1,37.9622126,-85.0168053,2016
+556,Red-shouldered Hawk,Buteo lineatus,2016-09-26 17:40,backyard,1,38.9559925,-84.5500222,2016
+557,Red-bellied Woodpecker,Melanerpes carolinus,2016-09-26 17:40,backyard,2,38.9559925,-84.5500222,2016
+558,Tennessee Warbler,Leiothlypis peregrina,2016-09-26 17:40,backyard,1,38.9559925,-84.5500222,2016
+559,Magnolia Warbler,Setophaga magnolia,2016-09-26 17:40,backyard,1,38.9559925,-84.5500222,2016
+560,Bay-breasted Warbler,Setophaga castanea,2016-09-26 17:40,backyard,2,38.9559925,-84.5500222,2016
+561,Great Egret,Ardea alba,2016-09-26 17:33,Pfeiffer Fish Hatchery,13,38.3202455,-84.8226929,2016
+562,Belted Kingfisher,Megaceryle alcyon,2016-09-26 17:33,Pfeiffer Fish Hatchery,2,38.3202455,-84.8226929,2016
+563,Eastern Bluebird,Sialia sialis,2016-09-26 17:33,Pfeiffer Fish Hatchery,3,38.3202455,-84.8226929,2016
+564,Chipping Sparrow,Spizella passerina,2016-09-26 17:33,Pfeiffer Fish Hatchery,3,38.3202455,-84.8226929,2016
+565,Field Sparrow,Spizella pusilla,2016-09-26 17:33,Pfeiffer Fish Hatchery,1,38.3202455,-84.8226929,2016
+566,Pine Warbler,Setophaga pinus,2016-09-26 17:33,Pfeiffer Fish Hatchery,3,38.3202455,-84.8226929,2016
+567,Yellow-billed Cuckoo,Coccyzus americanus,2016-09-26 17:30,Broad Run Park,1,38.1077159,-85.5383277,2016
+568,Great Horned Owl,Bubo virginianus,2016-09-26 17:30,Broad Run Park,1,38.1077159,-85.5383277,2016
+569,Eastern Wood-Pewee,Contopus virens,2016-09-26 17:30,Broad Run Park,1,38.1077159,-85.5383277,2016
+570,Red-winged Blackbird,Agelaius phoeniceus,2016-09-26 17:30,Broad Run Park,25,38.1077159,-85.5383277,2016
+571,Wood Duck,Aix sponsa,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+572,Blue-winged Teal,Spatula discors,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+573,Northern Shoveler,Spatula clypeata,2016-09-26 15:30,Murl Pond (restricted access),5,36.8056081,-84.9473619,2016
+574,Green-winged Teal,Anas crecca,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+575,Rock Pigeon,Columba livia,2016-09-26 15:30,Murl Pond (restricted access),12,36.8056081,-84.9473619,2016
+576,Least Sandpiper,Calidris minutilla,2016-09-26 15:30,Murl Pond (restricted access),5,36.8056081,-84.9473619,2016
+577,Pectoral Sandpiper,Calidris melanotos,2016-09-26 15:30,Murl Pond (restricted access),3,36.8056081,-84.9473619,2016
+578,Semipalmated Sandpiper,Calidris pusilla,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+579,Black Vulture,Coragyps atratus,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+580,Red-tailed Hawk,Buteo jamaicensis,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+581,Hairy Woodpecker,Dryobates villosus,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+582,American Kestrel,Falco sparverius,2016-09-26 15:30,Murl Pond (restricted access),5,36.8056081,-84.9473619,2016
+583,Red-eyed Vireo,Vireo olivaceus,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+584,Barn Swallow,Hirundo rustica,2016-09-26 15:30,Murl Pond (restricted access),18,36.8056081,-84.9473619,2016
+585,Brown Thrasher,Toxostoma rufum,2016-09-26 15:30,Murl Pond (restricted access),3,36.8056081,-84.9473619,2016
+586,Swainson's Thrush,Catharus ustulatus,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+587,Bobolink,Dolichonyx oryzivorus,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+588,Eastern Meadowlark,Sturnella magna,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+589,Common Yellowthroat,Geothlypis trichas,2016-09-26 15:30,Murl Pond (restricted access),3,36.8056081,-84.9473619,2016
+590,Palm Warbler,Setophaga palmarum,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+591,Prairie Warbler,Setophaga discolor,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+592,Wilson's Warbler,Cardellina pusilla,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+593,Summer Tanager,Piranga rubra,2016-09-26 15:30,Murl Pond (restricted access),1,36.8056081,-84.9473619,2016
+594,Scarlet Tanager,Piranga olivacea,2016-09-26 15:30,Murl Pond (restricted access),2,36.8056081,-84.9473619,2016
+595,Rose-breasted Grosbeak,Pheucticus ludovicianus,2016-09-26 15:30,Murl Pond (restricted access),3,36.8056081,-84.9473619,2016
+596,Indigo Bunting,Passerina cyanea,2016-09-26 15:30,Murl Pond (restricted access),3,36.8056081,-84.9473619,2016
+597,Pied-billed Grebe,Podilymbus podiceps,2016-09-26 11:00,"Morgan Pond, transient (restricted access; view from gravel field entrance)",9,36.6931304,-87.4702907,2016
+598,warbler sp. (Parulidae sp.),Parulidae sp.,2016-09-26 10:08,Wilmore--203 Hutchins Dr.,1,37.8691547,-84.6599673,2016
+599,Spotted Sandpiper,Actitis macularius,2016-09-26 10:00,Walmart flood pools,1,36.6674392,-87.4422026,2016
+600,Solitary Sandpiper,Tringa solitaria,2016-09-26 10:00,Walmart flood pools,1,36.6674392,-87.4422026,2016
+601,Red-breasted Nuthatch,Sitta canadensis,2016-09-26 09:43,Alpha,1,37.182608,-84.658483,2016
+602,Wilson's Snipe,Gallinago delicata,2016-09-26 09:00,Farm pond-floodle,1,36.7416658,-87.5532997,2016
+603,Double-crested Cormorant,Phalacrocorax auritus,2016-09-26 09:00,Farm pond-floodle,1,36.7416658,-87.5532997,2016
+604,White-eyed Vireo,Vireo griseus,2016-09-26 09:00,Berea College Forest,2,37.5544274,-84.2409056,2016
+605,Yellow-throated Vireo,Vireo flavifrons,2016-09-26 09:00,Berea College Forest,3,37.5544274,-84.2409056,2016
+606,Horned Lark,Eremophila alpestris,2016-09-26 09:00,Walter Garrett Ln.  Flooded farmland,1,36.683349,-87.4149299,2016
+607,Western/Eastern Meadowlark,Sturnella neglecta/magna,2016-09-26 09:00,Walter Garrett Ln.  Flooded farmland,7,36.683349,-87.4149299,2016
+608,Black-and-white Warbler,Mniotilta varia,2016-09-26 09:00,Berea College Forest,1,37.5544274,-84.2409056,2016
+609,Cedar Waxwing,Bombycilla cedrorum,2016-09-26 08:44,Jacobson Park,2,37.987572,-84.4229794,2016
+610,Common Grackle,Quiscalus quiscula,2016-09-26 08:44,Jacobson Park,65,37.987572,-84.4229794,2016
+611,Eastern Towhee,Pipilo erythrophthalmus,2016-09-26 07:30,Lakeview Farm,1,37.9622126,-85.0168053,2016
+612,Yellow-billed/Black-billed Cuckoo,Coccyzus americanus/erythropthalmus,2016-09-26 07:00,41056 Maysville,1,38.640167,-83.75895,2016
+613,Broad-winged Hawk,Buteo platypterus,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+614,Red-headed Woodpecker,Melanerpes erythrocephalus,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+615,Empidonax sp.,Empidonax sp.,2016-09-26 07:00,41056 Maysville,1,38.640167,-83.75895,2016
+616,Blue-headed Vireo,Vireo solitarius,2016-09-26 07:00,Harmon Hollow Rd.,2,36.725283,-84.9406793,2016
+617,Philadelphia Vireo,Vireo philadelphicus,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+618,Gray-cheeked Thrush,Catharus minimus,2016-09-26 07:00,Harmon Hollow Rd.,2,36.725283,-84.9406793,2016
+619,Wood Thrush,Hylocichla mustelina,2016-09-26 07:00,41056 Maysville,1,38.640167,-83.75895,2016
+620,House/Purple Finch,Haemorhous mexicanus/purpureus,2016-09-26 07:00,41056 Maysville,1,38.640167,-83.75895,2016
+621,Ovenbird,Seiurus aurocapilla,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+622,Nashville Warbler,Leiothlypis ruficapilla,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+623,Hooded Warbler,Setophaga citrina,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+624,American Redstart,Setophaga ruticilla,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+625,Chestnut-sided Warbler,Setophaga pensylvanica,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+626,tanager sp. (Piranga sp.),Piranga sp.,2016-09-26 07:00,41056 Maysville,1,38.640167,-83.75895,2016
+627,Blue Grosbeak,Passerina caerulea,2016-09-26 07:00,Harmon Hollow Rd.,1,36.725283,-84.9406793,2016
+628,Wood Duck,Aix sponsa,2015-09-26 19:15,The Farm,5,37.8958492,-85.3019822,2015
+629,Chimney Swift,Chaetura pelagica,2015-09-26 18:43,Benton Court Square,50,36.8572141,-88.3498631,2015
+630,Mourning Dove,Zenaida macroura,2015-09-26 18:00,Riverpointe,6,39.1106619,-84.4625473,2015
+631,Double-crested Cormorant,Phalacrocorax auritus,2015-09-26 18:00,Riverpointe,2,39.1106619,-84.4625473,2015
+632,Red-bellied Woodpecker,Melanerpes carolinus,2015-09-26 18:00,Riverpointe,2,39.1106619,-84.4625473,2015
+633,Downy Woodpecker,Dryobates pubescens,2015-09-26 18:00,Riverpointe,1,39.1106619,-84.4625473,2015
+634,Blue Jay,Cyanocitta cristata,2015-09-26 18:00,Riverpointe,2,39.1106619,-84.4625473,2015
+635,American Crow,Corvus brachyrhynchos,2015-09-26 18:00,Riverpointe,1,39.1106619,-84.4625473,2015
+636,Carolina Chickadee,Poecile carolinensis,2015-09-26 18:00,Riverpointe,1,39.1106619,-84.4625473,2015
+637,Carolina Wren,Thryothorus ludovicianus,2015-09-26 18:00,Riverpointe,2,39.1106619,-84.4625473,2015
+638,American Robin,Turdus migratorius,2015-09-26 18:00,Riverpointe,122,39.1106619,-84.4625473,2015
+639,Ruby-throated Hummingbird,Archilochus colubris,2015-09-26 17:50,305 Cox Creek Drive,2,36.8421511,-88.3441007,2015
+640,Merlin,Falco columbarius,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+641,Empidonax sp.,Empidonax sp.,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+642,Tufted Titmouse,Baeolophus bicolor,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+643,European Starling,Sturnus vulgaris,2015-09-26 17:50,305 Cox Creek Drive,200,36.8421511,-88.3441007,2015
+644,Brown Thrasher,Toxostoma rufum,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+645,Eastern Bluebird,Sialia sialis,2015-09-26 17:50,305 Cox Creek Drive,11,36.8421511,-88.3441007,2015
+646,Chipping Sparrow,Spizella passerina,2015-09-26 17:50,305 Cox Creek Drive,2,36.8421511,-88.3441007,2015
+647,Eastern Towhee,Pipilo erythrophthalmus,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+648,Northern Parula,Setophaga americana,2015-09-26 17:50,305 Cox Creek Drive,2,36.8421511,-88.3441007,2015
+649,Summer Tanager,Piranga rubra,2015-09-26 17:50,305 Cox Creek Drive,1,36.8421511,-88.3441007,2015
+650,Northern Cardinal,Cardinalis cardinalis,2015-09-26 17:50,305 Cox Creek Drive,3,36.8421511,-88.3441007,2015
+651,Canada Goose,Branta canadensis,2015-09-26 17:46,Pfeiffer Fish Hatchery,125,38.3202455,-84.8226929,2015
+652,Killdeer,Charadrius vociferus,2015-09-26 17:46,Pfeiffer Fish Hatchery,1,38.3202455,-84.8226929,2015
+653,Great Blue Heron,Ardea herodias,2015-09-26 17:46,Pfeiffer Fish Hatchery,83,38.3202455,-84.8226929,2015
+654,Great Egret,Ardea alba,2015-09-26 17:46,Pfeiffer Fish Hatchery,3,38.3202455,-84.8226929,2015
+655,Black Vulture,Coragyps atratus,2015-09-26 17:46,Pfeiffer Fish Hatchery,8,38.3202455,-84.8226929,2015
+656,Turkey Vulture,Cathartes aura,2015-09-26 17:46,Pfeiffer Fish Hatchery,5,38.3202455,-84.8226929,2015
+657,Osprey,Pandion haliaetus,2015-09-26 17:46,Pfeiffer Fish Hatchery,1,38.3202455,-84.8226929,2015
+658,Belted Kingfisher,Megaceryle alcyon,2015-09-26 17:46,Pfeiffer Fish Hatchery,4,38.3202455,-84.8226929,2015
+659,Barn Swallow,Hirundo rustica,2015-09-26 17:46,Pfeiffer Fish Hatchery,1,38.3202455,-84.8226929,2015
+660,Song Sparrow,Melospiza melodia,2015-09-26 17:46,Pfeiffer Fish Hatchery,1,38.3202455,-84.8226929,2015
+661,Wild Turkey,Meleagris gallopavo,2015-09-26 17:10,"Lake Neomia Rd, Clay City",4,37.879681,-83.965776,2015
+662,Northern Flicker,Colaptes auratus,2015-09-26 17:10,"Lake Neomia Rd, Clay City",1,37.879681,-83.965776,2015
+663,White-breasted Nuthatch,Sitta carolinensis,2015-09-26 17:10,"Lake Neomia Rd, Clay City",1,37.879681,-83.965776,2015
+664,Red-winged Blackbird,Agelaius phoeniceus,2015-09-26 17:10,"Lake Neomia Rd, Clay City",1,37.879681,-83.965776,2015
+665,Gray Catbird,Dumetella carolinensis,2015-09-26 16:30,US-KY-Louisville-The Paddock Fields,1,38.283719,-85.499069,2015
+666,Cedar Waxwing,Bombycilla cedrorum,2015-09-26 16:30,US-KY-Louisville-The Paddock Fields,8,38.283719,-85.499069,2015
+667,American Goldfinch,Spinus tristis,2015-09-26 16:30,US-KY-Louisville-The Paddock Fields,4,38.283719,-85.499069,2015
+668,Common Grackle,Quiscalus quiscula,2015-09-26 16:30,US-KY-Louisville-The Paddock Fields,35,38.283719,-85.499069,2015
+669,Indigo Bunting,Passerina cyanea,2015-09-26 16:30,US-KY-Louisville-The Paddock Fields,1,38.283719,-85.499069,2015
+670,Mallard,Anas platyrhynchos,2015-09-26 16:00,McNeely Lake Park,14,38.1057067,-85.6361318,2015
+671,Northern Mockingbird,Mimus polyglottos,2015-09-26 16:00,Chestnut Court,1,37.56795,-84.3058634,2015
+672,House Sparrow,Passer domesticus,2015-09-26 16:00,Chestnut Court,12,37.56795,-84.3058634,2015
+673,House Finch,Haemorhous mexicanus,2015-09-26 16:00,Chestnut Court,6,37.56795,-84.3058634,2015
+674,Orange-crowned Warbler,Leiothlypis celata,2015-09-26 15:00,17010 Meeting House Rd,2,38.1677266,-85.4313397,2015
+675,Yellow-throated Warbler,Setophaga dominica,2015-09-26 15:00,17010 Meeting House Rd,1,38.1677266,-85.4313397,2015
+676,Black-throated Green Warbler,Setophaga virens,2015-09-26 15:00,17010 Meeting House Rd,3,38.1677266,-85.4313397,2015
+677,Wilson's Warbler,Cardellina pusilla,2015-09-26 15:00,glasgow,1,37.0406761,-85.9192657,2015
+678,Common Tern,Sterna hirundo,2015-09-26 14:54,Ashland Park Riverview (KY),1,38.2687499,-85.75758,2015
+679,Lesser Yellowlegs,Tringa flavipes,2015-09-26 13:29,"Cave Run Lake, Shallow Flats",1,38.1005061,-83.4932077,2015
+680,Pileated Woodpecker,Dryocopus pileatus,2015-09-26 13:29,"Cave Run Lake, Shallow Flats",1,38.1005061,-83.4932077,2015
+681,Pied-billed Grebe,Podilymbus podiceps,2015-09-26 13:20,Falls of the Ohio National Wildlife Conservation Area (KY),1,38.2733354,-85.7657962,2015
+682,Least Sandpiper,Calidris minutilla,2015-09-26 13:20,Falls of the Ohio National Wildlife Conservation Area (KY),7,38.2733354,-85.7657962,2015
+683,Spotted Sandpiper,Actitis macularius,2015-09-26 13:20,Falls of the Ohio National Wildlife Conservation Area (KY),1,38.2733354,-85.7657962,2015
+684,Semipalmated Plover,Charadrius semipalmatus,2015-09-26 12:20,Minor E Clark Fish Hatchery,6,38.1177106,-83.5470343,2015
+685,Green Heron,Butorides virescens,2015-09-26 12:20,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+686,Eastern Wood-Pewee,Contopus virens,2015-09-26 12:20,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+687,Rock Pigeon,Columba livia,2015-09-26 11:30,Melco Flood Retention Basin (restricted access),6,38.1519218,-85.7329059,2015
+688,American Golden-Plover,Pluvialis dominica,2015-09-26 11:30,Melco Flood Retention Basin (restricted access),3,38.1519218,-85.7329059,2015
+689,Long-billed Dowitcher,Limnodromus scolopaceus,2015-09-26 11:30,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+690,Cooper's Hawk,Accipiter cooperii,2015-09-26 11:30,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+691,Broad-winged Hawk,Buteo platypterus,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+692,Eastern Phoebe,Sayornis phoebe,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+693,Swainson's Thrush,Catharus ustulatus,2015-09-26 11:30,Cave Run Lake (Bath Co.),3,38.1104834,-83.5234172,2015
+694,Black-and-white Warbler,Mniotilta varia,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+695,Hooded Warbler,Setophaga citrina,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+696,American Redstart,Setophaga ruticilla,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+697,Magnolia Warbler,Setophaga magnolia,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+698,Scarlet Tanager,Piranga olivacea,2015-09-26 11:30,Cave Run Lake (Bath Co.),1,38.1104834,-83.5234172,2015
+699,Blue-winged Teal,Spatula discors,2015-09-26 11:25,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+700,Pectoral Sandpiper,Calidris melanotos,2015-09-26 11:25,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+701,Solitary Sandpiper,Tringa solitaria,2015-09-26 11:25,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+702,Hairy Woodpecker,Dryobates villosus,2015-09-26 11:25,Middle Creek Park (Boone Co.),1,38.9981643,-84.8125112,2015
+703,Ovenbird,Seiurus aurocapilla,2015-09-26 11:25,Middle Creek Park (Boone Co.),1,38.9981643,-84.8125112,2015
+704,Tennessee Warbler,Leiothlypis peregrina,2015-09-26 11:25,Middle Creek Park (Boone Co.),2,38.9981643,-84.8125112,2015
+705,Bay-breasted Warbler,Setophaga castanea,2015-09-26 11:25,Middle Creek Park (Boone Co.),6,38.9981643,-84.8125112,2015
+706,Bald Eagle,Haliaeetus leucocephalus,2015-09-26 10:31,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+707,Peregrine Falcon,Falco peregrinus,2015-09-26 10:31,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+708,Red-eyed Vireo,Vireo olivaceus,2015-09-26 10:31,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+709,Gray-cheeked Thrush,Catharus minimus,2015-09-26 10:31,Minor E Clark Fish Hatchery,1,38.1177106,-83.5470343,2015
+710,Great Crested Flycatcher,Myiarchus crinitus,2015-09-26 10:22,Lexington Cemetery,1,38.0599186,-84.5085526,2015
+711,Pine Warbler,Setophaga pinus,2015-09-26 10:22,Lexington Cemetery,1,38.0599186,-84.5085526,2015
+712,Yellow-billed Cuckoo,Coccyzus americanus,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+713,Wilson's Snipe,Gallinago delicata,2015-09-26 10:20,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+714,Eastern Screech-Owl,Megascops asio,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+715,White-eyed Vireo,Vireo griseus,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,5,36.820279,-88.0027199,2015
+716,Blue-headed Vireo,Vireo solitarius,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+717,Warbling Vireo,Vireo gilvus,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+718,Savannah Sparrow,Passerculus sandwichensis,2015-09-26 10:20,Melco Flood Retention Basin (restricted access),1,38.1519218,-85.7329059,2015
+719,Northern Waterthrush,Parkesia noveboracensis,2015-09-26 10:20,Melco Flood Retention Basin (restricted access),2,38.1519218,-85.7329059,2015
+720,Golden-winged Warbler,Vermivora chrysoptera,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+721,Common Yellowthroat,Geothlypis trichas,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,2,36.820279,-88.0027199,2015
+722,Blackburnian Warbler,Setophaga fusca,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+723,Chestnut-sided Warbler,Setophaga pensylvanica,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+724,Black-throated Blue Warbler,Setophaga caerulescens,2015-09-26 10:20,Land Between The Lakes (KY) -- Energy Lake Rd. MP1,1,36.820279,-88.0027199,2015
+725,Palm Warbler,Setophaga palmarum,2015-09-26 10:20,Melco Flood Retention Basin (restricted access),2,38.1519218,-85.7329059,2015
+726,Blue Grosbeak,Passerina caerulea,2015-09-26 10:20,Melco Flood Retention Basin (restricted access),2,38.1519218,-85.7329059,2015
+727,Green-winged Teal,Anas crecca,2015-09-26 10:00,Melco Flood Retention Basin (restricted access),12,38.1519218,-85.7329059,2015
+728,Winter Wren,Troglodytes hiemalis,2015-09-26 09:45,Anchorage Trail,1,38.2666738,-85.5401262,2015
+729,House Wren,Troglodytes aedon,2015-09-26 09:42,Beaumont Preserve,1,38.0278785,-84.5650291,2015
+730,Sedge Wren,Cistothorus platensis,2015-09-26 09:42,Beaumont Preserve,1,38.0278785,-84.5650291,2015
+731,Rose-breasted Grosbeak,Pheucticus ludovicianus,2015-09-26 09:42,Beaumont Preserve,1,38.0278785,-84.5650291,2015
+732,Acadian Flycatcher,Empidonax virescens,2015-09-26 09:15,Shaker Village of Pleasant Hill,1,37.8217854,-84.7391796,2015
+733,Brown-headed Cowbird,Molothrus ater,2015-09-26 09:15,Shaker Village of Pleasant Hill,3,37.8217854,-84.7391796,2015
+734,American Coot,Fulica americana,2015-09-26 09:00,Freeman Lake,1,37.7190656,-85.8714581,2015
+735,Red-tailed Hawk,Buteo jamaicensis,2015-09-26 09:00,Freeman Lake,1,37.7190656,-85.8714581,2015
+736,Tree Swallow,Tachycineta bicolor,2015-09-26 09:00,Freeman Lake,5,37.7190656,-85.8714581,2015
+737,Red-shouldered Hawk,Buteo lineatus,2015-09-26 08:59,139 Stockton Rd,1,38.1928259,-85.0006199,2015
+738,Sharp-shinned Hawk,Accipiter striatus,2015-09-26 08:45,"Land Between the Lakes (Trigg Co., KY)--Long Creek Area",1,36.8036268,-88.0039664,2015
+739,Yellow-throated Vireo,Vireo flavifrons,2015-09-26 08:45,"Land Between the Lakes (Trigg Co., KY)--Long Creek Area",1,36.8036268,-88.0039664,2015
+740,Philadelphia Vireo,Vireo philadelphicus,2015-09-26 08:45,"Land Between the Lakes (Trigg Co., KY)--Long Creek Area",1,36.8036268,-88.0039664,2015
+741,Red-headed Woodpecker,Melanerpes erythrocephalus,2015-09-26 08:35,Beckley Creek Park--Grand Allee Section,5,38.21077,-85.474903,2015
+742,Field Sparrow,Spizella pusilla,2015-09-26 08:35,Beckley Creek Park--Grand Allee Section,4,38.21077,-85.474903,2015
+743,Eastern Meadowlark,Sturnella magna,2015-09-26 08:35,Beckley Creek Park--Grand Allee Section,2,38.21077,-85.474903,2015
+744,Ruby-crowned Kinglet,Regulus calendula,2015-09-26 08:30,Anchorage Trail,1,38.2666738,-85.5401262,2015
+745,Eurasian Collared-Dove,Streptopelia decaocto,2015-09-26 08:07,Clarks River NWR--Environmental Education and Recreation Area,7,36.8532951,-88.3334188,2015
+746,Yellow-breasted Chat,Icteria virens,2015-09-26 08:07,Clarks River NWR--Environmental Education and Recreation Area,1,36.8532951,-88.3334188,2015
+747,Cackling/Canada Goose,Branta hutchinsii/canadensis,2015-09-26 08:00,"Land Between the Lakes (Lyon Co., KY)--Hillman Ferry Campground",1,36.9467726,-88.1753646,2015
+748,Ring-billed Gull,Larus delawarensis,2015-09-26 08:00,"Land Between the Lakes (Lyon Co., KY)--Hillman Ferry Campground",20,36.9467726,-88.1753646,2015
+749,gull sp.,Larinae sp.,2015-09-26 08:00,"Land Between the Lakes (Lyon Co., KY)--Hillman Ferry Campground",1,36.9467726,-88.1753646,2015
+750,Barred Owl,Strix varia,2015-09-26 08:00,"Land Between the Lakes (Lyon Co., KY)--Hillman Ferry Campground",1,36.9467726,-88.1753646,2015
+751,Blue-gray Gnatcatcher,Polioptila caerulea,2015-09-26 08:00,My Yard,1,39.0618578,-84.5477949,2015
+752,Yellow Warbler,Setophaga petechia,2015-09-26 08:00,My Yard,1,39.0618578,-84.5477949,2015
+753,American Black Duck,Anas rubripes,2015-09-26 07:25,Freeman Lake,2,37.7190656,-85.8714581,2015
+754,Northern Bobwhite,Colinus virginianus,2015-09-26 07:00,glasgow,1,37.0406761,-85.9192657,2015
+755,American Kestrel,Falco sparverius,2015-09-26 07:00,glasgow,1,37.0406761,-85.9192657,2015
+756,Yellow-billed Cuckoo,Coccyzus americanus,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+757,Double-crested Cormorant,Phalacrocorax auritus,2010-09-26 16:30,Casey Creek Embayment,9,37.2206354,-85.2185269,2010
+758,Great Blue Heron,Ardea herodias,2010-09-26 16:30,Casey Creek Embayment,5,37.2206354,-85.2185269,2010
+759,Great Egret,Ardea alba,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+760,Turkey Vulture,Cathartes aura,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+761,Red-tailed Hawk,Buteo jamaicensis,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+762,Red-bellied Woodpecker,Melanerpes carolinus,2010-09-26 16:30,Casey Creek Embayment,7,37.2206354,-85.2185269,2010
+763,Downy Woodpecker,Dryobates pubescens,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+764,Hairy Woodpecker,Dryobates villosus,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+765,Pileated Woodpecker,Dryocopus pileatus,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+766,Northern Flicker,Colaptes auratus,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+767,Empidonax sp.,Empidonax sp.,2010-09-26 16:30,Casey Creek Embayment,3,37.2206354,-85.2185269,2010
+768,Red-eyed Vireo,Vireo olivaceus,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+769,Blue Jay,Cyanocitta cristata,2010-09-26 16:30,Casey Creek Embayment,9,37.2206354,-85.2185269,2010
+770,American Crow,Corvus brachyrhynchos,2010-09-26 16:30,Casey Creek Embayment,4,37.2206354,-85.2185269,2010
+771,Carolina Chickadee,Poecile carolinensis,2010-09-26 16:30,Casey Creek Embayment,8,37.2206354,-85.2185269,2010
+772,Tufted Titmouse,Baeolophus bicolor,2010-09-26 16:30,Casey Creek Embayment,7,37.2206354,-85.2185269,2010
+773,White-breasted Nuthatch,Sitta carolinensis,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+774,Carolina Wren,Thryothorus ludovicianus,2010-09-26 16:30,Casey Creek Embayment,5,37.2206354,-85.2185269,2010
+775,Gray Catbird,Dumetella carolinensis,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+776,Brown Thrasher,Toxostoma rufum,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+777,Swainson's Thrush,Catharus ustulatus,2010-09-26 16:30,Casey Creek Embayment,5,37.2206354,-85.2185269,2010
+778,Common Yellowthroat,Geothlypis trichas,2010-09-26 16:30,Casey Creek Embayment,1,37.2206354,-85.2185269,2010
+779,Black-throated Green Warbler,Setophaga virens,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+780,Summer Tanager,Piranga rubra,2010-09-26 16:30,Casey Creek Embayment,2,37.2206354,-85.2185269,2010
+781,Northern Cardinal,Cardinalis cardinalis,2010-09-26 16:30,Casey Creek Embayment,8,37.2206354,-85.2185269,2010
+782,Rose-breasted Grosbeak,Pheucticus ludovicianus,2010-09-26 16:30,Casey Creek Embayment,4,37.2206354,-85.2185269,2010
+783,Killdeer,Charadrius vociferus,2010-09-26 14:25,Mitchell Lake,50,37.159565,-89.035866,2010
+784,Pectoral Sandpiper,Calidris melanotos,2010-09-26 14:25,Mitchell Lake,2,37.159565,-89.035866,2010
+785,peep sp.,Calidris sp. (peep sp.),2010-09-26 14:25,Mitchell Lake,13,37.159565,-89.035866,2010
+786,Lesser Yellowlegs,Tringa flavipes,2010-09-26 14:25,Mitchell Lake,4,37.159565,-89.035866,2010
+787,Wild Turkey,Meleagris gallopavo,2010-09-26 14:00,Boxwood Dr,10,38.297,-83.244,2010
+788,Mourning Dove,Zenaida macroura,2010-09-26 14:00,Boxend,3,37.5800221,-84.2801456,2010
+789,Ruby-throated Hummingbird,Archilochus colubris,2010-09-26 14:00,Boxend,2,37.5800221,-84.2801456,2010
+790,Eastern Wood-Pewee,Contopus virens,2010-09-26 14:00,Boxend,1,37.5800221,-84.2801456,2010
+791,Eastern Phoebe,Sayornis phoebe,2010-09-26 14:00,Boxwood Dr,1,38.297,-83.244,2010
+792,Eastern Bluebird,Sialia sialis,2010-09-26 14:00,Boxwood Dr,1,38.297,-83.244,2010
+793,American Robin,Turdus migratorius,2010-09-26 14:00,Boxend,3,37.5800221,-84.2801456,2010
+794,House Finch,Haemorhous mexicanus,2010-09-26 14:00,Boxend,3,37.5800221,-84.2801456,2010
+795,American Goldfinch,Spinus tristis,2010-09-26 14:00,Boxend,4,37.5800221,-84.2801456,2010
+796,Black-and-white Warbler,Mniotilta varia,2010-09-26 14:00,Boxend,1,37.5800221,-84.2801456,2010
+797,Tennessee Warbler,Leiothlypis peregrina,2010-09-26 14:00,Boxend,1,37.5800221,-84.2801456,2010
+798,Black Vulture,Coragyps atratus,2010-09-26 11:00,Berea College Forest,3,37.5544274,-84.2409056,2010
+799,Accipiter sp.,Accipiter sp.,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+800,Yellow-bellied Sapsucker,Sphyrapicus varius,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+801,White-eyed Vireo,Vireo griseus,2010-09-26 11:00,Berea College Forest,2,37.5544274,-84.2409056,2010
+802,Philadelphia Vireo,Vireo philadelphicus,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+803,Ruby-crowned Kinglet,Regulus calendula,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+804,Cedar Waxwing,Bombycilla cedrorum,2010-09-26 11:00,Berea College Forest,12,37.5544274,-84.2409056,2010
+805,Chipping Sparrow,Spizella passerina,2010-09-26 11:00,Berea College Forest,8,37.5544274,-84.2409056,2010
+806,Field Sparrow,Spizella pusilla,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+807,Eastern Towhee,Pipilo erythrophthalmus,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+808,American Redstart,Setophaga ruticilla,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+809,Magnolia Warbler,Setophaga magnolia,2010-09-26 11:00,Berea College Forest,6,37.5544274,-84.2409056,2010
+810,Blackburnian Warbler,Setophaga fusca,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+811,Pine Warbler,Setophaga pinus,2010-09-26 11:00,Berea College Forest,2,37.5544274,-84.2409056,2010
+812,Yellow-throated Warbler,Setophaga dominica,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+813,Scarlet Tanager,Piranga olivacea,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+814,Indigo Bunting,Passerina cyanea,2010-09-26 11:00,Berea College Forest,1,37.5544274,-84.2409056,2010
+815,Canada Goose,Branta canadensis,2010-09-26 10:25,Alpha,2,37.182608,-84.658483,2010
+816,Rock Pigeon,Columba livia,2010-09-26 10:25,Alpha,3,37.182608,-84.658483,2010
+817,Osprey,Pandion haliaetus,2010-09-26 10:25,Alpha,1,37.182608,-84.658483,2010
+818,American Kestrel,Falco sparverius,2010-09-26 10:25,Alpha,2,37.182608,-84.658483,2010
+819,European Starling,Sturnus vulgaris,2010-09-26 10:25,Alpha,12,37.182608,-84.658483,2010
+820,Red-winged Blackbird,Agelaius phoeniceus,2010-09-26 10:25,Alpha,75,37.182608,-84.658483,2010
+821,Ovenbird,Seiurus aurocapilla,2010-09-26 10:25,Alpha,1,37.182608,-84.658483,2010
+822,Nashville Warbler,Leiothlypis ruficapilla,2010-09-26 10:25,Alpha,1,37.182608,-84.658483,2010
+823,Cape May Warbler,Setophaga tigrina,2010-09-26 10:25,Alpha,3,37.182608,-84.658483,2010
+824,Palm Warbler,Setophaga palmarum,2010-09-26 10:25,Alpha,1,37.182608,-84.658483,2010
+825,Yellow-rumped Warbler,Setophaga coronata,2010-09-26 10:25,Alpha,1,37.182608,-84.658483,2010
+826,Eastern Meadowlark,Sturnella magna,2010-09-26 09:45,Lewis Co WMA,1,38.684,-83.065,2010
+827,Wood Duck,Aix sponsa,2010-09-26 08:30,Joe Creason Park,2,38.21048,-85.70608,2010
+828,Pied-billed Grebe,Podilymbus podiceps,2010-09-26 08:30,Bernheim Arboretum & Research Forest (Bullitt Co.),1,37.9189287,-85.6611195,2010
+829,Chimney Swift,Chaetura pelagica,2010-09-26 08:30,Joe Creason Park,5,38.21048,-85.70608,2010
+830,Green Heron,Butorides virescens,2010-09-26 08:30,Bernheim Arboretum & Research Forest (Bullitt Co.),1,37.9189287,-85.6611195,2010
+831,Cooper's Hawk,Accipiter cooperii,2010-09-26 08:30,Joe Creason Park,1,38.21048,-85.70608,2010
+832,Bald Eagle,Haliaeetus leucocephalus,2010-09-26 08:30,Bernheim Arboretum & Research Forest (Bullitt Co.),1,37.9189287,-85.6611195,2010
+833,Red-shouldered Hawk,Buteo lineatus,2010-09-26 08:30,Joe Creason Park,3,38.21048,-85.70608,2010
+834,House Wren,Troglodytes aedon,2010-09-26 08:30,Joe Creason Park,1,38.21048,-85.70608,2010
+835,Northern Mockingbird,Mimus polyglottos,2010-09-26 08:30,Bernheim Arboretum & Research Forest (Bullitt Co.),1,37.9189287,-85.6611195,2010
+836,House Sparrow,Passer domesticus,2010-09-26 08:30,Joe Creason Park,10,38.21048,-85.70608,2010
+837,Song Sparrow,Melospiza melodia,2010-09-26 08:30,Joe Creason Park,5,38.21048,-85.70608,2010
+838,Brown-headed Cowbird,Molothrus ater,2010-09-26 08:30,Joe Creason Park,2,38.21048,-85.70608,2010
+839,Common Grackle,Quiscalus quiscula,2010-09-26 08:30,Joe Creason Park,10,38.21048,-85.70608,2010
+840,Chestnut-sided Warbler,Setophaga pensylvanica,2010-09-26 08:30,Joe Creason Park,2,38.21048,-85.70608,2010
+841,Wilson's Warbler,Cardellina pusilla,2010-09-26 08:30,Joe Creason Park,1,38.21048,-85.70608,2010
+842,Sharp-shinned Hawk,Accipiter striatus,2010-09-26 08:00,Nolin Lake & Environs,2,37.3374081,-86.1547852,2010
+843,Broad-winged Hawk,Buteo platypterus,2010-09-26 08:00,Central KY WMA,1,37.6259247,-84.202652,2010
+844,Belted Kingfisher,Megaceryle alcyon,2010-09-26 08:00,Nolin Lake & Environs,1,37.3374081,-86.1547852,2010
+845,Tree Swallow,Tachycineta bicolor,2010-09-26 08:00,Central KY WMA,5,37.6259247,-84.202652,2010
+846,Northern Parula,Setophaga americana,2010-09-26 08:00,Nolin Lake & Environs,1,37.3374081,-86.1547852,2010
+847,Chimney Swift,Chaetura pelagica,2005-09-26 18:15,Waitsboro Rec. Area,30,37.01551,-84.6357729,2005
+848,Laughing Gull,Leucophaeus atricilla,2005-09-26 18:15,Waitsboro Rec. Area,3,37.01551,-84.6357729,2005
+849,Double-crested Cormorant,Phalacrocorax auritus,2005-09-26 18:15,Waitsboro Rec. Area,1,37.01551,-84.6357729,2005
+850,American Golden-Plover,Pluvialis dominica,2005-09-26 08:00,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2005
+851,Killdeer,Charadrius vociferus,2005-09-26 08:00,Crappie Hollow (Blood River),28,36.5777315,-88.1470238,2005
+852,Stilt Sandpiper,Calidris himantopus,2005-09-26 08:00,Crappie Hollow (Blood River),6,36.5777315,-88.1470238,2005
+853,Least Sandpiper,Calidris minutilla,2005-09-26 08:00,Crappie Hollow (Blood River),53,36.5777315,-88.1470238,2005
+854,Pectoral Sandpiper,Calidris melanotos,2005-09-26 08:00,Crappie Hollow (Blood River),8,36.5777315,-88.1470238,2005
+855,Semipalmated Sandpiper,Calidris pusilla,2005-09-26 08:00,Crappie Hollow (Blood River),3,36.5777315,-88.1470238,2005
+856,Western Sandpiper,Calidris mauri,2005-09-26 08:00,Crappie Hollow (Blood River),4,36.5777315,-88.1470238,2005
+857,Lesser Yellowlegs,Tringa flavipes,2005-09-26 08:00,Crappie Hollow (Blood River),1,36.5777315,-88.1470238,2005
+858,Great Blue Heron,Ardea herodias,2005-09-26 08:00,Crappie Hollow (Blood River),55,36.5777315,-88.1470238,2005
+859,Great Egret,Ardea alba,2005-09-26 08:00,Crappie Hollow (Blood River),8,36.5777315,-88.1470238,2005
+860,Snowy Egret,Egretta thula,2005-09-26 08:00,Crappie Hollow (Blood River),2,36.5777315,-88.1470238,2005
+861,Marbled Godwit,Limosa fedoa,2005-09-26 00:00,Jonathan Creek Embayment,1,36.7747921,-88.2284264,2005
+862,American Pipit,Anthus rubescens,2005-09-26,Jonathan Creek Embayment,1,36.7747921,-88.2284264,2005
