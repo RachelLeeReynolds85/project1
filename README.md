@@ -20,6 +20,8 @@
 ![ruby_throated_hummingbird_map](images/ruby_throated_hummingbird_map.png)
 <br>
 <br>
+## State Bird Sightings
+![state_bird_sightings](images/state_bird_sightings.png)
 ## Notable Observations
 ![notable_calliope_hummingbird](images/notable_calliope_hummingbird.png)
 ![notable_observations_all_species_map](images/notable_observations_all_species_map.png)
